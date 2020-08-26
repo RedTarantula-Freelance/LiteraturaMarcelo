@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "O romance Ponciá Vicêncio (2003), de Conceição Evaristo, tem",
+            "answerA": "47 capítulos curtos, sem títulos e sem numeração.",
+            "answerB": "12 capítulos longos, numerados e nomeados.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá Vicêncio é narrado em ",
+            "answerA": "primeira pessoa, por Ponciá.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na narrativa de Ponciá Vicêncio, temos o uso constante ",
+            "answerA": "do discurso indireto livre.",
+            "answerB": "do monólogo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O romance Ponciá Vicêncio inicia com a personagem Ponciá ",
+            "answerA": "ainda criança, com medo de passar debaixo do arco-íris, o angorô, para não virar menino.",
+            "answerB": "já adulta, voltando à casa dos pais junto com seu marido e seus sete filhos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá Vicêncio gostava ",
+            "answerA": "da chuva, da cidade, dos automóveis e do dinheiro.",
+            "answerB": "da roça, do barro, do rio, das canas e do milharal.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O primeiro homem que Ponciá Vicêncio conheceu foi o",
+            "answerA": "irmão, que sempre brigava com ela.",
+            "answerB": "avô, cuja imagem guardava sempre na memória.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Quando Ponciá nasceu, o avô",
+            "answerA": "já era muito velho, andando encurvado.",
+            "answerB": "era ainda muito jovem, cheio de saúde.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando o avô de Ponciá morreu, ela era",
+            "answerA": "já adulta e casada.",
+            "answerB": "ainda menina de colo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Vô Vicêncio não tinha",
+            "answerA": "uma das pernas, que havia sido mutilada.",
+            "answerB": "uma das mãos, já que o braço foi mutilado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Vô Vicêncio costumava ",
+            "answerA": "chorar e rir ao mesmo tempo.",
+            "answerB": "apenas rir, pois nunca chorava.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá nunca esqueceu que o pai disse a ela: que o avô",
+            "answerA": "tinha deixado uma herança para Ponciá.",
+            "answerB": "não tinha deixada nenhuma herança para Ponciá.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O pai de Ponciá ",
+            "answerA": "trabalhava nas terras dos brancos.",
+            "answerB": "não trabalhava porque Ponciá garantia a renda.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá caminhava imitando ",
+            "answerA": "a mãe, em busca do barro no rio.",
+            "answerB": "o avô, com um dos braços escondido.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O pai de Ponciá era ",
+            "answerA": "filho de ex-escravos.",
+            "answerB": "filho de brancos ricos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O pai de Ponciá era pajem do sinhô-moço, ",
+            "answerA": "que o bajulava, dando vários presentes ao pai de Ponciá.",
+            "answerB": "que o humilhava, chegando a mijar na boca do pai de Ponciá.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O sinhô-moço, o coronelzinho, vai ensinando o pai de Ponciá a ler e a escrever, ",
+            "answerA": "ensinando todas as palavras, numa alfabetização completa.",
+            "answerB": "mas, quando viu que os negros poderiam aprender, parou de ensinar, irritado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá adulta, já morando num barraco, gostava de",
+            "answerA": "ficar sentada perto da porta da janela olhando o nada.",
+            "answerB": "ficar de pé na escada vendo o céu estrelado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No romance Ponciá Vicêncio, o marido de Ponciá é chamado de",
+            "answerA": "amor eterno ou marido maravilhoso.",
+            "answerB": "seu homem ou homem de Ponciá.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá Vicêncio",
+            "answerA": "não gostava do seu nome, chegando a inventar outros. ",
+            "answerB": "amava seu nome, chegando a escrevê-lo sempre.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá, adulta, refletia e tinha vontade de",
+            "answerA": "apenas rir, pois vivia feliz na cidade.",
+            "answerB": "chorar e rir, tal como o avô.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O homem de Ponciá trabalhava na",
+            "answerA": "construção civil: vivia cansado e sujo.",
+            "answerB": "roça dos brancos, junto com o pai de Ponciá.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O homem de Ponciá ",
+            "answerA": "às vezes é violento com ela, dando socos.",
+            "answerB": "era extremamente querido com ela, sempre dando carinho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá foi criada",
+            "answerA": "com muita gente ao redor.",
+            "answerB": "sozinha, só com a mãe.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá tinha um irmão, Luandi, que",
+            "answerA": "que sempre brincava com ela, pois ele não precisava trabalhar.",
+            "answerB": "pouco brincava com ela, pois ele acompanhava o pai no trabalho da roça.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O pai e o irmão de Ponciá",
+            "answerA": "vinham todos os dias para casa, sempre presentes.",
+            "answerB": "ficavam muitos dias sem aparecer em casa, ausentes.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A mãe de Ponciá fazia",
+            "answerA": "panelas, potes e bichinhos de barro.",
+            "answerB": "ursinhos, almofadas e presépios de pano.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quem buscava a argila nas margens do rio era",
+            "answerA": "Luandi, que não sabia trabalhar o barro, pois apenas observava a mãe.",
+            "answerB": "Ponciá, que sabia trabalhar muito bem o barro.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá fez com o barro ",
+            "answerA": "um homem baixinho, curvado, magrinho e com o bracinho cotoco para trás, lembrando o avô.",
+            "answerB": "uma mulher alta e ereta, que lembrava muito o milharal.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá Vicêncio primeiro",
+            "answerA": "fez o homenzinho de barro, igual ao avô; depois andou imitando o jeito do avô.",
+            "answerB": "andou imitando o jeito do avô, depois fez o homenzinho de barro, igual ao avô.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O pai de Ponciá diz que o homenzinho de barro",
+            "answerA": "era obra da filha e que não era para dá-lo nem para vendê-lo.",
+            "answerB": "era uma obra ímpar, pronta para ser comercializada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O pai de Ponciá tinha vergonha dos risos e choros do pai, pensando várias vezes em",
+            "answerA": "matar o próprio pai.",
+            "answerB": "imitar o próprio pai.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O pai de Ponciá sabia como matar seu próprio pai se quisesse: era simplesmente fazer o pai",
+            "answerA": "relembrar de tudo que ele havia passado com a escravidão, ferindo a memória dele.",
+            "answerB": "se tocar de um precipício, num crime cruel e perfeito.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na roça, quem vendia os artesanatos de barro ",
+            "answerA": "eram o pai e o irmão de Ponciá, sob as ordens da mãe.",
+            "answerB": "eram Ponciá e sua mãe, sob as ordens do pai.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Ponciá via a mãe dando ordens e o pai e o irmão obedecendo,",
+            "answerA": "ficava triste, porque queria que as mulheres fossem sempre submissas.",
+            "answerB": "ficava feliz, porque achava bom ser mulher.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Quando Ponciá era pequena, estudou ",
+            "answerA": "com o sinhô-moço, que a humilhou.",
+            "answerB": "com missionários, que a alfabetizaram.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá, quando descobriu que seu nome levava acento agudo, ficou",
+            "answerA": "triste: era como se estivesse lançando sobre si mesma uma lâmina afiada.",
+            "answerB": "feliz: o acento lembrava a ascensão que teria anos depois na cidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O sobrenome Vicêncio vinha",
+            "answerA": "do Coronel Vicêncio, senhor da Vila Vicêncio. ",
+            "answerB": "da mãe, que tinha orgulho do sobrenome.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O pai de Ponciá morre ",
+            "answerA": "numa noite de chuva, dentro de casa, de tuberculose.",
+            "answerB": "numa tarde de sol, na colheita, curvando-se e caindo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A notícia da morte do pai só chegou até Ponciá",
+            "answerA": "no mesmo dia, quando o menino Luandi traz o pai arrastado.",
+            "answerB": "quase um mês após, quando o menino Luandi voltou para casa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O romance aponta uma grande crítica: os homens trabalhando nas terras dos senhores, ",
+            "answerA": "mas depois a maior parte das colheitas era entregue aos coronéis.",
+            "answerB": "e depois a maior parte das colheitas ficava com os próprios trabalhadores.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O trem que saía da Vila Vicêncio até a cidade ",
+            "answerA": "demorava às vezes um mês para vir. ",
+            "answerB": "saía todos os dias.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A cidade onde foi morar Ponciá Vicêncio",
+            "answerA": "não é nomeada, sendo uma representação de todas as grandes cidades do Brasil.",
+            "answerB": "é nomeada: a narrativa se passa em Porto Alegre, com todas as indicações.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Ponciá resolve sair da roça e ir para a cidade, ela tinha",
+            "answerA": "dez anos.",
+            "answerB": "dezenove anos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Quando Ponciá diz à mãe que iria tentar a vida na cidade, a mãe",
+            "answerA": "a mãe deu total apoio, já que ali na roça não seria futuro.",
+            "answerB": "tentou fazer a filha ficar, contando os perigos da cidade.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá diz que um dia voltaria para ",
+            "answerA": "buscar a mãe e o irmão. ",
+            "answerB": "para morar sozinha na roça.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá quer ir para a cidade para",
+            "answerA": "repetir a história de sucesso dos seus familiares e amigos.",
+            "answerB": "não ficar na roça repetindo a história dos seus familiares.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá dorme a primeira noite na cidade ",
+            "answerA": "dentro de um cemitério.",
+            "answerB": "na porta da igreja.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá olha para sua trouxa e vê",
+            "answerA": "que havia esquecido o homem-barro em casa.",
+            "answerB": "que havia trazido o homem-barro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá consegue, na cidade, o emprego de",
+            "answerA": "empregada na casa de uma mulher.",
+            "answerB": "ajudante da construção civil.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na cidade, Ponciá gostava ",
+            "answerA": "da ausência, tornando-se alheia de seu próprio eu.",
+            "answerB": "de ajuntamento, onde fazia muitas festas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luandi também sai do povoado e vem",
+            "answerA": "morar numa cidade distante de Ponciá.",
+            "answerB": "para a mesma cidade onde mora Ponciá.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Assim que Ponciá consegue comprar um quartinho na periferia da cidade, ",
+            "answerA": "viajou para a Europa.",
+            "answerB": "retornou ao povoado Vicêncio.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Vô Vicêncio, num ato de rebeldia, ",
+            "answerA": "matou o pai de Ponciá e decepou uma das pernas.",
+            "answerB": "matou a própria mulher e decepou a própria mão.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O vô Vicêncio só não matou o pai de Luandi e Ponciá porque o pai",
+            "answerA": "conseguiu fugir em busca de socorro.",
+            "answerB": "lutou contra seu pai e venceu.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Vô Vicêncio, depois de matar a própria mulher e decepar a mão,",
+            "answerA": "enlouqueceu, sempre chorando e rindo.",
+            "answerB": "se mudou para a cidade, em busca de sossego.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá teve ",
+            "answerA": "um filho, que fugiu para a Europa.",
+            "answerB": "sete filhos, mas nenhum vingou.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá, quando retorna ao povoado, vê uma ",
+            "answerA": "lagartixa dentro do banheiro.",
+            "answerB": "cobra dentro do fogão.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A personagem Nêngua Kainda era uma mulher velha que simbolizava",
+            "answerA": "a sabedoria, a voz ancestral: era uma espécie de sacerdotisa.",
+            "answerB": "a inexperiência, a futilidade: era uma espécie de não cultura.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá recebe a bênção de Nêngua Kainda, que diz que Ponciá ",
+            "answerA": "iria receber, de qualquer forma, a herança deixada pelo avô.",
+            "answerB": "nunca iria receber a herança deixada pelo avô.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Um golpe praticado pelos coronéis contra os trabalhadores negros era",
+            "answerA": "dar muitas terras aos negros, mas depois dar só a metade delas.",
+            "answerB": "ficar com o documento de posse, para que assim as terras voltassem às mãos dos brancos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá volta à cidade trazendo",
+            "answerA": "a herança deixada pelo avô.",
+            "answerB": "o boneco de barro.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luandi admirava o Soldado Nestor porque",
+            "answerA": "o Soldado Nestor era branco e indisciplinado.",
+            "answerB": "o Soldado Nestor era negro e soldado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luandi, na cidade, vira ",
+            "answerA": "catador de papel nas ruas, local onde dorme.",
+            "answerB": "empregado na delegacia, local onde dorme.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luandi tem um objetivo na cidade:",
+            "answerA": "aprender a ler para ser soldado.",
+            "answerB": "aprender a dirigir e comprar um automóvel.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Ponciá volta para a cidade, acontece algo estranho:",
+            "answerA": "tem uma coceira insistente entre os dedos dos pés. ",
+            "answerB": "tem uma coceira insistente entre os dedos das mãos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Além de Ponciá ter uma coceira insistente entre os dedos das mãos, a mão tem cheiro de",
+            "answerA": "barro.",
+            "answerB": "milho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Um dos lugares em que o Soldado Nestor leva Luandi para ver se encontram Ponciá é em",
+            "answerA": "cabarés.",
+            "answerB": "cemitérios.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Luandi retorna ao povoado pela primeira vez, usa",
+            "answerA": "uma roupa de tricô feita por Ponciá.",
+            "answerB": "uma farda velha de soldado emprestada por Nestor.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Segundo o romance, o que pertencia aos negros era",
+            "answerA": "a cana, o café, a lavoura, o gado, as terras. ",
+            "answerB": "a miséria, a fome, o sofrimento, a revolta suicida.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá se sentia ",
+            "answerA": "dona de uma condição de vida extremamente poderosa, com tudo a que tinha direito.",
+            "answerB": "escrava de uma condição de vida que se repetia, de uma herança hereditária.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A mãe de Ponciá, Maria, havia anos que ",
+            "answerA": "vinha andando de povoado a povoado atrás dos filhos, sem sucesso.",
+            "answerB": "tinha se resignado: não queria sair para procurar os filhos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luandi lembra-se do que o pai havia falado sobre as mulheres: elas pareciam",
+            "answerA": "pedras: trancavam algumas vezes o caminho dos homens.",
+            "answerB": "estrelas: iluminavam a noite que existia no peito dos homens.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá gostava de decorar trechos de notícias, e as notícias que são transcritas no romance eram",
+            "answerA": "basicamente notícias trágicas, como: Pedreiro mata a mulher com quinze facadas.",
+            "answerB": "basicamente notícias positivas, como: Pedreiro constrói casa para moradores de rua.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luandi, no povoado, visita Nêngua Kainda, que diz que ",
+            "answerA": "a mãe do rapaz estava morta e que nunca mais se encontrariam.",
+            "answerB": "a mãe do rapaz estava viva e que eles se encontrariam um dia.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Nêngua Kainda olha para a farda do Luandi e começa a rir porque",
+            "answerA": "ele estava num caminho que não era o dele.",
+            "answerB": "ele estava no caminho correto: ser soldado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luandi volta à cidade com o objetivo agora de",
+            "answerA": "não só descobrir o paradeiro da irmã, mas também o da mãe.",
+            "answerB": "viajar para outro país sem mais querer ter notícias da mãe e da irmã.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Um dia o homem de Ponciá bate tanto nela, que ",
+            "answerA": "ela não se defendeu, tornando-se quase muda depois disso. ",
+            "answerB": "ela se defendeu, espancando-o também e denunciando-o às autoridades. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luandi se apaixona por Biliza, que trabalhava ",
+            "answerA": "num circo.",
+            "answerB": "na zona.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Quando Luandi conheceu Bilisa, já havia ",
+            "answerA": "cinco anos ou mais que ela fazia vida na zona e não conseguiu juntar dinheiro algum.",
+            "answerB": "um ano que ela trabalhava na zona e tinha já juntado muito dinheiro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O dinheiro do trabalho de Biliza era repartido ",
+            "answerA": "com a dona da casa e com o Negro Climério, protetor dela e de outras.",
+            "answerB": "com Luandi e com o Soldado Nestor.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Soldado Nestor era",
+            "answerA": "a favor do relacionamento de Luandi e Biliza.",
+            "answerB": "era contra o relacionamento de Luandi: segundo ele, mulher-dama não prestava.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Quem ensina Luandi a ler e a escrever é",
+            "answerA": "o delegado.",
+            "answerB": "o Soldado Nestor.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Nestor leva Luandi a uma exposição de arte popular, onde estavam expostos ",
+            "answerA": "trabalhos do pessoal da Vila Vicêncio, menos os de sua mãe e os de Ponciá.",
+            "answerB": "trabalhos tanto de sua mãe quanto de Ponciá, o que faz Luandi se emocionar.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Maria Vicêncio acha que era hora de ir buscar os filhos, mas Nêngua Kainda ",
+            "answerA": "diz que o tempo não havia desenhado ainda o encontro dos três. ",
+            "answerB": "diz que ela não precisava sair da roça, pois os filhos viriam buscá-la.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O homem de Ponciá, depois que bateu forte na mulher, ",
+            "answerA": "pensa novamente em bater nela, a fim de matá-la.",
+            "answerB": "sentiu remorsos por já ter batido nela tantas vezes.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luandi chama Biliza de ",
+            "answerA": "mulher-estrela-maior. ",
+            "answerB": "mulher-amor-eterno.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Biliza morre vítima de um incêndio em seu quarto provocado por",
+            "answerA": "Luandi.",
+            "answerB": "Negro Climério.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Nêngua Kainda fala para Maria Vicêncio que",
+            "answerA": "o tempo já permitia e abria os caminhos para que a mãe fosse encontrar os filhos.",
+            "answerB": "o tempo não permitia que a mãe fosse encontrar os filhos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Nêngua Kainda, depois de dizer a Maria Vicêncio que era hora de buscar os filhos, ",
+            "answerA": "foge para outra roça.",
+            "answerB": "morre.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Maria Vicêncio vai à cidade; na estação, encontra",
+            "answerA": "o filho, Luandi, que a abraça.",
+            "answerB": "o Soldado Nestor, que a leva onde está Luandi.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O delegado, ao se referir a Climério, despeja estereótipos e preconceitos:",
+            "answerA": "que quase todo branco era vagabundo, baderneiro, ladrão e com propensão ao crime.",
+            "answerB": "que quase todo negro era vagabundo, baderneiro, ladrão e com propensão ao crime.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luandi recebe uma notícia positiva:",
+            "answerA": "a papelada que faria dele soldado tinha chegado.",
+            "answerB": "a papelada que faria dele advogado tinha chegado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ponciá, adulta, começa a ter uma mania: ",
+            "answerA": "ficar deitada na cama o dia todo. ",
+            "answerB": "andar em círculos dentro do pequeno espaço do barraco.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá Vicêncio toma uma decisão:",
+            "answerA": "iria tomar o trem, voltar ao povoado, voltar ao rio.",
+            "answerB": "iria ficar permanentemente ali na cidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O primeiro local, fora da delegacia, em que o Soldado Luandi José Vicêncio tiraria serviço seria ",
+            "answerA": "na estação.",
+            "answerB": "na zona.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quem Luandi encontra na estação?",
+            "answerA": "Ponciá, que ia e vinha, num caminhar sem nexo, quase em círculo.",
+            "answerB": "a mãe, Maria, que estava deitada em um banco da estação.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No final do romance, Ponciá, Luandi e Maria",
+            "answerA": "permanecem na cidade.",
+            "answerB": "voltam para a roça.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá, no final, se reencontra ",
+            "answerA": "com o arco-íris, com o rio, com o barro, com a família.",
+            "answerB": "com o marido, com o barraco, com o emprego.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Qual é a herança que o Vô Vicêncio deixou para Ponciá?",
+            "answerA": "um bem material: uma casa gigantesca, toda mobiliada, e uma quantia em dinheiro.",
+            "answerB": "uma herança biológica, hereditária, de mesma sina: uma herança diaspórica. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ponciá Vicêncio pode ser considerado um romance de",
+            "answerA": "autoajuda apenas, pela história de sucesso da protagonista. ",
+            "answerB": "formação, porque acaba descrevendo os caminhos da protagonista.",
+            "correctAnswer": "B"
+        }
+    ]
+}

@@ -5,28 +5,31 @@
             "title": "Teste 1",
             "description": "1",
             "abrev": "test1",
+            "file": "",
             "lastAnsweredQuestion": 0,
             "correctAnswers": 0,
             "averagescore": 0,
             "bestscore": 0,
-            "timesAnswered": 1
+            "timesAnswered": 0
         },
         {
             "id": 1,
             "title": "Teste 2",
             "description": "Arrombado nojento",
             "abrev": "test1",
+            "file": "",
             "lastAnsweredQuestion": 0,
             "correctAnswers": 0,
-            "averagescore": 41,
-            "bestscore": 66,
-            "timesAnswered": 2
+            "averagescore": 0,
+            "bestscore": 0,
+            "timesAnswered": 0
         },
         {
             "id": 2,
             "title": "Teste 3",
             "description": "Eu amo a minha mamãe",
             "abrev": "test1",
+            "file": "",
             "lastAnsweredQuestion": 0,
             "correctAnswers": 0,
             "averagescore": 0,
@@ -38,6 +41,7 @@
             "title": "Teste 4",
             "description": "ALELUIA",
             "abrev": "test1",
+            "file": "",
             "lastAnsweredQuestion": 0,
             "correctAnswers": 0,
             "averagescore": 0,

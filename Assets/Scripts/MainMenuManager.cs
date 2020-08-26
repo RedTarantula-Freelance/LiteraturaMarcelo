@@ -5,6 +5,49 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuManager : MonoBehaviour
 {
+
+    public AudioManager am;
+
+
+    private void Start()
+    {
+        am = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+
+        if (PlayerPrefs.HasKey("MusicVolume"))
+        {
+            SetMusicVolume(PlayerPrefs.GetFloat("MusicVolume"));
+        }
+        if (PlayerPrefs.HasKey("SFXVolume"))
+        {
+            SetSFXVolume(PlayerPrefs.GetFloat("SFXVolume"));
+        }
+    }
+
+    private void OnApplicationQuit()
+    {
+        PlayerPrefs.Save();
+        Debug.Log(PlayerPrefs.GetFloat("MusicVolume"));
+    }
+
+    public void PlayButtonSFX(int id)
+    {
+        am.PlayButtonSFX(id);
+    }
+    
+    public void SetMusicVolume(float volume)
+    {
+        PlayerPrefs.SetFloat("MusicVolume",volume);
+        if(am != null)
+        am.SetVolumeFloat(volume,"Music");
+    }
+    public void SetSFXVolume(float volume)
+    {
+        PlayerPrefs.SetFloat("SFXVolume",volume);
+        if(am != null)
+        am.SetVolumeFloat(volume,"SFX");
+        //am.PlayAnswer(true);
+    }
+
     public void GoToScene(string scene)
     {
         SceneManager.LoadScene(scene,LoadSceneMode.Single);

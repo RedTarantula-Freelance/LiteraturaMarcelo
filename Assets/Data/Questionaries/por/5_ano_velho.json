@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "Em Feliz ano velho, no prefácio há uma conversa entre",
+            "answerA": "Luís Travassos e Marcelo Rubens.",
+            "answerB": "Caio Fernando Abreu e Erico Verissimo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no prefácio aparece Luís Travassos, que foi",
+            "answerA": "inimigo pessoal de Marcelo Rubens Paiva.",
+            "answerB": "ativista, líder estudantil durante a ditadura militar e amigo de Marcelo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o autor dedica o livro a ",
+            "answerA": "Luís Travassos, que faleceu em 1982 e não conseguiu ler todo o livro.",
+            "answerB": "Lídia Brondi, atriz brasileira de novelas e filmes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “Biiiiiiin”, ficamos sabendo",
+            "answerA": "de que modo o narrador comete o suicídio.",
+            "answerB": "de que modo o narrador fica tetraplégico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador sobe numa pedra e pula ",
+            "answerA": "com a pose do Tio Patinhas.",
+            "answerB": "com a pose de Mickey Mouse.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador, ao pular, ",
+            "answerA": "bate as pernas no chão, não ouve mais nada e não consegue mexer as pernas apenas. ",
+            "answerB": "bate a cabeça no chão, ouve a melodia biiiiiiin e não consegue mexer nem os braços nem as pernas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o professor Urtiga ",
+            "answerA": "abandona o narrador em sua queda.",
+            "answerB": "faz uma respiração boca a boca no narrador. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, depois do acidente, deitam o narrador numa tábua, entram numa Kombi e o levam",
+            "answerA": "para um pronto-socorro.",
+            "answerB": "para a Unicamp.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “Do lado de cá dos trilhos”, ",
+            "answerA": "o narrador fala exclusivamente sobre suas paixões.",
+            "answerB": "o narrador fala um pouco sobre seu nascimento.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador conta que é filho de ",
+            "answerA": "pai jogador de futebol e mãe cantora.",
+            "answerB": "pai engenheiro e mãe advogada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador conta que, aos 17 anos, nas férias, ",
+            "answerA": "foi ao Paraguai junto com seu amigo Fabião.",
+            "answerB": "foi aos Estados Unidos com a mãe, Eunice.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, na frase “A Argentina e o Paraguai riram de nós como quem diz: Enganamos mais dois trouxas”, esse “nós” refere-se ",
+            "answerA": "ao narrador e seu pai, Rubens Paiva.",
+            "answerB": "ao narrador e seu amigo Fabião.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “UTI – Unidade de Terapia Intensiva”, o narrador acorda ",
+            "answerA": "e está com um caninho que entrava em sua veia; do outro, um com sangue. ",
+            "answerB": "e vê que está pronto para ir para casa, pois o acidente não foi nada grave.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, qual a frase que completa o trecho: Tentei me erguer, mas não consegui. É mesmo, ",
+            "answerA": "mexia somente as pernas.",
+            "answerB": "não mexia nada. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador fica sabendo que foi operado e ",
+            "answerA": "está lúcido, lembrando-se perfeitamente do acidente e do seu passado.",
+            "answerB": "não está lúcido, com vários lapsos de memória. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, na UTI, o narrador, ao ver sua mãe, ",
+            "answerA": "sente uma grande felicidade em relatar seu pulo extremamente corajoso. ",
+            "answerB": "sente vergonha pela cagada que fez: atirar-se num lago de meio metro, bêbado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, a mãe diz ao filho, o narrador, ",
+            "answerA": "que ele fraturou apenas a perna esquerda. ",
+            "answerB": "que ele quebrou a quinta vértebra cervical e comprimiu a medula.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o tempo em que o narrador fica ali acaba virando ",
+            "answerA": "uma rotina: visão do teto branco, limpeza, repouso, tédio e solidão.",
+            "answerB": "uma grande felicidade: consegue sair do quarto e visitar os blocos do hospital.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, na UTI, ",
+            "answerA": "só a mãe e as irmãs podem entrar. ",
+            "answerB": "ninguém pode entrar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador olha-se no espelho e vê que ",
+            "answerA": "estava ainda bonito, cabeludo e jovial.",
+            "answerB": "estava careca, cheio de espinhas e com a cara inchada. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador estuda",
+            "answerA": "Engenharia Agrícola na Unicamp.",
+            "answerB": "Medicina Veterinária na USP.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador mora numa casa ",
+            "answerA": "com vários colegas, entre eles Nana, Gureti, Helô, Mariúsa e Cassy.",
+            "answerB": "sozinho, pois é um ser solitário.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, uma das amigas que o visitam na UTI é",
+            "answerA": "Lia: loira, baiana, engajada contra a ditadura.",
+            "answerB": "Nana: loira, pernambucana, linda. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador tem",
+            "answerA": "quatro irmãs.",
+            "answerB": "um irmão apenas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador fala da mãe, que",
+            "answerA": "transmite uma insegurança por tudo o que já passou na vida.",
+            "answerB": "transmite uma segurança incrível por tudo o que já passou na vida.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, dão várias versões para o sumiço do pai do narrador: ",
+            "answerA": "preso na própria casa, isolado na Ásia, preso num galpão, internado na Casa Verde.",
+            "answerB": "preso em Fernando de Noronha, preso no Xingu, num hospício, exilado no Uruguai.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador diz que uma maneira de passar o tempo foi pegar uma determinada pessoa e",
+            "answerA": "lembrar todos os momentos em que ele esteve com ela, as conversas.",
+            "answerB": "esquecer tudo sobre ela, pois o passado não importa na narrativa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador adora a atriz",
+            "answerA": "Luiza Brunet.",
+            "answerB": "Lídia Brondi. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador fica sabendo que em pouco tempo já poderá",
+            "answerA": "sentar numa cadeira de rodas e fazer fisioterapia.",
+            "answerB": "sair dali caminhando e recuperado. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador lê o livro",
+            "answerA": "O que é isso, companheiro?, de Fernando Gabeira.",
+            "answerB": "O alquimista, de Paulo Coelho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, a leitura de Fernando Gabeira é importante para o narrador, porque",
+            "answerA": "é algo que não lembra a vida do narrador, o que traz algo positivo para o ambiente hospitalar.",
+            "answerB": "é quase uma intertextualidade com o que aconteceu com o narrador quando tinha 12 anos. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador promete que, assim que sair do hospital, a primeira coisa que faria seria ",
+            "answerA": "abrir a janela, para receber a brisa da Avenida Paulista no rosto.",
+            "answerB": "correr pelado na Rua Augusta para mostrar sua felicidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador vê que chegou o Natal, ",
+            "answerA": "momento egoísta e solitário.",
+            "answerB": "momento de amizade e de solidariedade.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o nome da fisioterapeuta do narrador no hospital é ",
+            "answerA": "Rosana: linda, simpática e falante.",
+            "answerB": "Stella: feia, ignorante e egoísta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no último dia do ano de 1979, há a música Adeus, Ano Velho, Feliz Ano-Novo, mas, para o narrador,",
+            "answerA": "há apenas uma inclusão na música: Adeus, Ano Velho, Feliz Ano Novo, amém.",
+            "answerB": "há uma mudança na música: Feliz Ano Velho, Adeus, Ano Novo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, no último dia do ano de 1979, o narrador faz a seguinte promessa:",
+            "answerA": "Se eu não voltar a andar, darei um jeito qualquer pra me matar.",
+            "answerB": "Se eu não voltar a andar, darei um jeito de dormir apenas no hospital. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador lembra-se de ",
+            "answerA": "Lúcia e Marina, antigos amores.",
+            "answerB": "Débora e Eduarda, antigas vizinhas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “Hospital Paraíso, São Paulo”, tiram um raio x da vértebra do narrador, e o resultado ",
+            "answerA": "é que sua coluna está em ordem, a vértebra em perfeitas condições.",
+            "answerB": "é que sua coluna estava ruim, ainda em frangalhos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, nota-se uma linguagem",
+            "answerA": "extremamente rebuscada.",
+            "answerB": "simples, com uso de gírias.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, há a abordagem sobre o comportamento de cada pessoa, ",
+            "answerA": "seus preconceitos, o machismo. ",
+            "answerB": "mas não fala sobre preconceitos e machismo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o pai do narrador, Rubens Paiva,",
+            "answerA": "era jogador de futebol e soldado.",
+            "answerB": "era engenheiro e político.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, vários ",
+            "answerA": "políticos visitavam a casa dos pais do narrador.",
+            "answerB": "jogadores de futebol visitavam a casa dos pais do narrador.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no dia 20 de janeiro de 1971, ",
+            "answerA": "a casa dos pais do narrador foi invadida por fãs enlouquecidos pelo sucesso do narrador.",
+            "answerB": "a casa dos pais do narrador foi invadida por seis militares à paisana, armados com metralhadoras. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, quando a casa dos pais do narrador foi invadida por militares à paisana, o narrador tinha",
+            "answerA": "doze anos.",
+            "answerB": "vinte anos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, a mãe e uma das irmãs do narrador ",
+            "answerA": "são mortas num interrogatório do Exército.",
+            "answerB": "são interrogadas no quartel da Barão de Mesquita, Polícia do Exército. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, prendem o pai do narrador em 1971, e a versão dada pelo Exército é que ele ",
+            "answerA": "fugiu.",
+            "answerB": "cometeu suicídio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador diz que não é matando um corpo que se elimina um homem, e que ",
+            "answerA": "Rubens Paiva está vivo em muitas pessoas. ",
+            "answerB": "Rubens Paiva não seria mais lembrado por ninguém.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador sabia tocar ",
+            "answerA": "bateria e atabaque.",
+            "answerB": "guitarra, violão e baixo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, a avó do narrador é ",
+            "answerA": "italiana, de uma família de anarquistas.",
+            "answerB": "alemã, de uma família de colonizadores.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no hospital há a visita do casal Virgínia e o Olaf. O narrador",
+            "answerA": "chegou a gostar de Virgínia, apesar de não ter ficado com ela.",
+            "answerB": "não chegou a gostar de Virgínia, apesar de ela ter se apaixonado por ele.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, a namorada do narrador era ",
+            "answerA": "Marcinha, apesar de ser um namoro confuso. ",
+            "answerB": "Veroca, apesar de ser sua prima. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador ",
+            "answerA": "era totalmente alienado, sem se preocupar com as questões do movimento estudantil.",
+            "answerB": "dedica-se ao movimento estudantil, eleito presidente do Centro de Engenharia Agrícola. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador tem que usar",
+            "answerA": "um protetor bucal.",
+            "answerB": "um colete para o pescoço.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, vemos a passagem do tempo, e uma das citadas no hospital é ",
+            "answerA": "a Páscoa.",
+            "answerB": "o carnaval.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador recebe visitas políticas, ",
+            "answerA": "e uma delas é de Neuza Brizola, esposa de Leonel Brizola.",
+            "answerB": "e uma delas é de Lula, líder sindical.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador é filiado ",
+            "answerA": "ao PTB, partido de Brizola. ",
+            "answerB": "ao PT, partido de Lula.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador teve ",
+            "answerA": "uma lesão medular na quinta cervical, com fratura na vértebra.",
+            "answerB": "uma lesão na mão direita, com fratura no ombro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador, no carnaval, compõe seu samba enredo, cujo final é",
+            "answerA": "Mamãe, eu quero... sair daqui!!!",
+            "answerB": "Mamãe, eu quero... comer pizza!!!",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador culpa ",
+            "answerA": "ele mesmo pela situação; está assim por cagada própria.",
+            "answerB": "a mãe pela situação; por causa dela é que ele bebia.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador tinha uma dupla musical: ",
+            "answerA": "Bunds e Rubens. ",
+            "answerB": "Cassy e Paiva. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, a dupla Cassy e Paiva",
+            "answerA": "tocavam covers de Gilberto Gil e Caetano Veloso, fazendo pequenas apresentações.",
+            "answerB": "tocavam apenas músicas próprias, sem nunca se apresentarem. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, Cassy e Paiva inscrevem-se em um ",
+            "answerA": "concurso de jovens talentos da TV Record.",
+            "answerB": "festival de música da TV Cultura.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, a música classificada no Festival da TV Cultura é",
+            "answerA": "Bamba Novo, letra do narrador.",
+            "answerB": "Cemitério Blues, letra de Cassy.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, quem vence o festival da TV Cultura é",
+            "answerA": "Tom Zé.",
+            "answerB": "Arrigo Barnabé.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, depois do Festival da TV Cultura, o narrador consegue convites para que sua banda toque: o nome da banda é",
+            "answerA": "Os Legais.",
+            "answerB": "Os Bostas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador ouvia falar de um ",
+            "answerA": "tal de Lula, líder sindical em São Bernardo do Campo.",
+            "answerB": "tal de Collor, líder da política nacional.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “Apartamento”, o narrador",
+            "answerA": "volta para Campinas, em companhia dos amigos.",
+            "answerB": "volta para o apartamento onde viveu com a família.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, no apartamento, contratam um enfermeira para cuidar do narrador:",
+            "answerA": "Stella, feia e exótica.",
+            "answerB": "Lorena, linda e culta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no apartamento, contratam um fisioterapeuta para o narrador:",
+            "answerA": "Cassy.",
+            "answerB": "Osório. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador sai de carro com os amigos e entram ",
+            "answerA": "na Avenida Paulista. ",
+            "answerB": "na Avenida Carioca.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “Uma Paulista chamada avenida”, o narrador diz que São Paulo é",
+            "answerA": "a cidade atrasada, do mundo rural.",
+            "answerB": "a cidade da máquina, do digital, da tomada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, levam o narrador até o cinema para assistir ao filme ",
+            "answerA": "Macunaíma, com o ator Grande Otelo.",
+            "answerB": "Z, do Costa-Gavras, liberado após 10 anos de censura.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, quando o narrador está no cinema, um homem força passagem e empurra as pernas do narrador. Nana diz:",
+            "answerA": "Porra, ele é paralítico!",
+            "answerB": "Olá, pode passar...",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador não sabe bem o que ele é: ",
+            "answerA": "se doente, asmático, tuberculoso....",
+            "answerB": "se aleijado, paralítico, acidentado... ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, no apartamento, o narrador ",
+            "answerA": "tem contrações involuntárias na perna.",
+            "answerB": "não tem nenhuma contração.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador evoca um namoro que teve com",
+            "answerA": "Marina.",
+            "answerB": "Veroca.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, ao terminar o namoro do narrador com Marina, ele diz que ela queria",
+            "answerA": "um homem que incentivasse sua independência.",
+            "answerB": "um homem que a protegesse, um machista. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador tem consultas com uma psicóloga chamada",
+            "answerA": "Stella, que trabalhava num centro de reabilitação.",
+            "answerB": "Eli, que trabalhava na BBB.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador se apavora ao saber ",
+            "answerA": "que era tetraplégico. ",
+            "answerB": "que era somente um acidentado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador fica sabendo que as lesões de medula ",
+            "answerA": "são a parte mais avançada na ciência médica.",
+            "answerB": "são a parte mais atrasada na ciência médica. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, em alguns momentos, o narrador queria ",
+            "answerA": "voltar no tempo até o momento antes de dar o salto infeliz.",
+            "answerB": "voltar no tempo e se atirar de novo, porque não se arrepende da queda.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador, depois de cinco meses, ",
+            "answerA": "tira a sonda que estava no seu pênis.",
+            "answerB": "volta a andar. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador tem uma notícia ruim: ",
+            "answerA": "vai ter que operar as pernas porque estão totalmente sem movimento. ",
+            "answerB": "vai ter que operar o pescoço de novo, tirar um calo e colocar dois pinos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador, no hospital, recebe o livro",
+            "answerA": "Minha profissão é andar, de João Carlos Pecci. ",
+            "answerB": "O filho eterno, de Cristóvão Tezza.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o livro Minha profissão é andar, de João Carlos Pecci, ",
+            "answerA": "narra toda a biografia de João Carlos Pecci, sem falar sobre reabilitação.",
+            "answerB": "narra toda a trajetória da reabilitação de João Carlos Pecci.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador, em determinado momento, pensa",
+            "answerA": "em escrever também um livro contando a sua trajetória.",
+            "answerB": "em nunca escrever um livro contando a sua trajetória.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador escreve ",
+            "answerA": "uma resenha para a Editora Leia Livros sobre o livro de João Carlos Pecci.",
+            "answerB": "uma crônica sobre a reabilitação de alguns acidentados. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, a enfermeira Stella é demitida e ",
+            "answerA": "é contratado um novo enfermeiro.",
+            "answerB": "não contratam nenhum enfermeiro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador e o novo enfermeiro ",
+            "answerA": "brigam a todo momento.",
+            "answerB": "fumam maconha juntos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, contratam uma terapeuta ocupacional para o narrador. Ela diz que o narrador ",
+            "answerA": "tem que ser mais independente.",
+            "answerB": "tem que ser mais dependente.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, a certa altura do livro,",
+            "answerA": "a vértebra do narrador se consolida e ele estava liberado para um tratamento de fisioterapia mais intensivo.",
+            "answerB": "a vértebra do narrador não se consolida e ele não mais pode fazer fisioterapia.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador conhece, no centro de reabilitação, um personagem chamado Sílvio, que diz ao narrador que ",
+            "answerA": "o futuro será muito negativo e fisioterapia não é importante.",
+            "answerB": "o passado aconteceu, foi bom, mas não volta mais. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador diz que torce para os times",
+            "answerA": "Inter e Grêmio.",
+            "answerB": "Flamengo e Corinthians.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Feliz ano velho, de Marcelo Rubens Paiva, é ",
+            "answerA": "um romance autobiográfico.",
+            "answerB": "um conto psicografado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o novo enfermeiro leva o narrador para ver",
+            "answerA": "um jogo no Pacaembu: Corinthians x Guarani. ",
+            "answerB": "uma peça de teatro: Hamlet.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no capítulo “Início de dezembro – 1980”, o narrador",
+            "answerA": "lembra que já faz 5 anos que aconteceu o acidente.",
+            "answerB": "lembra que já faz quase um ano do acidente.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador diz que agora é um outro Marcelo, o ",
+            "answerA": "Marcelo Paiva.",
+            "answerB": "Marcelo Rodas. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador diz que seu futuro é ",
+            "answerA": "cheio de incertezas. ",
+            "answerB": "cheio de certezas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, o narrador diz que, nas noites de insônia, lembra ",
+            "answerA": "de um garoto normal que subiu numa pedra e se atirou.",
+            "answerB": "apenas dos momentos em que ficou na UTI.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Feliz ano velho, no final da obra, o narrador relembra ",
+            "answerA": "as cenas iniciais, em que pulou com a pose do Tio Patinhas e bateu a cabeça no chão, pondo os verbos na terceira pessoa. ",
+            "answerB": "as mesmas palavras do início, mas dizendo que tudo foi só um sonho, com os verbos ainda na primeira pessoa. ",
+            "correctAnswer": "A"
+        }
+    ]
+}

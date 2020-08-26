@@ -15,10 +15,13 @@ public class QuestButton : MonoBehaviour
     public Sprite emptyStar, halfStar, fullStar;
 
     public GameObject manager;
-    
+    public AudioManager am;
+
     void Start()
     {
         manager = GameObject.Find("Manager");
+        am = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+
     }
 
     public void CreateButton(int _id, string _abrev, int _score)
@@ -34,6 +37,7 @@ public class QuestButton : MonoBehaviour
     public void SelectQuestionary()
     {
         manager.GetComponent<DisciplinesMenuManager>().SelectQuestionary(id);
+        am.PlayButtonSFX(0);
     }
 
     public void CalculateStars()

@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "Em Bagagem, de Adélia Prado, há",
+            "answerA": "113 poemas.",
+            "answerB": "55 poemas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a primeira parte é intitulada ",
+            "answerA": "O modo poético, com 66 poemas.",
+            "answerB": "As bagagens, com 12 poemas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a segunda parte é intitulada ",
+            "answerA": "Sem jeito e sem amor, com 50 poemas.",
+            "answerB": "Um jeito e amor, com 19 poemas. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a terceira parte é intitulada ",
+            "answerA": "A sarça ardente – I, com 14 poemas. ",
+            "answerB": "A sensual vida – I, com 70 poemas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a quarta parte é intitulada ",
+            "answerA": "A sensual vida – II, com 1 poema somente.",
+            "answerB": "A sarça ardente – II, com 13 poemas. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a parte final é intitulada ",
+            "answerA": "Alfândega, espécie de fechamento, com um só poema de mesmo nome.",
+            "answerB": "Estação, espécie de resumo, com 20 poemas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a religiosidade e o erotismo são duas constantes, ",
+            "answerA": "mas sempre constituindo antíteses.",
+            "answerB": "sem constituírem antíteses. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, a sexualidade está ligada a uma necessidade de ",
+            "answerA": "se descobrir e se (res)significar enquanto mulher. ",
+            "answerB": "prazer apenas, sem nenhum sentido para a mulher.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, em diversos poemas, o eu lírico faz alusão ",
+            "answerA": "à presença da religiosidade em seu cotidiano e no ato de escrever. ",
+            "answerB": "à presença da religiosidade apenas no âmbito da Igreja, não fora dela.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, há religiosidade porque a autora ",
+            "answerA": "recebeu forte educação católica desde menina.",
+            "answerB": "processa aquilo que não recebeu, de forma irônica.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, de Adélia Prado, Deus está ",
+            "answerA": "fora do alcance do livro.",
+            "answerB": "em todas as coisas, por todos os lados.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Antes de ser publicado o livro Bagagem, Adélia Prado enviou os originais ",
+            "answerA": "ao poeta e crítico literário o Affonso Romano de Sant'Anna.",
+            "answerB": "ao poeta moderno Vinícius de Moraes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Affonso Romano de Sant'Anna pediu apreciação dos poemas de Bagagem ao poeta",
+            "answerA": "Carlos Drummond de Andrade, que solicita à Editora Imago que publique o livro.",
+            "answerB": "Mário Quintana, que não consegue publicação imediata, mas só anos depois.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Bagagem é o",
+            "answerA": "terceiro livro de Adélia Prado.",
+            "answerB": "primeiro livro de Adélia Prado, sua estreia.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Bagagem é lançado em ",
+            "answerA": "em 1976, quando Adélia Prado tinha 40 anos. ",
+            "answerB": "em 1950, quando Adélia Prado tinha 14 anos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Uma das frases de Adélia Prado é:",
+            "answerA": "Eu sou violão de Bossa Nova: várias notas, vários temas.",
+            "answerB": "Eu sou piano de uma nota só, sempre digo as mesmas coisas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Adélia Prado é apaixonada pela linguagem",
+            "answerA": "poética dos salmos.",
+            "answerB": "simples da crônica.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, Adélia Prado insere como epígrafes ",
+            "answerA": "alguns salmos e alguns cânticos. ",
+            "answerB": "apenas manchetes de jornal.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Adélia Prado há ",
+            "answerA": "o mundo urbano e toda sua moderna.",
+            "answerB": "a natureza rural, a vida provinciana.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Adélia Prado é a poeta ",
+            "answerA": "da vida vidinha, da vida minúscula.",
+            "answerB": "da vida moderna, da vida urbana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, os temas preferenciais são",
+            "answerA": "a velhice, o marido, os filhos, a casa...",
+            "answerB": "apenas e tão somente a violência urbana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, há a experiência ",
+            "answerA": "de recuperação da memória.",
+            "answerB": "de anunciação apenas do futuro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Para Adélia Prado, poesia é",
+            "answerA": "trabalho, suor, transpiração... ",
+            "answerB": "totalmente confessional, nascida da inspiração divina. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, a intertextualidade aparece em poemas como",
+            "answerA": "O sonho.",
+            "answerB": "Com licença poética.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, o poema Com licença poética é uma",
+            "answerA": "paráfrase do Poema de sete faces, de Carlos Drummond de Andrade.",
+            "answerB": "paródia do Poeminha do contra, de Mário Quintana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema A invenção de um modo, o verso final é ",
+            "answerA": "Tudo é tudo. Tudo é nada.",
+            "answerB": "Tudo é Bíblias. Tudo é Grande Sertão. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Bilhete em papel rosa, há uma homenagem ao poeta romântico",
+            "answerA": "Castro Alves.",
+            "answerB": "Gonçalves Dias.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, o poema Agora, ó José, retoma o famoso poema",
+            "answerA": "Ismália, de Alphonsus de Guimaraens.",
+            "answerB": "José, de Carlos Drummond de Andrade.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, o poema Reza para as quatro almas de Fernando Pessoa trabalha a questão dos ",
+            "answerA": "heterônimos de Fernando Pessoa.",
+            "answerB": "pseudônimos árcades.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, encontramos ",
+            "answerA": "a poesia do cotidiano trivial.",
+            "answerB": "a poesia do grandiloquente.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, Adélia Prado utiliza",
+            "answerA": "versos livres.",
+            "answerB": "métrica rigorosa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, Adélia Prado ",
+            "answerA": "não utiliza rimas.",
+            "answerB": "sempre utiliza rimas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, Adélia Prado utiliza, em sua grande maioria, poemas",
+            "answerA": "com várias estrofes.",
+            "answerB": "com uma única estrofe.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, os poemas de Adélia Prado ",
+            "answerA": "reproduzem uma ideologia social.",
+            "answerB": "são mais ligados à tradição bíblica.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, Adélia Prado utiliza uma linguagem",
+            "answerA": "coloquial e espontânea.",
+            "answerB": "extremamente barroca.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, na primeira parte, intitulada O modo poético, há uma epigrafe retirada ",
+            "answerA": "dos salmos.",
+            "answerB": "das cartas informativas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, o poema Com licença poética traz um anjo",
+            "answerA": "esbelto, dentro da tradição cristã.",
+            "answerB": "torto, fortemente contestador.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, o poema Com licença poética diz que aquilo que eu lírico sente, ele",
+            "answerA": "omite.",
+            "answerB": "escreve. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Com licença poética, Adélia Prado diz que ser coxo na vida é maldição ",
+            "answerA": "para homem. ",
+            "answerB": "para mulher.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Com licença poética, a definição de mulher é",
+            "answerA": "desdobrável. ",
+            "answerB": "frágil. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Grande desejo, o eu lírico diz que é",
+            "answerA": "mulher da elite, mãe orgulhosa, Amélia.",
+            "answerB": "mulher do povo, mãe de filhos, Adélia. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Sensorial, o eu lírico diz que espírito, se for de Deus, adora, mas, se for de homem,",
+            "answerA": "nega, sem usar nenhum dos sentidos.",
+            "answerB": "testa com seus seis instrumentos. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, o poema Antes do nome é",
+            "answerA": "metapoético.",
+            "answerB": "satírico.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no Poema sobre absorvências no totalmente perplexas de Guimarães Rosa, há ",
+            "answerA": "neologismos e coloquialismos extraídos de Guimarães Rosa.",
+            "answerB": "apenas português extremamente formal.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Impressionista, o eu lírico diz que seu pai pintou a casa toda de ",
+            "answerA": "roxo fosco, uma casa sempre em profunda dor.",
+            "answerB": "alaranjado brilhante, uma casa constantemente amanhecendo. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Explicação de poesia sem ninguém pedir, o trem de ferro, coisa mecânica, vira",
+            "answerA": "somente sentimento. ",
+            "answerB": "somente realidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Todos fazem um poema a Carlos Drummond de Andrade, o eu lírico diz que tem inveja de Drummond, ",
+            "answerA": "apesar das extraordinárias semelhanças com o eu lírico. ",
+            "answerB": "pelas gigantes diferenças com o eu lírico.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Duas maneiras, o eu lírico revela sua relação ",
+            "answerA": "com Deus quando criança. ",
+            "answerB": "com a tia quando adolescente.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Sítio, o eu lírico diz que ",
+            "answerA": "a faculdade é o melhor lugar.",
+            "answerB": "a igreja é o melhor lugar. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Tabaréu, o eu lírico diz que fez o curso de filosofia para ",
+            "answerA": "ser altamente intelectualizado, e valeu.",
+            "answerB": "escovar o pensamento, não valeu. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, o último poema da primeira parte se chama",
+            "answerA": "O modo poético.",
+            "answerB": "Um jeito e amor. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Canção de Joana D’Arc, o amor ",
+            "answerA": "tem muita força.",
+            "answerB": "tem pouca força.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Psicórdica, o eu lírico faz um convite ao ser amado, que é",
+            "answerA": "Vamos nos separar, meu bem, porque não o amo mais.",
+            "answerB": "Vamos dormir juntos, meu bem, sem sérias patologias. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Enredo para um tema, a mulher ",
+            "answerA": "não tinha o poder de escolher seu amor. ",
+            "answerB": "tinha o poder de escolher seu amor.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Bilhete em papel rosa, o eu lírico dedica o poema ",
+            "answerA": "a seu amado secreto, Castro Alves. ",
+            "answerB": "a seu amado cruel, Gonçalves Dias.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no final do poema Bilhete em papel rosa, o eu lírico diz que Castro Alves é",
+            "answerA": "repugnante, seu adversário poético.",
+            "answerB": "lindo, seu amor adorado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Medievo, há uso de uma linguagem ",
+            "answerA": "arcaica.",
+            "answerB": "coloquial.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Amor feinho, o eu lírico diz que quer um",
+            "answerA": "amor bonitinho.",
+            "answerB": "amor feinho. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Amor feinho, o eu lírico que o amor feinho é",
+            "answerA": "é magro, doido por sexo, não fica velho. ",
+            "answerB": "é gordo, não gosta de sexo, fica velho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Amor feinho, o eu lírico diz o amor feinho ",
+            "answerA": "não tem ilusão, mas sim esperança.",
+            "answerB": "tem ilusão, mas não tem esperança.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Para cantar com o saltério, o eu lírico cita algumas personalidades femininas, como",
+            "answerA": "Raquel de Queirós, Clarice Lispector e Lygia Fagundes Telles.",
+            "answerB": "Maria Bonita, Anita Garibaldi e Joana D'Arc.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Briga no beco, o eu lírico diz que encontrou seu marido com uma ",
+            "answerA": "loira oxidada. ",
+            "answerB": "morena sensual.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Briga no beco, há",
+            "answerA": "a traição do marido.",
+            "answerB": "a traição da esposa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Janela, o eu lírico vê ",
+            "answerA": "apenas sua vida pacata, sem pensar em nada e sem fazer uso da memória.",
+            "answerB": "os tempos que passaram e as imagens que se gravaram em sua mente. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Chorinho doce, o eu lírico diz que já teve e perdeu",
+            "answerA": "uma casa, um jardim, uma soleira, uma porta...",
+            "answerB": "um carro, uma TV, um rádio, uma carreta... ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Chorinho doce, o eu lírico aborda ",
+            "answerA": "o que não teve e o que hoje tem.",
+            "answerB": "o que teve e já não tem mais.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema A cantiga, o eu lírico lembra-se de uma cantiga que ouviu anos atrás, que dizia:",
+            "answerA": "Ai boitatá, boitatá, meu querido boi.",
+            "answerB": "Ai cigana, ciganinha, ciganinha, meu amor.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema A cantiga, o eu lírico, a partir de uma cantiga, encontra ",
+            "answerA": "objetos, pessoas e sabores que ela deseja rever e reviver.",
+            "answerB": "apenas vontade de morrer, pensando numa vida de amarguras.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Verossímil, o eu lírico diz que antigamente, em maio, ",
+            "answerA": "virava demônio: o pai colocava fantasia, tridente, espada.",
+            "answerB": "virava anjo: a mãe colocava vestido, asas e coroa na cabeça.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema A menina do olfato delicado, o eu lírico evoca o passado ",
+            "answerA": "através apenas da visão, trazendo momentos futuros e verdadeiros.",
+            "answerB": "através do olfato, dos aromas, dos perfumes que evocam momentos da meninice.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Mosaico, o eu lírico diz que Joaquim João era ",
+            "answerA": "jogador de futebol.",
+            "answerB": "artista de teatro. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Rebrinco, o eu lírico diz que o medo que tinha ",
+            "answerA": "era não ter mistério. ",
+            "answerB": "era apenas morrer.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Ensinamento, o eu lírico diz que sua mãe achava estudo ",
+            "answerA": "a coisa mais fina do mundo. ",
+            "answerB": "a coisa mais brega do mundo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema O retrato, o eu lírico não resgata apenas imagens, mas",
+            "answerA": "o passado do seu irmão mais novo.",
+            "answerB": "emoções, sensações ligadas às lembranças do passado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Modinha, o eu lírico diz que, quando fica agudo de saudade,",
+            "answerA": "vira só olhos.",
+            "answerB": "vira só ouvido. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, o eu lírico ",
+            "answerA": "se confunde com a autora, Adélia Prado.",
+            "answerB": "não tem nenhuma relação com Adélia Prado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema A poesia, o eu lírico lembra do pai lhe pedindo para",
+            "answerA": "desligar a luz do quarto.",
+            "answerB": "recitar um poema.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema A poesia, o eu lírico recita o poema",
+            "answerA": "toda poderosa.",
+            "answerB": "totalmente frustrado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema A poesia, a memória do pai vem ligada ",
+            "answerA": "ao fazer poético e a reflexões sobre vida e morte. ",
+            "answerB": "ao mundo dos segredos do eu lírico sobre a vida.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema A poesia, o pai declama poemas",
+            "answerA": "com estilo simples, linguagem coloquial.",
+            "answerB": "com linguagem trabalhada, bem poético.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema O sonho, o eu lírico lembra dos momentos finais ",
+            "answerA": "de seu pai, a partir da imagem de um sonho.",
+            "answerB": "de sua mãe, a partir de uma imagem no espelho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema As mortes sucessivas, o eu lírico revela que",
+            "answerA": "não chorou pela perda dos parentes.",
+            "answerB": "sentiu quando da morte da irmã, do pai e da mãe.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Alfândega, o eu lírico começa com uma listagem de pertences: ",
+            "answerA": "ações, objetos, distrações, sentimentos.",
+            "answerB": "carros, velas, computador, cadernos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Alfândega, o eu lírico diz que ",
+            "answerA": "não aprendeu uma língua estrangeira.",
+            "answerB": "aprendeu uma língua estrangeira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Alfândega, o eu lírico diz que deixará na alfândega ",
+            "answerA": "o que está enraizado nele.",
+            "answerB": "absolutamente nada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, nos poemas de Adélia Prado, ",
+            "answerA": "não são constantes as presenças do pai e da mãe. ",
+            "answerB": "são constantes as presenças do pai e da mãe. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, nos poemas Leitura, Poema esquisito e Impressionista, quem aparece é ",
+            "answerA": "o pai.",
+            "answerB": "a mãe.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, Adélia Prado usa, em sua poesia,",
+            "answerA": "apenas temas clássicos, como vida e morte.",
+            "answerB": "toda relação que possa ter feito parte de seu cotidiano.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Ensinamento, o eu lírico diz que sua mãe achava estudo ",
+            "answerA": "a coisa mais fina do mundo. ",
+            "answerB": "a coisa mais brega do mundo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Ensinamento, a mãe do eu lírico",
+            "answerA": "usa palavras de amor, sem atos.",
+            "answerB": "não fala de amor, mas usa um ato para mostrá-lo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Grande desejo, o eu lírico se coloca como",
+            "answerA": "uma empresária.",
+            "answerB": "uma dona de casa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, no poema Grande desejo, o eu lírico escreve:",
+            "answerA": "“sou mulher do povo, mãe de filhos, Adélia”.",
+            "answerB": "“Faço comida e como. Aos domingos bato o osso no prato pra chamar cachorro e atiro os restos”.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, a metapoesia aparece em poemas como",
+            "answerA": "Explicação de poesia sem ninguém pedir e Sedução.",
+            "answerB": "O sempre amor e Amor feinho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Amor feinho, há a ideia de um",
+            "answerA": "amor não de vaidades, mas sincero e recíproco.",
+            "answerB": "amor tão somente de vaidades e aparência.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em bagagem, o poema Briga no beco é um",
+            "answerA": "poema narrativo, que conta uma história.",
+            "answerB": "um soneto que conta sobre a vida urbana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em bagagem, ao final do poema Briga no beco, ",
+            "answerA": "o eu lírico vira um péssimo exemplo da espécie humana.",
+            "answerB": "o eu lírico vira um exemplo, quase que santificado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, há ",
+            "answerA": "a identidade feminina muito bem marcada.",
+            "answerB": "a identidade feminina não é bem marcada",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Verossímil, o eu lírico lembra que sua mãe a vestia como um anjo, ",
+            "answerA": "o que o levava a querer sair levantando voo.",
+            "answerB": "o que o levava a ter uma vergonha enorme dessa cena de infância.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Bagagem, no poema Orfandade, o eu lírico se lamenta:",
+            "answerA": "Me dá meu marido, felicidade e fracasso unidos.",
+            "answerB": "Me dá minha mãe, alegria sã e medo remediável.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Bagagem, há",
+            "answerA": "o estilo de vida típico de uma classe média interiorana.",
+            "answerB": "o estilo de vida típico de uma classe alta urbana.",
+            "correctAnswer": "A"
+        }
+    ]
+}

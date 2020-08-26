@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "A obra Caderno de memórias coloniais, de Isabela Figueiredo, é narrada",
+            "answerA": "em primeira pessoa.",
+            "answerB": "em terceira pessoa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Caderno de memórias coloniais é catalogado como",
+            "answerA": "livro de memórias.",
+            "answerB": "diário datado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Segundo Isabela Figueiredo, a obra é",
+            "answerA": "um diário sem ter relação alguma com sua vida.",
+            "answerB": "uma autobiografia em alguns momentos ficcionada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Antes da edição da obra Caderno de memórias coloniais, a autora escrevia suas memórias",
+            "answerA": "em um diário, fazendo anotações diárias.",
+            "answerB": "em um blog, fazendo posts.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Caderno de memórias coloniais, a autora ",
+            "answerA": "ilustra a obra com desenhos e pinturas fictícias.",
+            "answerB": "ilustra a obra com algumas fotos dela mesma.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Caderno de memórias coloniais tem",
+            "answerA": "51 capítulos.",
+            "answerB": "30 capítulos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A dedicatória de Caderno de memórias coloniais é intitulada assim:",
+            "answerA": "À minha mãe.",
+            "answerB": "Ao meu pai.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Caderno de memórias coloniais há duas epígrafes:",
+            "answerA": "uma sobre a invasão de privacidade na vida da mãe e outra sobre a eficácia da memória.",
+            "answerB": "uma sobre a invasão de privacidade na vida do pai e outra sobre a falibilidade da memória.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Caderno de memórias coloniais, as epígrafes são de",
+            "answerA": "Paul Auster (da obra Inventar a solidão) e de Primo Levi (da obra Os que sucumbem e os que se salvam).",
+            "answerB": "José Saramago (da obra História do cerco de Lisboa) e de Florbela Espanca (do Livro de mágoas).",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 1, a narradora diz que Manuel deixou o coração em África, ",
+            "answerA": "mas ela conhece quem deixou não o coração, mas bens materiais.",
+            "answerB": "e ela conhece quem também deixou somente referências sentimentais.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 2, a narradora trabalha o tema do",
+            "answerA": "do preconceito racial.",
+            "answerB": "da igualdade racial.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A narradora vive em Moçambique",
+            "answerA": "apenas com o pai.",
+            "answerB": "com o pai e com a mãe.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 3, a narradora diz que seu pai ",
+            "answerA": "tinha prazer em ser um marido fiel.",
+            "answerB": "gostava de “foder”. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 4, a narradora diz que Lourenço Marques, nas décadas de 60 e 70, era ",
+            "answerA": "um largo campo de concentração.",
+            "answerB": "um lugar de igualdade e solidariedade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A narradora diz que um branco servia para ",
+            "answerA": "chefe: ordenar, vigiar e mandar.",
+            "answerB": "empregado: ouvir, submeter-se e acatar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A narradora diz que um negro ",
+            "answerA": "estava acima de tudo. Tinha sempre direitos.",
+            "answerB": "estava abaixo de tudo. Não tinha direitos. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A narradora diz que a ordem em Moçambique era a de que um ",
+            "answerA": "branco servia o preto, e preto mandava no branco.",
+            "answerB": "preto servia o branco, e branco mandava no preto.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 5, o pai, ao ver a filha nua com um menino, “brincando de foder”,",
+            "answerA": "dá violentas bofetadas no rosto e golpes pelo corpo da filha.",
+            "answerB": "aceita a brincadeira como algo inocente entre duas crianças.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 6, a narradora diz que seu pai amou",
+            "answerA": "somente Portugal.",
+            "answerB": "somente a África.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 7, a narradora diz que, enquanto sua mãe estava casada pela procuração, seu pai",
+            "answerA": "andava à solta e putanheiro.",
+            "answerB": "andava fiel e sozinho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 8, a narradora diz que ",
+            "answerA": "tinha tudo, enquanto os negros não tinham nada.",
+            "answerB": "não tinha nada, enquanto os negros tinham tudo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 8, o pai da narradora dizia que",
+            "answerA": "eles não eram ricos, mas remediados.",
+            "answerB": "eram muito ricos e poderosos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 9, a narradora se define como ",
+            "answerA": "uma loirinha preconceituosa.",
+            "answerB": "uma negrinha loira.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 9, a narradora, escondida da mãe, ",
+            "answerA": "vendia morangos caros para os negros revenderem sem obter lucro algum.",
+            "answerB": "vendia mangas bem baratas para os negros revenderem.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 10, a narradora se lembra de ",
+            "answerA": "Manjacaze, o criado bom do prédio Lobato.",
+            "answerB": "Manjacaze, o mendigo mal das ruas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 10, a narradora se lembra de Manjacaze, que a ajudou a acreditar na espécie humana, ",
+            "answerA": "porém ela não podia chegar perto dele porque um negro não tocava numa branca.",
+            "answerB": "e ela se sentava no colo dele porque ele era como se fosse um avô para ela.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo 11 relata",
+            "answerA": "o pagamento dos salários aos trabalhadores por parte do pai da narradora.",
+            "answerB": "o pagamento dos salários aos trabalhadores por parte da mãe da narradora.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 11, segundo a narradora, a regra dos negros ao receber o pagamento era",
+            "answerA": "receber e argumentar.",
+            "answerB": "receber e calar.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 11, o ato do pai de pagar os trabalhadores é ",
+            "answerA": "algo ruim, tanto que ele ficava doente o resto da noite. ",
+            "answerB": "algo positivo, pois ele adorava ver a felicidade dos negros.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 12, a narradora relata que ",
+            "answerA": "podia conversar à vontade com o filho do vizinho preto.",
+            "answerB": "não podia conversar com o filho do vizinho preto.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 13, a narradora relata que o cinema",
+            "answerA": "dividia-se em zonas definidas: a dos negros e a dos brancos.",
+            "answerB": "não tinha zonas definidas: brancos e negros se misturavam na plateia.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 13, a narradora relata que em Moçambique ",
+            "answerA": "havia estereótipos: se um negro corria, é porque tinha acabado de roubar.",
+            "answerB": "não havia estereótipos: não havia preconceito algum ali.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 14, a narradora relata que sua família tinha “mainatos”, que eram",
+            "answerA": "amigos.",
+            "answerB": "empregados.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 15, a narradora relata o que ouvia: que os negros ",
+            "answerA": "só queriam trabalhar, trabalhar, trabalhar e trabalhar.",
+            "answerB": "só queriam descansar, dormitar, dançar, cantar, beber, comer...",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 15, a narradora relata que seu pai entrou na casa de",
+            "answerA": "Ernesto: grita e bate nele, dizendo que ele deve ir trabalhar sem falta.",
+            "answerB": "Ernesto, levando comida e bebida para ele, deixando-o descansar durante a semana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 15, a narradora, ao ver a cena de violência do pai sobre Ernesto, diz",
+            "answerA": "que aquele homem branco não era o seu pai.",
+            "answerB": "que aquele homem branco era o pai que tanto admira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 16, a narradora se recorda que, na escola, bateu em ",
+            "answerA": "Marília, colega que era mulata.",
+            "answerB": "Ernesto, negro que trabalhava para seu pai. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 17, a narradora comia pimentas porque queria ser forte como",
+            "answerA": "Domingas, sua mãe e os vizinhos.",
+            "answerB": "Helen Keller, seu pai e os negros.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 18, a narradora narra o seu encanto em ",
+            "answerA": "aprender a ler, ferramenta com que escavaria a sua liberdade.",
+            "answerB": "aprender a nadar, ferramenta que usaria nos exercícios físicos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 18, a narradora, ao aprender a ler, ",
+            "answerA": "começou a se tornar a maior amiga do pai, tendo os mesmos pensamentos dele.",
+            "answerB": "começou a se tornar a pior inimiga do pai, traindo-o com suas memórias.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 19, a narradora diz que chegavam, de navio, portugueses em Moçambique,",
+            "answerA": "enfatizando que sabia claramente da existência de uma guerra política em Portugal.",
+            "answerB": "mas enfatiza que não sabia da existência de uma guerra política em Portugal. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 20, a narradora se lembra ",
+            "answerA": "do primo, que se negava a pronunciar Maputo: só dizia Lourenço Marques.",
+            "answerB": "do primo, que se negava a pronunciar Lourenço Marques: só dizia Maputo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 20, a narradora diz que o primo ",
+            "answerA": "era extremamente preconceituoso.",
+            "answerB": "não era preconceituoso.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 21, a narradora diz que o primo ",
+            "answerA": "fugiu para Portugal para se alistar em uma ONG.",
+            "answerB": "cometeu o suicídio após ter matado muitos negros.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 22, a narradora diz que tinha 10 anos e",
+            "answerA": "detestava o primo, de forma aberta.",
+            "answerB": "amava o primo, mas em segredo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 23, a narradora diz que tinha 11 anos e teve",
+            "answerA": "a primeira menstruação.",
+            "answerB": "seu primeiro namorado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 24, a narradora diz que soube que iam dar a independência às colônias, e fica",
+            "answerA": "feliz, porque a África ia ser livre.",
+            "answerB": "triste, porque a África não deveria ser livre.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 26, a narradora relata",
+            "answerA": "os massacres que os negros faziam com os brancos.",
+            "answerB": "os massacres que os colonialistas faziam com os negros.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 27, a narradora relata que o pai diz para ela ",
+            "answerA": "ser independente, estudar, ter uma profissão.",
+            "answerB": "ser igual à mãe, dependente do marido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 28, a narradora lembra dos seus gatos, ",
+            "answerA": "o Quadradinhos e o Bimbinhas, que a narradora leva para Portugal.",
+            "answerB": "o Bolinhas e o Gimbrinhas, que o pai abandona em Lourenço Marques.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 29, a narradora fala do",
+            "answerA": "Pintado, o cão malhado do vizinho branco.",
+            "answerB": "Faísca, o cão branco do vizinho negro.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 29, a narradora diz que as paredes da casa do vizinho negro não estavam pintadas, ",
+            "answerA": "e a explicação do pai era de que eram negros.",
+            "answerB": "e a explicação da mãe era de que faltava dinheiro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 30, a narradora diz que estava ",
+            "answerA": "indo para Portugal, sozinha.",
+            "answerB": "indo para a Espanha, com a mãe.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 30, a narradora pensa que, indo a Portugal, ",
+            "answerA": "não voltaria mais a Moçambique, que era a sua terra, mas que não lhe pertencia.",
+            "answerB": "voltaria muitas vezes a Moçambique, sua terra de coração e pertencimento.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 30, os pais da narradora pedem que ela ",
+            "answerA": "conte os massacres que os negros estavam fazendo com os brancos.",
+            "answerB": "conte a vida boa que eles estavam desfrutando em Moçambique. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 30, a narradora conta que ",
+            "answerA": "um branco passa a mão em seus seios, e que ela era a branca abusada pelos brancos.",
+            "answerB": "um negro passou a mão em suas partes íntimas, e que agora ela era símbolo da terra vencida.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 31, a narradora conta que",
+            "answerA": "Domingas foi quem a masturbou pela primeira vez.",
+            "answerB": "o primo foi quem a masturbou pela primeira vez.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 31, a narradora conta que ela era auxiliar de Domingas,",
+            "answerA": "dando aulas de eletricidade para os empregados do seu pai.",
+            "answerB": "dando aulas de alfabetização para o povo negro de Moçambique.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 31, a narradora sabe que essas aulas de alfabetização para o povo de Moçambique",
+            "answerA": "eram sem importância nenhuma, só para passar o tempo.",
+            "answerB": "também garantiam a vida de sua família.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 32, a narradora conta",
+            "answerA": "os momentos finais dela em Moçambique.",
+            "answerB": "os momentos finais dela em Portugal.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 32, a narradora conta que, mesmo na véspera da morte do pai, ele ",
+            "answerA": "sonhava que os negros tinham feito um trabalho péssimo, gritando com eles.",
+            "answerB": "sonhava que os negros eram os melhores funcionários do mundo, premiando-os.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 32, a narradora conta que, após a independência de Moçambique, estudava a história dos negros, que os brancos chamavam de",
+            "answerA": "história dos donos.",
+            "answerB": "história dos macacos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 32, a narradora conta que levava a verdade dos pais,",
+            "answerA": "única verdade possível.",
+            "answerB": "mas também a verdade dela. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 33, a narradora conta que precisava ",
+            "answerA": "sair de perto dos pais para ter uma identidade.",
+            "answerB": "ficar com os pais porque gostava de ser dependente deles.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 33, a narradora conta que estava sempre",
+            "answerA": "vestida de branco, preocupada em não se sujar.",
+            "answerB": "vestida de verde e amarelo, sujando-se a todo momento.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 34, a narradora, no avião, lembra que, a partir daquele momento,",
+            "answerA": "tinha de se preparar para ser uma mulher.",
+            "answerB": "tinha de se preparar para continuar a menina mimada de sempre.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 34, a narradora se lembra da ",
+            "answerA": "despedida do pai, símbolo de carinho.",
+            "answerB": "despedida da mãe, símbolo de carinho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 35, a narradora diz que, na despedida, chorou",
+            "answerA": "abraçada à sua mãe.",
+            "answerB": "abraçada ao seu pai.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 35, a narradora lembra que ",
+            "answerA": "nunca mais reencontrou o pai. ",
+            "answerB": "reencontrou o pai uma década depois.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 35, a narradora diz que ",
+            "answerA": "nunca entregou a mensagem da qual era portadora.",
+            "answerB": "entregou a mensagem da qual era portadora conforme os pais ordenaram.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 36, a narradora, dentro do avião, ",
+            "answerA": "fica acordada o tempo todo pensando em voltar para Moçambique.",
+            "answerB": "adormece e sonha com uma mulher mais madura, numa projeção sua futura.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 36, a narradora, dentro do avião, ao se projetar futuramente, ",
+            "answerA": "sente muito medo dessa “outra filha” do seu pai. ",
+            "answerB": "sente extrema felicidade ao se ver numa mulher que não mudou em nenhum aspecto.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 37, a narradora, ao chegar em Portugal,",
+            "answerA": "não recebe nenhum crítica por ter retornado.",
+            "answerB": "recebe duras críticas por ser uma retornada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 37, a narradora, ao chegar em Portugal, diz que",
+            "answerA": "todos os lados possuem uma verdade indesmentível.",
+            "answerB": "somente um lado possui a verdade completa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 38, a narradora lembra quando desembarcou sozinha no aeroporto de Lisboa:",
+            "answerA": "pelas seis da manhã de um dia no final de novembro de 1975.",
+            "answerB": "à meia-noite de um domingo de abril de 1960.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 39, a narradora chega em Portugal e vai morar",
+            "answerA": "na casa do avô materno, numa casa limpa e confortável.",
+            "answerB": "na casa da avó paterna, numa casa suja e sem saneamento básico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 39, a narradora diz que sua avó tinha amor",
+            "answerA": "por móveis, principalmente os antigos.",
+            "answerB": "por animais, principalmente por galinhas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 39, a narradora diz que o único conforto que existia na casa de sua avó era",
+            "answerA": "as camas, que eram extremamente confortáveis.",
+            "answerB": "o teto, que não entrava chuva, pago pelo filho que foi para Moçambique.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 39, a narradora diz que o pai ",
+            "answerA": "nunca falava do passado, por ter sido um passado pobre.",
+            "answerB": "sempre falava do passado, do qual se orgulhava.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 40, a narradora diz que",
+            "answerA": "recebeu, apenas e tão somente, discursos de amor do pai.",
+            "answerB": "recebeu todos os discursos de ódio do pai, sua torpe ideologia.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 40, a narradora diz que seu pai ",
+            "answerA": "não foi capaz de formar o seu pensamento. ",
+            "answerB": "foi capaz de formar amplamente o seu pensamento.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 41, a narradora diz que sua avó era",
+            "answerA": "uma velha só, quase cega, cujo filho tinha fugido para África.",
+            "answerB": "uma velha cercada de amigos, cujo filho havia fugido para a América.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 41, a narradora diz que sua avó ",
+            "answerA": "recusou todos os pedidos do filho para ir a Lourenço Marques.",
+            "answerB": "aceitou todos os pedidos do filho para ir a Lourenço Marques, algo que fazia todo ano.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 41, a narradora diz que sua avó chamava as galinhas de",
+            "answerA": "suas meninas.",
+            "answerB": "seus amores.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 41, a narradora está morando com a avó em",
+            "answerA": "Lisboa, Portugal.",
+            "answerB": "Caldas da Rainha, Portugal.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 41, a narradora diz que ",
+            "answerA": "aceitavam-na cordialmente na escola, enturmando-a rapidamente.",
+            "answerB": "gozavam dela na escola, chamando-a de gorda e retornada. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 42, a narradora diz que um livro chamou a atenção dela numa livraria em Caldas da Rainha:",
+            "answerA": "Moçambique, terra queimada, de Jorge Jardim.",
+            "answerB": "Ensaio sobre a cegueira, de José Saramago.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 43, a narradora diz que, ao ir para a escola, no caminho,",
+            "answerA": "tinha contato apenas com homens extremamente educados e cordiais.",
+            "answerB": "ouvia os homens insultando-a, com palavras sexuais: mamas, cona, rabo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 44, a narradora diz que, no verão de 1976, se mudou:",
+            "answerA": "foi morar na casa do Ti Gusto, que tinha uma fábrica de louças. ",
+            "answerB": "voltou a Moçambique para morar com o pai e com a mãe.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 44, a narradora diz que ti Gusto ",
+            "answerA": "passava as mãos em seu cabelo, tentando agarrá-la.",
+            "answerB": "respeitava-a porque era um homem bom.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 44, a narradora diz que o ti Gusto morava ",
+            "answerA": "sozinho, extremamente solitário.",
+            "answerB": "com sua esposa e tinha uma filha entrevada, aleijada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 45, a narradora reproduz o que os portugueses falavam sobre os retornados:",
+            "answerA": "esses gajos que vêm cá roubar o pouco que é da gente.",
+            "answerB": "esses gajos que vêm cá ajudar os portugueses, sempre generosos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 46, a narradora diz que seu pai, em Moçambique, foi preso porque afirmou,",
+            "answerA": "para um amigo, que Marcelo Caetano era um homem que não prestava.",
+            "answerB": "em público, que Samora Machel, presidente de Moçambique, não passava de um reles auxiliar de enfermeiro.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 46, a narradora diz que seu pai foi solto da prisão porque a esposa",
+            "answerA": "consegue interferir a partir de um amigo que conhecia Graça Machel, esposa de Samora Machel.",
+            "answerB": "vai até lá, consegue a chave da prisão e libera o marido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 47, a narradora conta que a prima da ti Gusta ",
+            "answerA": "envenenou seu cachorro, o Piloto.",
+            "answerB": "envenenou seu gato, o Gimbrinhas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 47, a narradora relata que conversou com a mãe, ",
+            "answerA": "mas a mãe não mudou: continuava extremamente preconceituosa.",
+            "answerB": "e a mãe mudou: virou uma líder contra o preconceito racial.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 49, a narradora relata que ",
+            "answerA": "se passaram algumas décadas sobre a menina que estava em Moçambique.",
+            "answerB": "se passaram poucos anos sobre a menina que estava em Moçambique.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo 49, a narradora relata que uma desterrada como ela",
+            "answerA": "está isenta de qualquer culpa, porque era pequena.",
+            "answerB": "é também uma estátua de culpa, por ter sido submissa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 50, a narradora relata que o que sobrou do pai foram ",
+            "answerA": "apenas recordações positivas, já que a filha não traiu a memória do pai.",
+            "answerB": "cabos, fios, ferramentas, ferros e outras coisas jogados num contêiner em Almada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No capítulo 51, a narradora se reporta a si mesma usando",
+            "answerA": "a primeira pessoa do plural, o nós.",
+            "answerB": "a segunda pessoa do singular, o tu.",
+            "correctAnswer": "B"
+        }
+    ]
+}

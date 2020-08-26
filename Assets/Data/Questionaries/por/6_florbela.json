@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "Florbela Espanca foi uma poetisa",
+            "answerA": "brasileira, batizada como Flor e Rosa de Espanca.",
+            "answerB": "portuguesa, batizada como Flor Bela de Alma da Conceição Espanca.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Nos poemas de Florbela, notam-se ",
+            "answerA": "tendências parnasianas na construção do poema, como métrica e rima.",
+            "answerB": "tendências modernistas na construção do poema, como versos livres e brancos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Florbela escreve seus poemas ",
+            "answerA": "em pleno modernismo português.",
+            "answerB": "em pleno romantismo português.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema 1 é intitulado “Fanatismo” e  ",
+            "answerA": "mostra um eu lírico feminino extremamente apaixonado.",
+            "answerB": "mostra um eu lírico masculino desiludido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema “Fanatismo” foi gravado pelo cantor",
+            "answerA": "Reginaldo Rossi.",
+            "answerB": "Fágner.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Fanatismo”, temos uma",
+            "answerA": "imensa declaração de amor feita pelo eu lírico ao seu amado.",
+            "answerB": "imensa ofensa feita pelo eu lírico ao seu pai.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Os dois versos finais do poema “Fanatismo” são:",
+            "answerA": "Que não seja imortal, posto que é chama / Mas que seja infinito enquanto dure.",
+            "answerB": "Ah! Podem voar mundos, morrer astros, / Que tu és como Deus: Princípio e Fim!...",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema “Fanatismo”, no verso “Meus olhos andam cegos de te ver!”, há a figura de linguagem intitulada",
+            "answerA": "eufemismo.",
+            "answerB": "hipérbole.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O poema 2, intitulado “Horas rubras”, retrata ",
+            "answerA": "o encontro amoroso entre o eu lírico e seu amado.",
+            "answerB": "o encontro entre o eu lírico e seu irmão.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O soneto “Horas rubras” inspirou um quadro de ",
+            "answerA": "Candido Portinari, artista plástico brasileiro.",
+            "answerB": "Dorindo Carvalho, artista plástico português.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Horas rubras” traz momentos ",
+            "answerA": "sensuais: beijos rubros e ardentes, noites de volúpia, noites quentes.",
+            "answerB": "religiosos: horas de orações e pedidos de perdão.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema 3 é intitulado “Eu”, altamente",
+            "answerA": "subjetivo.",
+            "answerB": "objetivo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “Eu”, o primeiro verso diz",
+            "answerA": "Sou a que chora sem saber porquê...",
+            "answerB": "Eu sou a que no mundo anda perdida.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Eu” trata ",
+            "answerA": "de um eu lírico feminino confuso, com a sina do azar.",
+            "answerB": "de um eu lírico masculino feliz, com a sorte sempre o acompanhando.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O soneto “Eu” tem o verso “Sou aquela que passa e ninguém vê...”, que ",
+            "answerA": "traz um eu lírico masculino sempre notado, feliz com os olhares recebidos.",
+            "answerB": "traz um eu lírico feminino quase invisível, a falta de um olhar.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Eu” traz a ideia de que no mundo existe a questão da alma gêmea, ",
+            "answerA": "mas essa alma gêmea ainda não a encontrou, o olhar ainda não foi correspondido.",
+            "answerB": "e essa alma gêmea já a procurou, o olhar foi correspondido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Nos poemas de Florbela Espanca, há",
+            "answerA": "o excesso, a paixão, o desejo, revestidos de desilusão, de rejeição, de sofrimento.",
+            "answerB": "a calma, o desejo escondido, revestidos sempre de final feliz, de alegrias.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema 4 é intitulado “Vaidade”, em que",
+            "answerA": "o eu lírico se define como masculino e cantor.",
+            "answerB": "o eu lírico se define como feminino e poeta.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Vaidade”, o eu lírico se define como ",
+            "answerA": "a que diz tudo e tudo sabe.",
+            "answerB": "a que se cala e nada sabe.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “Vaidade”, temos também ",
+            "answerA": "a metapoesia, em que o eu lírico fala do poder da poesia.",
+            "answerB": "o suicídio, em que o eu lírico confessa sua desilusão no mundo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O final do poema “Vaidade” é",
+            "answerA": "Acordo do meu sonho... E não sou nada!...",
+            "answerB": "Durmo muito e não consigo acordar!...",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema 5 é intitulado “Lágrimas ocultas”, em que o eu lírico diz que",
+            "answerA": "no passado era feliz.",
+            "answerB": "no passado era triste.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “Lágrimas ocultas”, há a caracterização da boca do eu lírico como",
+            "answerA": "triste e dolorida.",
+            "answerB": "feliz e amorosa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Lágrimas ocultas”, o eu lírico ",
+            "answerA": "compara o passado com o presente, que é também feliz.",
+            "answerB": "compara o passado com o presente, que é amargurado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema “Lágrimas ocultas”, as lágrimas do eu lírico",
+            "answerA": "todos as veem, porque são visíveis.",
+            "answerB": "ninguém as vê, porque são ocultas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O poema 6 é intitulado “A minha dor”, em que o eu lírico",
+            "answerA": "compara sua dor com um convento, cheio de sombras, escuro.",
+            "answerB": "comprara sua felicidade com um campo de futebol, colorido. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “A minha dor”, o convento é",
+            "answerA": "um lugar triste, fechado.",
+            "answerB": "um lugar feliz, aberto.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “A minha dor”, os sinos têm dobres de ",
+            "answerA": "risos, badalam somente alegrias.",
+            "answerB": "agonias, badalam somente tristezas. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema “A minha dor”, ",
+            "answerA": "reina a melancolia, a tristeza.",
+            "answerB": "reina a felicidade, a alegria.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “A minha dor”, ",
+            "answerA": "os lírios têm cores de encantamento, de felicidade.",
+            "answerB": "os lírios têm cor de martírios, de sofrimentos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema “A minha dor”, no triste convento onde reside o eu lírico,",
+            "answerA": "ele diz que reza, grita e chora, mas ninguém ouve.",
+            "answerB": "ele diz que fica sempre calado, e mesmo assim é notado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 7, intitulado “Suavidade”, o eu lírico pede para o amado",
+            "answerA": "repousar a cabeça na cama do casal.",
+            "answerB": "repousar a cabeça no regaço do eu lírico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O poema “Suavidade” traz um eu lírico que fala de um terceiro que tem ",
+            "answerA": "sonhos, esperanças, ideais, quimeras.",
+            "answerB": "apenas desilusões profundas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O soneto “Suavidade” traz o eu lírico como uma",
+            "answerA": "amante.",
+            "answerB": "irmã.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 8, intitulado “Se tu viesses ver-me”, há ",
+            "answerA": "a realidade do eu lírico com a presença do amado.",
+            "answerB": "o escapismo para o passado do eu lírico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema “Se tu viesses ver-me”, vemos que o eu lírico feminino pede para ",
+            "answerA": "seu amor vir vê-la, à tardinha, e a agarrasse nos braços. ",
+            "answerB": "sua mãe vir vê-la, à noite, e a desse carinho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “Se tu viesses ver-me”, o eu lírico lembra da imagem",
+            "answerA": "da separação: os braços do amado são rudes.",
+            "answerB": "do beijo: a boca do amado é como um cravo ao sol.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 9, intitulado “Ser poeta”, traz a função ",
+            "answerA": "fática.",
+            "answerB": "metalinguística.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Ser poeta”",
+            "answerA": "é metapoético.",
+            "answerB": "é anticlerical.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O soneto “Ser poeta” diz que ser poeta é",
+            "answerA": "ser mais baixo, mais baixo que os textos vulgares. ",
+            "answerB": "ser mais alto, é ser maior do que os homens!",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Ser poeta” traz a ideia de que o poeta é aquele que ",
+            "answerA": "recusa a mediocridade, que ultrapassa o permitido, que passa dos limites.",
+            "answerB": "aceita a mediocridade, que nunca ultrapassa o permitido, que nunca passa dos limites.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Ser poeta”, notamos o uso excessivo do verbo",
+            "answerA": "“ser”, que vai definindo o que é ser poeta.",
+            "answerB": "“ter”, que vai definindo a poesia como produto de consumo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Ser poeta”, ",
+            "answerA": "ser poeta é ser alguém incapaz de experimentar sentimentos.",
+            "answerB": "ser poeta é experimentar desejos intensos, paixões, ser sensível.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Ser poeta”, ser poeta é",
+            "answerA": "nunca estar satisfeito.",
+            "answerB": "sempre estar satisfeito.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Ser poeta”, ser poeta é",
+            "answerA": "ser laudatório, verborrágico, extenso como o mundo.",
+            "answerB": "fazer a síntese, condensar o mundo num verso. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 10, intitulado “Fumo”, há paralelismo com as imagens",
+            "answerA": "Perto de ti.",
+            "answerB": "Longe de ti.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Fumo”, o eu lírico ",
+            "answerA": "se queixa de que a vida é triste longe do seu amor. ",
+            "answerB": "exalta a ideia de que a vida é feliz longe do seu amor.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Fumo”, o eu lírico diz que os dias são",
+            "answerA": "outonos, são dias que choram.",
+            "answerB": "verões, são dias que riem.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Fumo”, o eu lírico invoca sonhos estão juntos,",
+            "answerA": "e ele aparece com a imagem nítida, trazendo o enlace matrimonial.",
+            "answerB": "mas ele é um fumo, uma fumaça, uma visão apenas entre os seus dedos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 11, intitulado “Frêmito do meu corpo...”, no verso “Febre das minhas mãos na tua pele”, há",
+            "answerA": "a figura de linguagem chamada eufemismo, a suavização.",
+            "answerB": "a figura de linguagem chamada hipérbole, o exagero.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Frêmito do meu corpo...” traz novamente a ideia ",
+            "answerA": "do eu lírico procurando o ser amado.",
+            "answerB": "do eu lírico rejeitando o ser amado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O soneto “Frêmito do meu corpo...” traz um tema mais",
+            "answerA": "sensual, pois o corpo fala.",
+            "answerB": "ingênuo, a infância repaginada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Frêmito do meu corpo...”, temos a figura de linguagem",
+            "answerA": "antítese: em todos os versos há oposições.",
+            "answerB": "sinestesia: o tato, o cheiro, a visão, o paladar.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Frêmito do meu corpo...”, os olhos do eu lírico",
+            "answerA": "se fecham e não veem nada.",
+            "answerB": "buscam os olhos do amado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Frêmito do meu corpo...”, o eu lírico lamenta que ",
+            "answerA": "o amado está longe, mas as almas estão juntas.",
+            "answerB": "o amado está perto, mas suas almas estão longes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Frêmito do meu corpo...”, o coração do eu lírico, apesar de ser chama, fogo, ",
+            "answerA": "é uma grande caixa de felicidades.",
+            "answerB": "é um esquife negro, um caixão no mar de fogo. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Florbela Espanca utiliza algumas palavras-chave na construção de seus poemas, como ",
+            "answerA": "eu, alma, amor, beijos.",
+            "answerB": "ódio, vingança, tapas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 12, intitulado “Realidade”, o eu lírico diz nasceu ",
+            "answerA": "para ficar sempre sozinha.",
+            "answerB": "para encontrar o seu amado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Realidade”, o eu lírico diz que encontrou o amor ",
+            "answerA": "no ser amado.",
+            "answerB": "sozinho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Realidade”, o beijo do ser amado é ",
+            "answerA": "como uma cerveja barata, servida em copo de vidro.",
+            "answerB": "como um vinho fulvo, avermelhado, servido em taça rara. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Realidade”, o eu lírico se apresenta, faz uma espécie de autorretrato:",
+            "answerA": "suas pálpebras são de cor de violeta, os olhos são esverdeados, é morena.",
+            "answerB": "suas pálpebras são de cor de rosa, os olhos são azuis, é loira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Realidade”, o terceto final finaliza com",
+            "answerA": "Te encontrei e nunca vou te perder.",
+            "answerB": "Não sei se te encontrei... se te perdi...",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Realidade”, no verso “Não sei se te encontrei... se te perdi...”, há",
+            "answerA": "antítese.",
+            "answerB": "personificação.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 13, intitulado “Súplica”, o eu lírico feminino inicia suplicando",
+            "answerA": "que seu pai volte e lhe dê atenção.",
+            "answerB": "que seu amado olhe para ela.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema “Súplica”, temos",
+            "answerA": "5 estrofes de 4 versos decassílabos. ",
+            "answerB": "10 estrofes de 2 versos dodecassílabos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema “Súplica”, o eu lírico feminino espera",
+            "answerA": "que seja notada, retribuída.",
+            "answerB": "que seja ignorada, esquecida.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema “Súplica” ",
+            "answerA": "é um soneto, assim como os outros 21 poemas selecionados.",
+            "answerB": "não é um soneto, exceção dos 22 poemas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 14, intitulado “Doce certeza”, há ",
+            "answerA": "um grande relato de ódio.",
+            "answerB": "uma grande declaração de amor.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Doce certeza”, o eu lírico aqui diz que o ser amado ",
+            "answerA": "não amará ninguém, nem beijará boca alguma, pois será fiel apenas ao eu lírico, que vive pelo ser amado.",
+            "answerB": "pode amar muitas mulheres, beijar muitas bocas, mas nunca vai encontrar amor como o que o eu lírico tem devotado a ele.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Doce certeza” finaliza com o seguinte verso:",
+            "answerA": "Neste beijo d’amor que são meus versos!...",
+            "answerB": "Nesta vida sem amor que é a nossa!",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 15, intitulado “Quem sabe?!”, o eu lírico diz",
+            "answerA": "Eu fujo e tu me segues.",
+            "answerB": "Eu sigo-te e tu foges.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Quem sabe?!” é",
+            "answerA": "heptassílabo, ou seja, tem 7 sílabas poéticas.",
+            "answerB": "dodecassílabo, ou seja, tem 12 sílabas poéticas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Quem sabe?!” traz o eu lírico perseguindo",
+            "answerA": "o ser amado. ",
+            "answerB": "sua família.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Quem sabe?!”, o eu lírico ",
+            "answerA": "chora por um amor que não vai vir. ",
+            "answerB": "ri do seu feliz relacionamento.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Quem sabe?!”, o eu lírico diz que o ser amado pode fugir sempre, ",
+            "answerA": "mas na realidade saberá amá-lo.",
+            "answerB": "mas no sonho há de buscá-lo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 16, intitulado “A mulher I”, são citados dois deuses:",
+            "answerA": "Baco e Atena.",
+            "answerB": "Marte e Vênus.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “A mulher I”, o eu lírico define a mulher como",
+            "answerA": "um ente sem paixão e feliz sempre.",
+            "answerB": "um ente cheio de paixão, mas de sofrimento.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “A mulher I”, o eu lírico pede para que a mulher ",
+            "answerA": "seja um ser forte, que não fraqueje na luta.",
+            "answerB": "seja um ser fraco, que fraqueje na luta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “A mulher I”, no verso “sê em Vênus sempre Marte”, podemos interpretar que a mulher ",
+            "answerA": "deve ser Vênus, deusa da beleza, mas também Marte, deus da guerra. ",
+            "answerB": "deve ser Vênus, deusa da guerra, mas também Marte, deus dos vinhos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O poema 17, intitulado “A mulher II”, no verso “Paixão que faria a felicidade dum rei”, há",
+            "answerA": "a figura de linguagem chamada eufemismo, a suavização.",
+            "answerB": "a figura de linguagem chamada hipérbole, o exagero.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “A mulher II”, o primeiro verso é",
+            "answerA": "Ó mulher! Como és linda e como és feia!",
+            "answerB": "Ó mulher! Como és fraca e como és forte!",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “A mulher II”, o eu lírico diz que a mulher",
+            "answerA": "sabe ser sempre feliz, porque nunca sofre por nada.",
+            "answerB": "sabe fingir felicidade quando, na verdade, está sofrendo. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “A mulher II”, o eu lírico diz que a mulher ",
+            "answerA": "sabe esconder sentimentos: o sofrimento de amar e não revelar. ",
+            "answerB": "sabe revelar tudo o que sente: as alegrias e as vitórias.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 18, intitulado “Amiga”, o eu lírico  ",
+            "answerA": "fala apenas dela, sem citar o amado.",
+            "answerB": "fala dela e do amado, mas agora implorando para ser amigo do amado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Amiga” mostra o eu lírico pedindo ao seu amor que a deixe ",
+            "answerA": "ser só amiga, já que o amado não quer envolvimento. ",
+            "answerB": "ser sua inimiga, já que ele não quer envolvimento com o amado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Amiga”, o eu lírico ",
+            "answerA": "vive imerso em fantasia. ",
+            "answerB": "vive a realidade do amor correspondido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 19, intitulado “Ódio”, há indagações do eu lírico",
+            "answerA": "que são respondidas.",
+            "answerB": "que não são respondidas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Ódio”, o eu lírico pergunta ",
+            "answerA": "se vale a pena ter amor pelo ser amado, e responde que sim.",
+            "answerB": "se vale a pena ter ódio pelo ser amado, e responde que não.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Ódio”, o eu lírico quer sentir o ser amado sendo de outra, ",
+            "answerA": "para poder processar a perda. ",
+            "answerB": "para ter prazer em judiá-lo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Ódio”, o verso final é",
+            "answerA": "Amor por Ele? Sempre, e sempre...",
+            "answerB": "Ódio por Ele? Não... não vale a pena...",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 20, intitulado “Amar”, qual a continuação do seguinte verso: “Quem disser que se pode amar alguém”...",
+            "answerA": "só um dia é porque fala a verdade.",
+            "answerB": "durante a vida inteira é porque mente!",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O tema do soneto “Amar” é",
+            "answerA": "a capacidade de odiar: ódio sempre, eternamente.",
+            "answerB": "a capacidade de amar: amar sempre, perdidamente.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O soneto “Amar” traz a ideia de ",
+            "answerA": "amar este, aquele, ali, além, todo mundo, e não amar ninguém.",
+            "answerB": "odiar tudo e todos, sempre, e não odiar ninguém. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Amar”, nos versos “Recordar? Esquecer?”, “Prender ou desprender?”, “É mal? É bem?”, traz ",
+            "answerA": "antíteses.",
+            "answerB": "onomatopeias.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O soneto “Amar”, no verso “E se um dia hei de ser pó, cinza e nada”, traz",
+            "answerA": "gradação.",
+            "answerB": "regionalismos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No poema 21, intitulado “O maior bem”, o eu lírico diz que, mesmo beijando, o amado",
+            "answerA": "fala a verdade.",
+            "answerB": "mente, engana.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “O maior bem”, o eu lírico é consciente ",
+            "answerA": "do compartilhamento de emoções pelo ser amado.",
+            "answerB": "do sentimento de rejeição nutrido pelo ser amado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No poema 22, intitulado “Neurastenia”, o eu lírico aproxima seu triste destino ",
+            "answerA": "à neve.",
+            "answerB": "à terra.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No soneto “Neurastenia”, o eu lírico ",
+            "answerA": "está com a alma cheia de alegria.",
+            "answerB": "está com a alma cheia de tristeza.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No soneto “Neurastenia”, o eu lírico faz da chuva, do vento e da neve ",
+            "answerA": "seus interlocutores, pois reporta-se a eles, faz questionamentos.",
+            "answerB": "suas inspirações, já que são símbolos de alegria e harmonia.",
+            "correctAnswer": "A"
+        }
+    ]
+}

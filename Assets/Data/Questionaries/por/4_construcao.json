@@ -1,0 +1,603 @@
+{
+    "Items": [
+        {
+            "question": "Francisco Buarque de Hollanda, nascido em 1944, criou-se em ambiente intelectual, tendo como pais ",
+            "answerA": "Aurélio Buarque de Holanda e Marina Baird Ferreira.",
+            "answerB": "Sérgio Buarque de Hollanda e Maria Amélia Cesário Alvim.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção define-se ",
+            "answerA": "pela articulação entre letra, melodia, harmonia e acompanhamento rítmico.",
+            "answerB": "somente pela letra.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, é",
+            "answerA": "o seu quinto álbum completo em português.",
+            "answerB": "o seu primeiro álbum completo em português.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, é lançado em",
+            "answerA": "1965.",
+            "answerB": "1971.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, tem ",
+            "answerA": "12 músicas.",
+            "answerB": "10 músicas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, tem ",
+            "answerA": "5 músicas no lado A e 5 músicas no lado B.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, foi lançado",
+            "answerA": "em plena ditadura militar.",
+            "answerB": "anterior à ditadura militar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Segundo a Revista Rolling Stone, o álbum Construção é o ",
+            "answerA": "terceiro melhor disco brasileiro de todos os tempos.",
+            "answerB": "décimo melhor disco brasileiro de todos os tempos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, traz canções ",
+            "answerA": "apenas políticas.",
+            "answerB": "políticas, líricas e conceituais.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O álbum Construção, de Chico Buarque, tem como maestro",
+            "answerA": "Tom Jobim.",
+            "answerB": "Rogério Duprat.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção 1 do álbum Construção é ",
+            "answerA": "Deus lhe pague, de Chico Buarque.",
+            "answerB": "Acalanto, de Chico Buarque.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Deus lhe pague tem no título",
+            "answerA": "uma expressão popular.",
+            "answerB": "uma frase do Chacrinha.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Deus lhe pague agradece coisas como:",
+            "answerA": "por esse lar pra morar, por essa casa pra alugar",
+            "answerB": "por esse pão pra comer, por esse chão pra dormir.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Deus lhe pague agradece coisas como:",
+            "answerA": "por me deixar viajar, por me deixar consumir.",
+            "answerB": "por me deixar respirar, por me deixar existir.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Deus lhe pague agradece coisas que soam negativas, como",
+            "answerA": "o amor malfeito depressa, fazer a barba e partir.",
+            "answerB": "o amor bem feito e o descanso e dormir.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Deus lhe pague agradece coisas que soam negativas, como",
+            "answerA": "por mais um dia, agonia, pra suportar e assistir.",
+            "answerB": "por mais um dia, felicidade, alegria, amar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Deus lhe finaliza agradecendo ironicamente",
+            "answerA": "a mulher amorosa pra nos beijar e amar.",
+            "answerB": "a mulher carpideira pra nos louvar e cuspir.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção 2 do álbum Construção é",
+            "answerA": "Cotidiano, de Chico Buarque.",
+            "answerB": "Samba de Orly, de Chico Buarque, Toquinho e Vinícius de Moraes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Cotidiano aborda ",
+            "answerA": "o cotidiano de três irmãos.",
+            "answerB": "o cotidiano de um casal.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Cotidiano, algumas palavras e expressões reforçam o título, como",
+            "answerA": "todo dia, igual e pontual.",
+            "answerB": "ela, hortelã, coisas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Cotidiano, nas duas primeiras estrofes, é focalizada a figura",
+            "answerA": "da esposa.",
+            "answerB": "do marido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Cotidiano, o sujeito cancional pensa",
+            "answerA": "em continuar sempre trabalhando, pois é feliz.",
+            "answerB": "em parar, em dizer não, mas acaba se calando.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Cotidiano, quando o sujeito cancional volta do trabalho,",
+            "answerA": "encontra sua esposa esperando-o no portão.",
+            "answerB": "não encontra sua esposa, que está trabalhando em turno contrário ao dele.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Cotidiano, a esposa, à noite,",
+            "answerA": "pede ao marido para não se afastar.",
+            "answerB": "pede ao marido para se afastar devido ao cansaço.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 3 do álbum Construção é",
+            "answerA": "Desalento, de Chico Buarque e Vinícius de Moraes.",
+            "answerB": "Construção, de Chico Buarque. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Desalento, Vinícius de Moraes compôs",
+            "answerA": "toda a letra, do primeiro ao último verso.",
+            "answerB": "somente os versos “Diz que eu estive por pouco / Diz a ela que estou louco / Pra perdoar”. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Desalento, o sujeito cancional vive",
+            "answerA": "um desalento, um desânimo, um abatimento.",
+            "answerB": "um estado de felicidade, de alegria.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Desalento, no verso “Diz assim / Que eu chorei / Que eu morri / De arrependimento”, temos",
+            "answerA": "hipérbole. ",
+            "answerB": "eufemismo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Desalento, qual a palavra que completa os seguintes versos: “Vai e diz / Diz assim / Como sou”...",
+            "answerA": "feliz.",
+            "answerB": "infeliz.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Desalento, o sujeito cancional pede ",
+            "answerA": "por amor e por favor para ela voltar.",
+            "answerB": "por ódio e desamor para que ela não volte mais.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Desalento, o sujeito cancional diz que ",
+            "answerA": "rodou, bebeu e caiu...",
+            "answerB": "dançou, beijou e amou...",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Desalento, o sujeito cancional diz que está cansado ",
+            "answerA": "de encontros.",
+            "answerB": "de desencontros.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Desalento, o sujeito cancional, ao final, diz que ",
+            "answerA": "entrega os pontos.",
+            "answerB": "não entrega os pontos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Desalento é ",
+            "answerA": "engajada, dentro da ideia de canção de protesto.",
+            "answerB": "lírica, dentro da linha poética.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção 4 do álbum Construção é",
+            "answerA": "Construção.",
+            "answerB": "Valsinha.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 4, Construção, foi composta por",
+            "answerA": "Vinícius de Moraes.",
+            "answerB": "Chico Buarque.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção 4, Construção, é a canção",
+            "answerA": "mais curta do álbum.",
+            "answerB": "mais longa do álbum.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Construção tem versos",
+            "answerA": "dodecassílabos, ou seja, 12 sílabas.",
+            "answerB": "decassílabos, ou seja, 10 sílabas. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Construção traz, no título, aspecto",
+            "answerA": "fático.",
+            "answerB": "metapoético.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Construção foi eleita ",
+            "answerA": "a segunda melhor canção brasileira de todos os tempos.",
+            "answerB": "a primeira melhor canção brasileira de todos os tempos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Construção só perdeu para ",
+            "answerA": "Ai, se eu te pego, de Michel Teló.",
+            "answerB": "Águas de março, de Tom Jobim. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Construção narra ",
+            "answerA": "os últimos instantes da vida de um operário da construção civil. ",
+            "answerB": "o nascimento de um menino no interior nordestino.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Construção, a última palavra do verso é sempre uma",
+            "answerA": "oxítona.",
+            "answerB": "proparoxítona.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O primeiro verso da canção Construção é",
+            "answerA": "Amou daquela vez como se fosse a última.",
+            "answerB": "Subiu a construção como se fosse máquina.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Construção, nos versos “Sentou pra descansar como se fosse sábado / Comeu feijão com arroz como se fosse um príncipe”, há",
+            "answerA": "eufemismo.",
+            "answerB": "hipérbole.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Construção, o operário bebe, tropeça, flutua e se acaba no chão ",
+            "answerA": "feito um pacote flácido.",
+            "answerB": "como uma brisa pálida.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Construção, na segunda parte, Chico Buarque repete os versos",
+            "answerA": "mas muda a palavra final, a proparoxítona.",
+            "answerB": "sem nenhuma modificação.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Construção, Chico Buarque diz que alterou a sílaba final pensando",
+            "answerA": "nos trabalhos do arquiteto Oscar Niemeyer.",
+            "answerB": "nos trabalhos da artista plástica Lygia Clark.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Construção, o operário, vivo, é sinônimo de trabalho, ",
+            "answerA": "mas, morto, significa empecilho. ",
+            "answerB": "mas, morto, é lamento de todos. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No final da letra da canção Construção, Chico Buarque",
+            "answerA": "repete versos da canção Deus lhe pague, como se fosse uma estrutura circular.",
+            "answerB": "repete versos da canção Cotidiano, somente para reforçar o caráter rotineiro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 5 do álbum Construção é",
+            "answerA": "Acalanto, de Chico Buarque.",
+            "answerB": "Cordão, de Chico Buarque.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Cordão repete a palavra ",
+            "answerA": "ninguém.",
+            "answerB": "todos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Cordão, o sujeito cancional diz que ",
+            "answerA": "ninguém vai calá-lo.",
+            "answerB": "alguém vai calá-lo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Cordão, o sujeito cancional diz que ninguém vai sujeitá-lo",
+            "answerA": "a falar sobre futebol.",
+            "answerB": "a trancar no peito sua paixão.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Cordão, a letra é",
+            "answerA": "apenas poética.",
+            "answerB": "social, engajada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Cordão, o título traz a ideia de luta",
+            "answerA": "coletiva.",
+            "answerB": "individual.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 6 do álbum Construção é ",
+            "answerA": "Olha Maria, de Chico Buarque, Vinícius de Moraes e Tom Jobim.",
+            "answerB": "Samba de Orly, de Chico Buarque, Toquinho e Vinícius de Moraes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Olha Maria, a música é de",
+            "answerA": "Vinícius de Moraes.",
+            "answerB": "Tom Jobim.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Olha Maria, a música é de Tom Jobim, mas a letra é de",
+            "answerA": "Chico Buarque e Vinícius de Moraes.",
+            "answerB": "Caetano Veloso e Gilberto Gil.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Olha Maria, o sujeito cancional tem como interlocutora",
+            "answerA": "a própria canção.",
+            "answerB": "a Maria.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Olha Maria, o sujeito cancional diz que ",
+            "answerA": "vai prender Maria de qualquer jeito.",
+            "answerB": "não vai prender Maria, pois não vale a pena.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Olha Maria, o sujeito cancional é ciente de que",
+            "answerA": "Maria não quer ficar ali com ele.",
+            "answerB": "Maria quer muito ficar ali com ele.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Olha Maria, o sujeito cancional diz que Maria",
+            "answerA": "está tão mulher.",
+            "answerB": "está tão infantil.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Olha Maria, o sujeito cancional chama Maria de",
+            "answerA": "Maria parada, Maria estática.",
+            "answerB": "Maria cigana, Maria maré.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Olha Maria, o sujeito cancional pede que Maria ",
+            "answerA": "aproveite a vida, que é uma primavera.",
+            "answerB": "não aproveite a vida, pois não vale a pena.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No final da canção Olha Maria, o sujeito cancional diz que só poderia oferecer a Maria",
+            "answerA": "a sua agonia.",
+            "answerB": "a sua felicidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 7 do álbum Construção é ",
+            "answerA": "Acalanto, de Chico Buarque.",
+            "answerB": "Samba de Orly, de Chico Buarque, Toquinho e Vinícius de Moraes.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Samba de Orly, a música é de",
+            "answerA": "Toquinho.",
+            "answerB": "Tom Jobim.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Samba de Orly, aparece nos créditos o nome de Vinícius de Moraes,",
+            "answerA": "mas os versos que ele compôs foram censurados; logo, não compôs nada.",
+            "answerB": "que fez a maioria dos versos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Samba de Orly, o título refere-se ",
+            "answerA": "ao aeroporto de Paris.",
+            "answerB": "ao aeroporto de Roma.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A escolha do título Samba de Orly faz referência ao aeroporto de Paris,",
+            "answerA": "porque todos os exilados brasileiros foram para lá.",
+            "answerB": "porque Paris era uma cidade povoada de exilados brasileiros.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Samba de Orly, o sujeito cancional chama seu interlocutor de",
+            "answerA": "irmão.",
+            "answerB": "primo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Samba de Orly, o sujeito cancional diz ao seu interlocutor ",
+            "answerA": "pegar o avião e voltar ao Brasil.",
+            "answerB": "pegar o carro e voltar a Paris.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Samba de Orly, os versos de Vinícius de Moraes, “Pela omissão um tanto forçada”, foram trocados por:",
+            "answerA": "Pela duração dessa temporada.",
+            "answerB": "Pela sensação dessa jogada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Samba de Orly, o sujeito cancional pede ao interlocutor ",
+            "answerA": "para não dizer que o viu chorando.",
+            "answerB": "para revelar o quanto ele está triste.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 8 do álbum Construção é ",
+            "answerA": "Valsinha, de Chico Buarque e Vinícius de Moraes.",
+            "answerB": "Acalanto, de Chico Buarque.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Valsinha, Chico Buarque ",
+            "answerA": "recebe a música de Vinícius de Moraes e compôs a letra.",
+            "answerB": "recebe a letra de Caetano Veloso e compôs a música.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Valsinha, há uma mudança de rotina:",
+            "answerA": "o marido, sempre carinhoso, chega com raiva da esposa.",
+            "answerB": "o marido chega diferente, sem xingar a esposa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Valsinha, o marido ",
+            "answerA": "convidou a esposa para rodar, dançar.",
+            "answerB": "convida a esposa para dormir.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Valsinha, o verso que marca a mudança de rotina é:",
+            "answerA": "Depois os dois deram-se os braços como há muito tempo não se usava dar.",
+            "answerB": "Depois os dois foram dormir como sempre faziam todas as noites.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Valsinha, marido e mulher",
+            "answerA": "dançam tanto a ponto de a vizinhança toda despertar.",
+            "answerB": "dançam escondidos, num momento apenas deles.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Valsinha, marido e mulher estão num clima tal de felicidade, que",
+            "answerA": "o mundo todo se apagou.",
+            "answerB": "a cidade toda se iluminou.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na final da canção Valsinha, vemos que ",
+            "answerA": "o dia amanheceu em paz.",
+            "answerB": "o dia amanheceu com ódio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção 9 do álbum Construção é",
+            "answerA": "Acalanto, de Chico Buarque.",
+            "answerB": "Minha história, versão de Chico Buarque da canção Gesù bambino, de Lucio Dalla e Paola Pallotino.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção Minha história é ",
+            "answerA": "a única versão no álbum.",
+            "answerB": "uma das cinco versões do álbum.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção original, Gesù bambino, tinha por subtítulo ",
+            "answerA": "O filho da guerra.",
+            "answerB": "Deus lhe pague.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, Chico Buarque queria, como título original,",
+            "answerA": "O filho da puta.",
+            "answerB": "O filho da luta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, o sujeito cancional ",
+            "answerA": "conta a história do nascimento de seu filho.",
+            "answerB": "conta a história do seu nascimento.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Minha história, o sujeito cancional diz que seu pai",
+            "answerA": "era um marinheiro, com tatuagem no braço e dourado no dente.",
+            "answerB": "era um padre, com batina e meias pretas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, o sujeito cancional diz que sua mãe era",
+            "answerA": "prostituta.",
+            "answerB": "marinheira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, o sujeito cancional diz que seu pai ",
+            "answerA": "apenas transou com sua mãe e sumiu.",
+            "answerB": "transou com sua mãe e assumiu o filho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, o sujeito cancional diz que sua mãe ",
+            "answerA": "não ficou esperando a volta do marinheiro com quem teve um caso.",
+            "answerB": "ficou esperando a volta do marinheiro com quem teve um caso.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na canção Minha história, o verso “parada, pregada na pedra do porto” traz",
+            "answerA": "aliteração.",
+            "answerB": "antítese.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, o sujeito cancional diz que sua mãe ",
+            "answerA": "não se lembrava de acalantos, então entoava cantigas de cabaré.",
+            "answerB": "se lembrava de várias cantigas de ninar e as cantava.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Minha história, a mãe do sujeito cancional ",
+            "answerA": "chama o filho de Menino Jesus.",
+            "answerB": "chama o filho de Menino Neymar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Minha história é",
+            "answerA": "totalmente autobiográfica: relata a vida de Chico Buarque.",
+            "answerB": "é uma versão, sem se relacionar com a vida de Chico Buarque.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A canção 10 do álbum Construção é ",
+            "answerA": "Acalanto, de Chico Buarque.",
+            "answerB": "Cotidiano, de Chico Buarque.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A canção Acalanto foi composta por Chico Buarque ",
+            "answerA": "para sua filha Helena.",
+            "answerB": "para seu pai, Sergio Buarque.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Acalanto, que lembra cantiga de ninar, o sujeito cancional pede que sua filha",
+            "answerA": "durma, pois não vale a pena acordar.",
+            "answerB": "acorde, pois vale a pena viver o Brasil.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na canção Acalanto, o sujeito cancional diz que ",
+            "answerA": "vai ficar em casa isolado, sem contato exterior.",
+            "answerB": "vai sair por aí, atrás da aurora mais serena.",
+            "correctAnswer": "B"
+        }
+    ]
+}

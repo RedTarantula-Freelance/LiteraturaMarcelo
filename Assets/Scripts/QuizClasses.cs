@@ -8,9 +8,6 @@ public class Question
     public string question;
     public string answerA;
     public string answerB;
-    public string answerC;
-    public string answerD;
-    public string answerE;
     public string correctAnswer;
 }
 
@@ -21,6 +18,7 @@ public class Questionary
     public string title;
     public string description;
     public string abrev;
+    public string file;
     public int lastAnsweredQuestion;
     public int correctAnswers;
     public int averagescore;

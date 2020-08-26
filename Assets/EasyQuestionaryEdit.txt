@@ -1,0 +1,16 @@
+.*[0-9]\. 
+{\n"question":  "
+
+\r?\na\) 
+",\n"answerA": "
+
+\r?\nb\) 
+",\n"answerB": "
+
+\r\n[\r]
+",\n"correctAnswer": "A"\n},
+
+OU
+
+\n\n\{
+",\n"correctAnswer": "A"\n},\n{

@@ -1,0 +1,616 @@
+{
+    "Items": [
+        {
+            "question": "O livro de contos “Papéis avulsos”, de 1882, foi escrito por",
+            "answerA": "José de Alencar.",
+            "answerB": "Machado de Assis.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O livro de contos “Papéis avulsos” tem",
+            "answerA": "12 contos.",
+            "answerB": "10 contos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na “Advertência” do livro, Machado de Assis alerta que, ",
+            "answerA": "apesar de serem contos separados, há pontos em comum.",
+            "answerB": "são contos separados, sem nenhum ponto em comum.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto um é intitulado ",
+            "answerA": "Verba testamentária.",
+            "answerB": "O alienista.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O alienista, há uma sátira da ",
+            "answerA": "loucura, tendo por inspiração o conto O sistema do doutor Alcatrão e do professor Pena, de Edgar Allan Poe.",
+            "answerB": "doença da varíola, tendo por inspiração o conto Baleia, de Graciliano Ramos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O alienista é narrado em ",
+            "answerA": "primeira pessoa.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O alienista, para trazer certo distanciamento temporal e confiabilidade, o narrador cita ",
+            "answerA": "as crônicas da vila de Itaguaí.",
+            "answerB": "os periódicos da vila de Santa Fé.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Simão Bacamarte, o alienista, entrega-se de corpo e alma ",
+            "answerA": "ao estudo das leis.",
+            "answerB": "ao estudo da ciência. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Simão Bacamarte é casado com",
+            "answerA": "Dona Conceição da Costa Prado, setenta anos, mulher bonita e simpática.",
+            "answerB": "Dona Evarista da Costa e Mascarenhas, vinte e cinco anos, não bonita nem simpática.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Simão Bacamarte e Dona Evarista não tiveram filhos, e ele atribui ",
+            "answerA": "à mulher a total extinção da dinastia dos Bacamartes.",
+            "answerB": "a ele próprio a total extinção da dinastia dos Bacamartes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O alienista, Crispim Soares é o boticário da vila e caracteriza-se por ser",
+            "answerA": "um extremo bajulador de Simão Bacamarte.",
+            "answerB": "um inimigo feroz de Simão Bacamarte.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O alienista, o nome do manicômio, ou casa de orates, é",
+            "answerA": "Lar Feliz Idade, por alusão à faixa etária.",
+            "answerB": "Casa Verde, por alusão à cor das janelas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em um primeiro momento, o alienista prende",
+            "answerA": "os estranhos, o que causa uma revolução na vila de Itaguaí.",
+            "answerB": "os loucos consagrados, não causando muita agitação na vila de Itaguaí.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O alienista classificou os enfermos em duas classes principais: ",
+            "answerA": "os brasileiros e os portugueses.",
+            "answerB": "os furiosos e os mansos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A primeira teoria de Simão Bacamarte diz que",
+            "answerA": "a razão é o perfeito equilíbrio de todas as faculdades; fora daí insânia, insânia e só insânia.",
+            "answerB": "a razão é o perfeito desequilíbrio de todas as faculdades; fora daí insânia, insânia e só insânia.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O alienista, a revolta contra a Casa Verde, primeiramente, é liderada ",
+            "answerA": "pelo barbeiro Porfírio.",
+            "answerB": "pelo barbeiro João Pina.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Uma segunda revolta surge contra o alienista e é liderada pelo",
+            "answerA": "barbeiro Porfírio.",
+            "answerB": "barbeiro João Pina.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O alienista, após saber que quatro quintos da população de Itaguaí estavam na Casa Verde, propõe uma segunda teoria:",
+            "answerA": "A razão é o perfeito desequilíbrio de todas as faculdades. Fora daí, é loucura. ",
+            "answerB": "A razão é o perfeito equilíbrio de todas as faculdades. Fora daí, é loucura.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No final do conto, o alienista chega à conclusão de que reunia em si mesmo a teoria e a prática, e resolve",
+            "answerA": "entregar-se, de corpo e alma, ao estudo de sua esposa, que vem a falecer dois anos depois.",
+            "answerB": "entregar-se ao estudo e à cura de si mesmo, vindo a morrer dali a dezessete meses.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto dois é Teoria do medalhão, que tem por subtítulo",
+            "answerA": "Diálogo.",
+            "answerB": "Monólogo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Teoria do medalhão, há uma conversa entre",
+            "answerA": "tio e sobrinho.",
+            "answerB": "pai e filho.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Teoria do medalhão, o pai passa ao filho a teoria do medalhão, querendo que o filho",
+            "answerA": "tenha um futuro obscuro, sem ser percebido.",
+            "answerB": "se faça grande e ilustre, acima da obscuridade comum.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Teoria do medalhão, quem mais fala é o",
+            "answerA": "pai.",
+            "answerB": "filho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Teoria do medalhão, o pai aconselha o filho",
+            "answerA": "a não ter ideias, a abafar todas elas.",
+            "answerB": "a ter ideias, a expandir todas elas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Teoria do medalhão, o pai proíbe o filho ",
+            "answerA": "de ir ao teatro e às calçadas para se mostrar.",
+            "answerB": "de chegar a outras conclusões que não sejam as já achadas por outros.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Teoria do medalhão, o pai quer que o filho Janjão",
+            "answerA": "fuja a tudo que possa cheirar a reflexão e originalidade.",
+            "answerB": "procure sempre a reflexão e a originalidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Teoria do medalhão, o pai diz ao filho que, guardadas as devidas proporções, a conversa valeu",
+            "answerA": "o Inferno de Dante, aludindo as belezas do céu, do purgatório e do paraíso.",
+            "answerB": "o Príncipe de Maquiavel, aludindo à ideia de como conquistar o poder e manter esse poder.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto três é intitulado A chinela turca, narrado em",
+            "answerA": "primeira pessoa.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A chinela turca, o bacharel Duarte recebe a visita do",
+            "answerA": "Cabo João Elói.",
+            "answerB": "Major Lopo Alves.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A chinela turca, Lopo Alves traz um rolo debaixo do braço, que é",
+            "answerA": "um drama que ele escreveu, com 180 páginas.",
+            "answerB": "um testamento de seu pai, com 10 páginas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em A chinela turca, quando chega Lopo Alves, Duarte estava pronto para",
+            "answerA": "ir a um teatro onde estava seu melhor amigo, Paulo.",
+            "answerB": "ir a um baile onde estava seu amor, Cecília.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A chinela turca, enquanto Lopo Alves lê sua peça a Duarte, este",
+            "answerA": "pega no sono e tem um pesadelo cheio de ação.",
+            "answerB": "ouve atentamente, sem perder nenhum detalhe.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em A chinela turca, Duarte, no final, agradece ",
+            "answerA": "ao Major Lopo Alves, seu amigo, por ter feito uma peça muito boa, cheia de ação.",
+            "answerB": "à Ninfa, a fantasia inquieta e fértil, por ter o salvado de uma peça ruim peça com um sonho original.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A chinela turca, há",
+            "answerA": "a mistura da realidade com o sonho, surgindo o fantástico.",
+            "answerB": "apenas a questão da realidade, sem o elemento do fantástico. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto quatro é Na arca, que tem por subtítulo",
+            "answerA": "Dois capítulos inéditos do Alcorão.",
+            "answerB": "Três capítulos inéditos do Gênesis.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto Na arca é narrado ",
+            "answerA": "como um diário, totalmente datado.",
+            "answerB": "como uma escritura, em forma de versículos. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Na arca, o tema é a briga de ",
+            "answerA": "dois dos três filhos de Noé: Sem e Jafé.",
+            "answerB": "Noé com seus três filhos: Jafé, Sem e Cam.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Na arca, Sem e Jafé pensam ",
+            "answerA": "na união entre os irmãos.",
+            "answerB": "na divisão e na posse da terra.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto cinco é D. Benedita, que tem por subtítulo",
+            "answerA": "Um espelho.",
+            "answerB": "Um retrato.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em D. Benedita, o conto vai construir o significado do que é ",
+            "answerA": "a ganância, o desespero, a raiva da protagonista.",
+            "answerB": "a veleidade, a volubilidade, a inconstância da protagonista.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em D. Benedita, o marido de Dona Benedita é",
+            "answerA": "um desembargador que está no Pará há dois anos.",
+            "answerB": "um médico que está em Paris há cinco anos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em D. Benedita, a protagonista",
+            "answerA": "leva tudo que faz até o fim.",
+            "answerB": "não leva nada nunca até o fim. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No final do conto D. Benedita, surge",
+            "answerA": "uma figura que se apresenta como a Veleidade.",
+            "answerB": "uma estrela no céu que cativa a protagonista.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto seis é O segredo do bonzo, que tem por subtítulo",
+            "answerA": "Capítulo inédito de Pero Vaz de Caminha.",
+            "answerB": "Capítulo inédito de Fernão Mendes Pinto.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto O segredo do bonzo é narrado em",
+            "answerA": "primeira pessoa, por Fernão Mendes Pinto.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O segredo do bonzo, aparece a figura de Fernão Mendes Pinto, ",
+            "answerA": "médico português do século XIX.",
+            "answerB": "explorador real e aventureiro português do século XVI.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O segredo do bonzo, o parceiro de passeio de Fernão Mendes Pinto é",
+            "answerA": "Pero Vaz.",
+            "answerB": "Diogo Meireles.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto O segredo do bonzo se passa ",
+            "answerA": "na cidade Fuchéu, em 1552.",
+            "answerB": "no Rio de Janeiro, em 1880.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O segredo do bonzo, o orador Patimau chegou à conclusão que os grilos ",
+            "answerA": "surgiam do meio das matas, em dias de lua cheia.",
+            "answerB": "surgiam do ar e das folhas de coqueiro, na conjunção da lua nova. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O segredo do bonzo, o orador Languru diz que ",
+            "answerA": "descobriu o princípio da vida: uma certa gota de sangue de vaca.",
+            "answerB": "descobriu a origem dos homens: Adão e Eva.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O segredo do bonzo, a doutrina de Pomada diz que",
+            "answerA": "uma coisa pode existir na opinião, sem existir na realidade, e existir na realidade, sem existir na opinião.",
+            "answerB": "uma coisa não pode existir na opinião, somente na realidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O segredo do bonzo, a experiência de Diogo Meireles consistia em",
+            "answerA": "desumbigar os doentes e substituir o umbigo machucado por um transplantado.",
+            "answerB": "desnarigar os doentes e substituir o nariz disforme por um nariz são, mas metafísico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O segredo do bonzo, o do segredo do bonzo Pomada consiste em que ",
+            "answerA": "o valor da realidade se sobrepõe ao da opinião, enfocando o tema da mentira.",
+            "answerB": "o valor da opinião se sobrepõe à realidade, trabalhando o tema do charlatanismo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto sete é O anel de Polícrates, que é um",
+            "answerA": "diálogo entre os personagens A e Z.",
+            "answerB": "um monólogo do personagem A.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O anel de Polícrates, Xavier, ao ver um homem brigando para não cair do cavalo, larga a seguinte frase:",
+            "answerA": "Quem não pecar, que atire a primeira pedra.",
+            "answerB": "Quem não for cavaleiro, que o pareça.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O anel de Polícrates, “A” conta a “Z” a história de Polícrates,",
+            "answerA": "que era um rei feliz que quis testar sua própria sorte.",
+            "answerB": "que era um rei infeliz e quis testar seu próprio azar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O anel de Polícrates, Polícrates testa sua sorte jogando um anel precioso no mar,",
+            "answerA": "que foi engolido por um peixe, que foi pescado e mandado para a cozinha do rei, que assim voltou à posse do anel.",
+            "answerB": "que foi engolido por um peixe, que foi pescado e mandado para um pobre morador de rua, que fica rico.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O anel de Polícrates, o personagem Xavier cria frases, fala para as outras pessoas, ",
+            "answerA": "e todos lhe atribuem a autoria.",
+            "answerB": "mas ninguém lhe atribui a autoria.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto oito, O empréstimo, é narrado em",
+            "answerA": "primeira pessoa.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O narrador do conto O empréstimo diz que o conto é também uma",
+            "answerA": "epopeia.",
+            "answerB": "anedota.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O empréstimo, o tabelião se chama",
+            "answerA": "Vaz Nunes.",
+            "answerB": "Custódio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O empréstimo, Custódio é um personagem que nasceu",
+            "answerA": "com a vocação do trabalho, mas sem a vocação da riqueza.",
+            "answerB": "com a vocação da riqueza, mas sem a vocação do trabalho. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O empréstimo, Custódio metia-se em alguns negócios, ",
+            "answerA": "mas tinha o faro das catástrofes.",
+            "answerB": "e tinha o faro do sucesso.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O empréstimo, Custódio vem pedir dinheiro emprestado a Vaz Nunes para entrar ",
+            "answerA": "numa sociedade de fábrica de cerveja.",
+            "answerB": "numa sociedade de fábrica de agulhas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O empréstimo, Custódio ",
+            "answerA": "recebe o valor que pediu inicialmente a Vaz Nunes, conseguindo participar da sociedade.",
+            "answerB": "não recebe o valor solicitado inicialmente, o que o impede de fazer parte da sociedade.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O empréstimo, Custódio, inicialmente, pede cinco contos a Vaz Nunes, mas, no final, recebe",
+            "answerA": "dez contos, o dobro que pediu.",
+            "answerB": "cinco mil réis, 1% do que pediu inicialmente. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O empréstimo, Custódio recebe apenas cinco mil réis emprestados de Vaz Nunes,",
+            "answerA": "e fica extremamente irritado, saindo com o rosto cheio de lágrimas.",
+            "answerB": "mas mesmo assim fica feliz, pois pediu e recebeu, sem trabalhar. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto nove é A Sereníssima República, que tem por subtítulo",
+            "answerA": "Discurso do Padre Vieira.",
+            "answerB": "Conferência do Cônego Vargas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A Sereníssima República, o gênero textual é",
+            "answerA": "um debate.",
+            "answerB": "uma conferência.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto A Sereníssima República é narrado em",
+            "answerA": "terceira pessoa.",
+            "answerB": "primeira pessoa, pelo cônego Vargas.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A Sereníssima República, o cônego Vargas diz que descobriu uma espécie de aranha que dispõe ",
+            "answerA": "do uso da fala.",
+            "answerB": "do uso da atividade religiosa. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em A Sereníssima República, o cônego Vargas recolheu algumas aranhas e ",
+            "answerA": "organizou-as socialmente.",
+            "answerB": "separou-as em várias cidades.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em A Sereníssima República, o cônego Vargas diz a primeira aranha dessa espécie é",
+            "answerA": "pequena, cinza, dorso verde, com listras pretas.",
+            "answerB": "vasta, colorida, dorso rubro, com listras azuis. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A Sereníssima República, o cônego Vargas descobre nesse espécie de aranha",
+            "answerA": "uma língua limitada, sem estrutura sintáxica.",
+            "answerB": "uma língua rica e variada, com a sua estrutura sintáxica.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A Sereníssima República, o sistema de governo dado às aranhas é ",
+            "answerA": "a ditadura.",
+            "answerB": "a república. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em A Sereníssima República, o sistema de governo é inspirado ",
+            "answerA": "na República de Veneza.",
+            "answerB": "no Império do Brasil.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em A Sereníssima República, o longo discurso do cônego Vargas se encerra com um apelo ",
+            "answerA": "à sapiência, ao saber. ",
+            "answerB": "aos deuses da mitologia romana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em A Sereníssima República, toda vez que há eleições, há",
+            "answerA": "fraude.",
+            "answerB": "honestidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto dez é O Espelho, que tem por subtítulo ",
+            "answerA": "Esboço de uma nova teoria da alma humana.",
+            "answerB": "Esboço de uma nova teoria do riso animal.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto O espelho é narrado em ",
+            "answerA": "primeira pessoa.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O espelho, Jacobina conta um caso que ocorreu com ele, dizendo que",
+            "answerA": "o ser humano tem duas almas: uma exterior e uma interior.",
+            "answerB": "as plantas têm duas almas: uma exterior e uma interior.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O espelho, Jacobina conta que tinha vinte e cinco anos quando foi nomeado ",
+            "answerA": "deputado federal.",
+            "answerB": "alferes da Guarda Nacional. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O espelho, Jacobina fica um tempo na casa de",
+            "answerA": "sua tia Marcolina.",
+            "answerB": "seu tio João. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O espelho, Jacobina diz que, ao ficar sozinho, perde toda a bajulação que faziam a ele, ",
+            "answerA": "e a alma exterior fica menor que a alma interior.",
+            "answerB": "e a alma interior fica menor que a alma exterior. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O espelho, quando Jacobina olha para o espelho sem a farda de alferes, ",
+            "answerA": "vê sua figura nítida e perfeita.",
+            "answerB": "vê apenas uma figura vaga, esfumada, difusa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em O espelho, quando Jacobina olha para o espelho com a farda de alferes, ",
+            "answerA": "vê sua figura nítida e perfeita.",
+            "answerB": "vê apenas uma figura vaga, esfumada, difusa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em O espelho, a temática do conto é",
+            "answerA": "velhice x juventude, e daí surge a verossimilhança. ",
+            "answerB": "aparência x essência, e daí surge o fantástico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O conto onze é Uma visita de Alcibíades, que tem ",
+            "answerA": "estrutura epistolar, com o formato e o desenvolvimento de uma carta.",
+            "answerB": "estrutura de conferência, com o formato de um monólogo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, a carta é mandado pelo Desembargador X ",
+            "answerA": "ao alferes da Guarda Nacional, em 10 de abril de 1882.",
+            "answerB": "ao Chefe de Polícia da Corte, em 20 de setembro de 1875.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, o Desembargador X lê a vida de",
+            "answerA": "Alcibíades, general e político de Atenas.",
+            "answerB": "Homero, escritor grego.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, o Desembargador X diz que é",
+            "answerA": "espiritista.",
+            "answerB": "ateu.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, o Desembargador X resolve evocar o ateniense Alcebíades, e dois minutos depois",
+            "answerA": "surge o fantasma de Alcibíades, mudo.",
+            "answerB": "estava ali o próprio Alcibíades, em carne e osso.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, o Desembargador X e Alcibíades falam",
+            "answerA": "em português arcaico.",
+            "answerB": "em grego antigo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, Alcibíades, ao ver o Desembargador X passando a gravata em volta do pescoço, supôs que",
+            "answerA": "o Desembargador X iria se enforcar.",
+            "answerB": "o Desembargador X iria demorar demais para se arrumar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Uma visita de Alcibíades, Alcibíades morre pela segunda vez quando",
+            "answerA": "o Desembargador X põe o chapéu na cabeça.",
+            "answerB": "o Desembargador X põe as luvas amarelas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto doze é Verba testamentária, trazendo o tema do",
+            "answerA": "comportamento patológico.",
+            "answerB": "comportamento escolar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Verba testamentária, o conto começa com a transcrição de uma cláusula do testamento de ",
+            "answerA": "Nicolau B. de C., com a sua vontade ser enterrado em caixão feito por Joaquim Soares.",
+            "answerB": "Joaquim Soares, com a vontade de ser morto a tiros numa rua mal iluminada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O conto Verba testamentária é narrado em",
+            "answerA": "primeira pessoa.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Verba testamentária, vemos, em alguns exemplos, ",
+            "answerA": "a grande inveja patológica de Nicolau.",
+            "answerB": "grandes atos de humildade de Joaquim.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em Verba testamentária, o cunhado de Nicolau é",
+            "answerA": "um aventureiro português, único personagem que conversa com Nicolau.",
+            "answerB": "um médico holandês, único personagem que vê o sofrimento de Nicolau como uma doença.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Verba testamentária, o cunhado de Nicolau dizia que a doença estava descoberta: ",
+            "answerA": "Nicolau tinha tuberculose, e essa doença o impedia de fazer suas corridas diárias.",
+            "answerB": "Nicolau se nutria da dor do paciente, pela vista de alguns fatos, situações ou pessoas. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em Verba testamentária, Nicolau escolheu um mau profissional para fazer o caixão porque",
+            "answerA": "assim evitava que, no seu enterro, elogiassem o fabricante do caixão. ",
+            "answerB": "assim evitava que, no seu enterro, elogiassem o próprio Nicolau.  ",
+            "correctAnswer": "A"
+        }
+    ]
+}

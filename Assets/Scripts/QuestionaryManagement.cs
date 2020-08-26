@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.IO;
+using System.Security.Cryptography;
+using TMPro;
 
 public class QuestionaryManagement : MonoBehaviour
 {
@@ -26,13 +28,13 @@ public class QuestionaryManagement : MonoBehaviour
 
     Question[] questions;
     int questionsAmmount;
-    int rightAnswers = 0;
+    public int rightAnswers = 0;
     int currentQuestion;
     string jsonString;
 
-    public Text progressText;
-    public Text titleText;
-    public Text questionText;
+    public TextMeshProUGUI progressText;
+    public TextMeshProUGUI titleText;
+    public TextMeshProUGUI questionText;
 
     public GameObject questionObject;
     public GameObject resultsObject;
@@ -43,15 +45,35 @@ public class QuestionaryManagement : MonoBehaviour
     public Text gradeText;
     public Text bestGradeText;
 
-    int stars;
+    int steps;
+    bool shouldFillStars = false;
     public Image star1,star2,star3;
-    public Sprite emptyStar, halfStar, fullStar;
+    public Image optionA_bg, optionB_bg;
+    public GameObject nextQuestionButton;
+    public Color32 correctColor;
+    public Color32 wrongColor;
+
+    public ParticleSystem part_star1,part_star2,part_star3;
 
     public GameObject questionViewPort;
     public GameObject questionTextObj;
     public GameObject questionImageObj;
     public GameObject questionGapObj;
 
+    public AudioManager am;
+
+    public GameObject rightParticles;
+    public GameObject wrongParticles;
+
+    public Camera cam;
+
+    private void Awake()
+    {
+        
+        part_star1.Stop();
+        part_star2.Stop();
+        part_star3.Stop();
+    }
 
     void Start()
     {
@@ -61,10 +83,19 @@ public class QuestionaryManagement : MonoBehaviour
         questionsAmmount = questions.Length;
         titleText.text = MenuVariables.selectedQuestionaryObj.title;
         UpdateFields();
+
+        star1.fillAmount = 0f;
+        star2.fillAmount = 0f;
+        star3.fillAmount = 0f;
+
+        am = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+
+
     }
 
     public void Results()
     {
+        am.PlayBarFilling();
         questionObject.SetActive(false);
         resultsObject.SetActive(true);
         titleText.text = "Results";
@@ -91,12 +122,21 @@ public class QuestionaryManagement : MonoBehaviour
             UpdateSave(grade,false);
         }
         GetStarsScore();
+        shouldFillStars = true;
+    }
+
+    private void Update()
+    {
+        if(shouldFillStars)
+        {
+            shouldFillStars = !DealWithStars();
+        }
     }
 
     public void Interrupt()
     {
         SaveProgress();
-        SceneManager.LoadScene("MainMenu",LoadSceneMode.Single);
+        SceneManager.LoadScene("QuestionarySelection",LoadSceneMode.Single);
     }
 
     void UpdateSave(int grade,bool bestScore)
@@ -128,15 +168,50 @@ public class QuestionaryManagement : MonoBehaviour
 
     public void Answer(string answer)
     {
-        if (CheckIfAnsweredCorrectly(answer))
+        bool c = CheckIfAnsweredCorrectly(answer);
+
+        optionA_bg.gameObject.SetActive(true);
+        optionB_bg.gameObject.SetActive(true);
+        nextQuestionButton.SetActive(true);
+
+
+        if (c)
         {
             rightAnswers++;
+            Instantiate(rightParticles,cam.ScreenToWorldPoint(Input.mousePosition),Quaternion.identity);
         }
-        NextQuestion();
+        else
+        {
+            Instantiate(wrongParticles,cam.ScreenToWorldPoint(Input.mousePosition),Quaternion.identity);
+        }
+
+        am.PlayAnswer(c);
+        
+
+
+        switch (questions[currentQuestion].correctAnswer)
+        {
+            case "A":
+                optionA_bg.color = correctColor;
+                optionB_bg.color = wrongColor;
+                break;
+            case "B":
+                optionA_bg.color = wrongColor;
+                optionB_bg.color = correctColor;
+                break;
+        }
+
+
     }
 
-    void NextQuestion()
+    public void NextQuestion()
     {
+        optionA_bg.gameObject.SetActive(false);
+        optionB_bg.gameObject.SetActive(false);
+        nextQuestionButton.SetActive(false);
+
+        am.PlayButtonSFX(0);
+
         if (currentQuestion < questionsAmmount - 1)
         {
             currentQuestion++;
@@ -185,11 +260,8 @@ public class QuestionaryManagement : MonoBehaviour
     {
         string s = "Alternativas:\n\n";
         
-        s += "A: " + questions[currentQuestion].answerA + "\n";
+        s += "A: " + questions[currentQuestion].answerA + "\n\n";
         s += "B: " + questions[currentQuestion].answerB + "\n";
-        s += "C: " + questions[currentQuestion].answerC + "\n";
-        s += "D: " + questions[currentQuestion].answerD + "\n";
-        s += "E: " + questions[currentQuestion].answerE;
 
         CreateText(s);
     }
@@ -204,7 +276,7 @@ public class QuestionaryManagement : MonoBehaviour
     void CreateText(string txt)
     {
         GameObject go = Instantiate(questionTextObj);
-        Text t = go.GetComponent<Text>();
+        TextMeshProUGUI t = go.GetComponent<TextMeshProUGUI>();
         t.text = txt;
         go.transform.SetParent(questionViewPort.transform);
         go.transform.localScale = new Vector3(1f, 1f);
@@ -263,55 +335,142 @@ public class QuestionaryManagement : MonoBehaviour
     {
         if (grade == 100)
         {
-            stars = 3;
-            star1.sprite = fullStar;
-            star2.sprite = fullStar;
-            star3.sprite = fullStar;
+            steps = 5;
         }
         else if (grade >= 80)
         {
-            stars = 3;
-            star1.sprite = fullStar;
-            star2.sprite = fullStar;
-            star3.sprite = halfStar;
+            steps = 4;
         }
         else if (grade >= 60)
         {
-            stars = 3;
-            star1.sprite = fullStar;
-            star2.sprite = fullStar;
-            star3.sprite = emptyStar;
+            steps = 3;
         }
         else if (grade >= 50)
         {
-            stars = 3;
-            star1.sprite = fullStar;
-            star2.sprite = halfStar;
-            star3.sprite = emptyStar;
+            steps = 2;
         }
         else if (grade >= 25)
         {
-            stars = 3;
-            star1.sprite = fullStar;
-            star2.sprite = emptyStar;
-            star3.sprite = emptyStar;
+            steps = 1;
         }
         else if (grade > 0)
         {
-            stars = 3;
-            star1.sprite = halfStar;
-            star2.sprite = emptyStar;
-            star3.sprite = emptyStar;
+            steps = 0;
         }
         else
         {
-            stars = 0;
-            star1.sprite = emptyStar;
-            star2.sprite = emptyStar;
-            star3.sprite = emptyStar;
+            steps = -1;
         }
 
+
+
     }
+
+
+
+    bool DealWithStars()
+    {
+        bool stop = false;
+        float starFillSpeed = 2f * Time.deltaTime;
+
+        if(steps <= 0)
+        {
+            stop = true;
+        }
+
+        if(steps > -1 && star1.fillAmount < .5f)
+        {
+            Debug.Log("Running through step 0");
+            if(star1.fillAmount + starFillSpeed >= .5f)
+            { 
+            star1.fillAmount = .5f;
+            }
+            else
+            {
+            star1.fillAmount += starFillSpeed;
+            }
+        }
+        else if (steps > 0 && star1.fillAmount < 1f)
+        {
+            Debug.Log("Running through step 1");
+            if(star1.fillAmount + starFillSpeed >= 1f)
+            { 
+            star1.fillAmount = 1f;
+                part_star1.Play();
+                am.PlayStar(0);
+            }
+            else
+            {
+            star1.fillAmount += starFillSpeed;
+            }
+        }
+        else if(steps > 1 && star2.fillAmount < .5f)
+        {
+            Debug.Log("Running through step 2");
+            if(star2.fillAmount + starFillSpeed >= .5f)
+            { 
+            star2.fillAmount = .5f;
+            }
+            else
+            {
+            star2.fillAmount += starFillSpeed;
+            }
+        }
+        else if (steps > 2 && star2.fillAmount < 1f)
+        {
+            Debug.Log("Running through step 3");
+           
+            if(star2.fillAmount + starFillSpeed >= 1f)
+            { 
+            star2.fillAmount = 1f;
+                part_star2.Play();
+                am.PlayStar(1);
+            }
+            else
+            {
+            star2.fillAmount += starFillSpeed;
+            }
+        }
+        else if(steps > 3 && star3.fillAmount < .5f)
+        {
+           
+           
+            Debug.Log("Running through step 4");
+            if(star3.fillAmount + starFillSpeed >= .5f)
+            { 
+            star3.fillAmount = .5f;
+            }
+            else
+            {
+            star3.fillAmount += starFillSpeed;
+            }
+        }
+        else if (steps > 4 && star3.fillAmount < 1f)
+        { 
+           
+            Debug.Log("Running through step 5");
+            if(star3.fillAmount + starFillSpeed >= 1f)
+            { 
+            star3.fillAmount = 1f;
+                part_star3.Play();
+                am.PlayStar(2);
+            }
+            else
+            {
+            star3.fillAmount += starFillSpeed;
+            }
+        }
+        else
+        {
+            am.StopBarFilling();
+            stop = true;
+        }
+
+        return stop;
+    }
+
+
+
     QuestionStructure FindImageTags(string s)
     {
     List<string> questText = new List<string>();

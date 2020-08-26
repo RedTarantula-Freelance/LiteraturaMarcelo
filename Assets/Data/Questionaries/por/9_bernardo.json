@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "São Bernardo, de Graciliano Ramos, é narrado em",
+            "answerA": "primeira pessoa.",
+            "answerB": "terceira pessoa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, o narrador se chama ",
+            "answerA": "Casimiro Lopes.",
+            "answerB": "Paulo Honório.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório pensa, inicialmente, em construir o livro",
+            "answerA": "pela divisão do trabalho. ",
+            "answerB": "de forma solitária. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, o Padre Silvestre ficaria encarregado no livro ",
+            "answerA": "da parte moral e das citações latinas.",
+            "answerB": "da confecção da capa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, João Nogueira ficaria encarregado no livro ",
+            "answerA": "da parte moral e das citações latinas.",
+            "answerB": "da pontuação, da ortografia e da sintaxe.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Arquimedes ficaria encarregado no livro ",
+            "answerA": "da composição tipográfica.",
+            "answerB": "da confecção da capa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Lúcio Gomes de Azevedo Gondim ficaria encarregado no livro ",
+            "answerA": "da composição literária, já que era redator e diretor do Cruzeiro.",
+            "answerB": "da divulgação do livro e da venda de porta em porta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório ficaria encarregado no livro de ",
+            "answerA": "apenas e tão somente pagar para que alguém escreva uma história fictícia sobre o sertão. ",
+            "answerB": "introduzir na história rudimentos de agricultura e pecuária, fazer as despesas e pôr o seu nome na capa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório dispensa a ajuda de João Nogueira, porque este queria",
+            "answerA": "o livro em língua de Camões, com períodos formados de trás para diante. ",
+            "answerB": "o livro em linguagem coloquial, mais próximo da oralidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, ao ouvir uma coruja piar na torre da Igreja, lembra-se de",
+            "answerA": "Margarida.",
+            "answerB": "Madalena.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "São Bernardo faz parte do chamado",
+            "answerA": "Barroco.",
+            "answerB": "Romance de 30.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório abandona a escrita do livro, mas reinicia",
+            "answerA": "ao ouvir o latido do seu cachorro.",
+            "answerB": "ao ouvir novo pio de coruja.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório escreve o livro",
+            "answerA": "valendo-se dos seus próprios recursos e sem indagar se isso lhe traria qualquer vantagem.",
+            "answerB": "usando a ajuda de escritores profissionais, que vão organizar sua vida de forma romanceada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz:",
+            "answerA": "Há fatos que eu não revelaria, cara a cara, a ninguém. Vou narrá-los porque a obra será publicada com pseudônimo.",
+            "answerB": "Tem fatos que eu revelarei a todos porque quero que fiquem sabendo como eu era realmente, de verdade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que ",
+            "answerA": "não é versado em nada, pois nunca se interessou em estudar.",
+            "answerB": "é versado em estatística, pecuária, agricultura e escrituração mercantil.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, quando Paulo Honório decide escrever sua vida, ele tem",
+            "answerA": "50 anos. ",
+            "answerB": "80 anos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que possui certidão,",
+            "answerA": "mencionando o nome dos pais.",
+            "answerB": "mas não menciona pai nem mãe.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, quando jovem, namorava ",
+            "answerA": "sua prima, uma mulher recatada.",
+            "answerB": "a Germana, uma mulher assanhada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, ao saber que Germana o traiu, ",
+            "answerA": "bate nela e esfaqueia o traidor. ",
+            "answerB": "esquece tudo e foge para outra cidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, depois de bater em Germana e esfaquear o traidor,",
+            "answerA": "é preso e pega três anos, nove meses e quinze dias na cadeia.",
+            "answerB": "é preso um dia só e liberado depois de pagar fiança.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório aprende a ler ",
+            "answerA": "quando se apodera da fazenda São Bernardo.",
+            "answerB": "na prisão, com Joaquim sapateiro, que tinha uma Bíblia.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, quando sai da prisão,",
+            "answerA": "pensa em ganhar dinheiro. ",
+            "answerB": "pensa em se casar com Germana.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, quando sai da prisão, ",
+            "answerA": "viaja pelo sertão negociando redes, gado, imagens, rosários...",
+            "answerB": "vira atendente de um bar, ganhando pouco.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório tem um capanga que se chama",
+            "answerA": "Mendonça. ",
+            "answerB": "Casimiro Lopes.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, segundo Paulo Honório, Casimiro Lopes ",
+            "answerA": "é corajoso, tem faro de cão e fidelidade de cão.",
+            "answerB": "é covarde, um homem que não passa confiança.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório se estabelece em Viçosa, Alagoas, e pensa",
+            "answerA": "em viver a vida toda vendendo objetos pelo sertão.",
+            "answerB": "em adquirir a fazenda São Bernardo, onde ele trabalhou no eito. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, o antigo dono de São Bernardo era",
+            "answerA": "Salustiano Padilha, que já morreu.",
+            "answerB": "Madalena, professora viva.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, ao morrer Salustiano Padilha, a fazenda São Bernardo passa para ",
+            "answerA": "Luís Padilha, seu filho.",
+            "answerB": "Seu Ribeiro, um faz-tudo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório faz amizade com Luís Padilha, e vê que ele era",
+            "answerA": "um homem fácil de enganar.",
+            "answerB": "um homem culto e difícil de ser enganado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório empresta dinheiro a Luís Padilha, ",
+            "answerA": "que o aplica de forma séria.",
+            "answerB": "que gasta em besteiras.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório empresta ainda mais dinheiro a Luís Padilha, que",
+            "answerA": "compra uma tipografia e funda um jornal político, que vai à falência.",
+            "answerB": "investe em São Bernardo e começa a ver a ascensão da fazenda.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Luís Padilha não consegue pagar Paulo Honório, mas acabam fazendo um acordo:",
+            "answerA": "Paulo Honório vira o novo dono de São Bernardo.",
+            "answerB": "Paulo Honório perdoa as dívidas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório vê que ",
+            "answerA": "o vizinho Mendonça vai ser um grande amigo.",
+            "answerB": "o vizinho Mendonça vai ser um obstáculo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório manda Casimiro Lopes",
+            "answerA": "matar o velho Mendonça.",
+            "answerB": "matar Madalena.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório encontra seu Ribeiro e o leva para São Bernardo para",
+            "answerA": "ser o padre da igreja.",
+            "answerB": "ser o guarda-livros.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, no capítulo 7, Paulo Honório fala sobre a vida de seu Ribeiro, pondo os verbos ",
+            "answerA": "na terceira pessoa e usando quase a linguagem dele, seu Ribeiro.",
+            "answerB": "na primeira pessoa e usando a linguagem de Paulo Honório.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, seu Ribeiro era respeitado, mas, com o passar do tempo, ",
+            "answerA": "mudou tudo: a civilização transformou seu Ribeiro numa pessoa ultrapassada.",
+            "answerB": "conseguiu ser mais respeitado ainda, pois foi uma pessoa que se formou em vários cursos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, há saltos temporais, como em qual passagem?",
+            "answerA": "Aqui existe um salto de cinco anos, e em cinco anos o mundo dá um bando de voltas.",
+            "answerB": "Escola! Que me importava que os outros soubessem ler ou fossem analfabetos?",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que fez coisas boas que lhe trouxeram prejuízo, mas também",
+            "answerA": "coisas muito melhores que lhe trouxeram muito mais prejuízo.",
+            "answerB": "coisas ruins que lhe deram lucro.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, depois da morte do Mendonça, Paulo Honório ",
+            "answerA": "derruba a cerca e aceita os limites territoriais impostos no tempo de Mendonça.",
+            "answerB": "derruba a cerca e levou-a para além do ponto em que estava no tempo do Salustiano Padilha.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, depois da morte do velho Mendonça, ",
+            "answerA": "invade a terra do Fidélis e dos Gama, respeitando apenas o engenho do Dr. Magalhães.",
+            "answerB": "não invade a terra de mais ninguém, pois fica com medo de uma represália.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório recebe a visita do",
+            "answerA": "governador do Estado de Alagoas.",
+            "answerB": "prefeito de Viçosa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, o governador pergunta a Paulo Honório onde ficava ",
+            "answerA": "o hospital.",
+            "answerB": "a escola. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório ouve os amigos falarem de uma mulher chamada",
+            "answerA": "Madalena.",
+            "answerB": "Margarida.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório contrata Luís Padilha para ser ",
+            "answerA": "o professor da escola de São Bernardo.",
+            "answerB": "o guarda-livros de São Bernardo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, apesar do salário baixo, Luís Padilha aceita ser professor em São Bernardo, porque",
+            "answerA": "diz que gosta de ajudar as pessoas. ",
+            "answerB": "diz que tem embocadura para o magistério.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório fica sabendo que Luís Padilha ",
+            "answerA": "era ateu e transformista, manifestando ideias de extermínio dos burgueses.",
+            "answerB": "era cristão, conservador, manifestando ideias burguesas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que Casimiro Lopes tem ",
+            "answerA": "um vocabulário requintado.",
+            "answerB": "um vocabulário mesquinho. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório pega no flagra Luís Padilha",
+            "answerA": "discursando para Madalena e Dona Glória a favor dos burgueses.",
+            "answerB": "discursando para Marciano e Casimiro Lopes contra os burgueses.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, quando Paulo Honório fica sabendo que Brito o chamou de assassino, ",
+            "answerA": "o narrador vai à cidade e dá um bando de chicotadas nele. ",
+            "answerB": "o narrador vai até a cidade e paga ao Brito muito dinheiro para ficar de boca calada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Madalena é sobrinha de",
+            "answerA": "Dona Glória.",
+            "answerB": "Margarida.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório se interessa por uma mulher chamada",
+            "answerA": "Lorena.",
+            "answerB": "Madalena.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório fica sabendo que Madalena",
+            "answerA": "é professora.",
+            "answerB": "é aposentada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório fica sabendo que Madalena ",
+            "answerA": "publica artigos em revistas.",
+            "answerB": "não escreve nem publica artigos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, ao saber que Madalena escreve artigos, fica",
+            "answerA": "feliz.",
+            "answerB": "desanimado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório convida Madalena para lecionar em São Bernardo, ",
+            "answerA": "mas ela não aceita.",
+            "answerB": "e ela aceita.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, quando conhece Madalena, tem 45 anos, enquanto que Madalena tem",
+            "answerA": "27",
+            "answerB": "45.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório e Madalena se casam ",
+            "answerA": "na Europa, numa igreja antiga.",
+            "answerB": "na capela de São Bernardo. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que procurou afinar a sua sintaxe pela de Madalena, mas não conseguiu evitar erros. Madalena, porém, ",
+            "answerA": "não se incomodava com isso.",
+            "answerB": "se incomodava muito com esse fato.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório fica ",
+            "answerA": "irritado ao ver Madalena conversando com um caboclo da fazenda.",
+            "answerB": "feliz ao ver Madalena conversando com os caboclos da fazenda.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que Madalena era boa em demasia, mas ele ",
+            "answerA": "não culpa ninguém, pois é o destino quem guia.",
+            "answerB": "culpa sua vida agreste, que lhe deu uma alma agreste.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que",
+            "answerA": "é homem de sensibilidades.",
+            "answerB": "não é homem de sensibilidades.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório dá um emprego a Madalena, que ",
+            "answerA": "trabalha no escritório em São Bernardo.",
+            "answerB": "trabalha numa escola na cidade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório fica irritado com Madalena porque ",
+            "answerA": "gastou muito na compra de cavalos.",
+            "answerB": "gastou muito com material escolar.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, para Paulo Honório, o material pedagógico ",
+            "answerA": "era inútil.",
+            "answerB": "era importantíssimo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório e Madalena têm",
+            "answerA": "um menino, cujo nome não sabemos.",
+            "answerB": "uma menina, que se chama Capitu.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Padre Silvestre diz que o comunismo ",
+            "answerA": "é a sorte grande, a organização da sociedade, o ápice.",
+            "answerB": "é a miséria, a desorganização da sociedade, a fome.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Madalena pende para ",
+            "answerA": "o comunismo.",
+            "answerB": "o poder central.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório começa a ",
+            "answerA": "sentir confiança total em Madalena.",
+            "answerB": "sentir ciúmes de Madalena.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que ",
+            "answerA": "não gosta de mulheres intelectuais. ",
+            "answerB": "ama mulheres intelectuais. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, para transar com Rosa, ",
+            "answerA": "enviava Marciano à cidade para fazer compras.",
+            "answerB": "pagava Marciano para que não falasse nada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, o filho de Paulo Honório e Madalena",
+            "answerA": "aparece muito, sempre paparicado pelos pais. ",
+            "answerB": "aparece pouco, basicamente abandonado pelos pais.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, o filho de Paulo Honório e Madalena têm ",
+            "answerA": "os cabelos louros, como os de Madalena. ",
+            "answerB": "os cabelos escuros, como os de Paulo Honório.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório vê que seu filho",
+            "answerA": "tinha sinais seus, era parecidíssimo.",
+            "answerB": "não tinha sinais seus, nem de outro homem.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, após dois anos de casado, Paulo Honório diz que estava indo",
+            "answerA": "de mal a pior.",
+            "answerB": "de vento em popa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório ",
+            "answerA": "pensa que está sendo traído por Madalena.",
+            "answerB": "não tem acesso algum de ciúme.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório vê Madalena escrevendo uma carta, e diz:",
+            "answerA": "Deixe-me, por obséquio, ler a missiva, amor meu.",
+            "answerB": "Deixa ver a carta, galinha.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Dona Glória ouve a discussão de Paulo Honório e Madalena. Paulo Honório diz à Dona Glória:",
+            "answerA": "Vá amolar a puta que a pariu.",
+            "answerB": "Por gentileza, poderia deixar-me a sós com sua sobrinha?",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Madalena, numa discussão com o marido, chama-o de",
+            "answerA": "assassino. ",
+            "answerB": "irresponsável.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que Casimiro Lopes e ele ",
+            "answerA": "eram pessoas bem diferentes.",
+            "answerB": "eram uma pessoa só. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório despede ",
+            "answerA": "Luís Padilha, que acaba ficando.",
+            "answerB": "Casimiro Lopes, que acaba indo embora.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Luís Padilha diz que Madalena",
+            "answerA": "tem ideias avançadas.",
+            "answerB": "tem ideias ultrapassadas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório diz que o único ali que não tem opinião é",
+            "answerA": "Madalena.",
+            "answerB": "Casimiro Lopes.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório tem ciúme ",
+            "answerA": "de Casimiro Lopes.",
+            "answerB": "do padre Silvestre.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório Paulo Honório pensa que Madalena ",
+            "answerA": "está marcando encontro com alguém.",
+            "answerB": "não olha para ninguém.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório se acha ",
+            "answerA": "uma pessoa muito querida e carinhosa.",
+            "answerB": "uma pessoa grosseira, monstruosamente grosseira.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório vai até o jardim e vê no chão uma folha, um trecho de carta, ",
+            "answerA": "destinada a um homem.",
+            "answerB": "destinada a uma mulher.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Madalena diz que o que estragou a relação entre ela e Paulo Honório foi",
+            "answerA": "o dinheiro.",
+            "answerB": "o ciúme.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Madalena ",
+            "answerA": "comete suicídio.",
+            "answerB": "é assassinada por Casimiro Lopes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Madalena ",
+            "answerA": "toma veneno e comete o suicídio.",
+            "answerB": "se enforca e comete suicídio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório vê que o trecho de carta que achou era, na verdade, ",
+            "answerA": "uma parte de uma carta em que Madalena se declarava amorosamente a Luís Padilha.",
+            "answerB": "uma parte de uma carta em que Madalena se despedia dele, Paulo Honório.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, após o suicídio de Madalena, ",
+            "answerA": "Dona Glória vai embora de São Bernardo.",
+            "answerB": "Dona Glória continua a morar em São Bernardo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, passados alguns dias do suicídio de Madalena, ",
+            "answerA": "Seu Ribeiro se mata.",
+            "answerB": "Seu Ribeiro se demite.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Azevedo Gondim traz ",
+            "answerA": "boatos de falência de São Bernardo: muitas dívidas e pouco dinheiro.",
+            "answerB": "boatos de revolução: o sul revoltado, o centro revoltado, o nordeste revoltado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, o pano de fundo histórico é",
+            "answerA": "a Revolução de 30.",
+            "answerB": "a Independência do Brasil.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, quando estoura a Revolução de 30, ",
+            "answerA": "Madalena e Dona Glória incorporam-se às tropas revolucionárias.",
+            "answerB": "Padilha e Padre Silvestre incorporaram-se às tropas revolucionárias. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório vê que ",
+            "answerA": "vários fregueses seus quebraram, os bancos negam-lhe crédito. ",
+            "answerB": "vários fregueses seus enriqueceram, os bancos emprestam dinheiro.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, após dois anos do suicídio de Madalena, ",
+            "answerA": "pensa em cometer suicídio também.",
+            "answerB": "tem a ideia de escrever sua história.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, no final, diz que Madalena veio cheia de bons sentimentos e bons propósitos, ",
+            "answerA": "mas tudo isso esbarrou com a brutalidade e o egoísmo de Paulo Honório.",
+            "answerB": "e isso veio ao encontro dos bons sentimentos e propósitos do marido.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em São Bernardo, Paulo Honório, no final, diz que nem sempre foi egoísta e brutal, e que",
+            "answerA": "foi o casamento que lhe deu qualidades tão ruins.",
+            "answerB": "foi a profissão que lhe deu qualidades tão ruins. ",
+            "correctAnswer": "B"
+        }
+    ]
+}

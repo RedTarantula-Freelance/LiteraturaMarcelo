@@ -16,6 +16,7 @@ public class DisciplinesMenuManager : MonoBehaviour
     public Text questionaryDescriptionText;
     public Text timesAnsweredText;
     public GameObject inProgressText;
+    public GameObject startFrom0Button;
 
     int stars = 0;
     public Image star1,star2,star3;
@@ -61,7 +62,7 @@ public class DisciplinesMenuManager : MonoBehaviour
 
     public void GoToQuestionary(bool startFromBeginning)
     {
-        FilePaths.selectedQuestionaryPath = FilePaths.selectedDisciplinePath + selectedQuestionary.abrev + ".json";
+        FilePaths.selectedQuestionaryPath = FilePaths.selectedDisciplinePath + selectedQuestionary.file + ".json";
         MenuVariables.selectedQuestionaryObj = selectedQuestionary;
 
         if (startFromBeginning)
@@ -91,10 +92,12 @@ public class DisciplinesMenuManager : MonoBehaviour
         if (selectedQuestionary.lastAnsweredQuestion > 0)
         {
             inProgressText.SetActive(true);
+            startFrom0Button.SetActive(true);
         }
         else
         {
             inProgressText.SetActive(false);
+            startFrom0Button.SetActive(false);
         }
         timesAnsweredText.text = "Respondido " + selectedQuestionary.timesAnswered.ToString() + " vezes";
         GetStarsScore();

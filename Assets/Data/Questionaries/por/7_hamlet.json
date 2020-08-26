@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "“Hamlet” é a peça ",
+            "answerA": "mais curta de Shakespeare.",
+            "answerB": "mais longa de Shakespeare.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "“Hamlet” foi uma peça escrita durante ",
+            "answerA": "o Teatro Elisabetano, produzido durante o reinado de Elisabeth I, da Inglaterra. ",
+            "answerB": "o Teatro Clássico Grego, entre 400 a 450 a.C.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "“Hamlet” tem",
+            "answerA": "três atos.",
+            "answerB": "cinco atos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "“Hamlet” pertence ao gênero",
+            "answerA": "narrativo.",
+            "answerB": "dramático.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Em “Hamlet” há rubricas, que são",
+            "answerA": "indicações de cena.",
+            "answerB": "discursos diretos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em “Hamlet” há monólogo (ou solilóquio), em que o ator, ",
+            "answerA": "achando-se só, fala consigo mesmo ou se dirige ao público, expressando seus pensamentos, ideias.",
+            "answerB": "achando-se rodeado por vários atores, dirige-se a eles. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em “Hamlet” há tempo ",
+            "answerA": "apenas cronológico.",
+            "answerB": "cronológico e psicológico.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "“Hamlet” se passa ",
+            "answerA": "na Dinamarca, num castelo em Elsinor.",
+            "answerB": "na Inglaterra, num palácio em Londres.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O fantasma que aparece é",
+            "answerA": "o espectro do pai de Hamlet, também chamado Hamlet.",
+            "answerB": "o espectro de Cláudio, tio de Hamlet.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O príncipe Fortinbrás está ameaçando invadir a Dinamarca para ",
+            "answerA": "reaver o castelo de Elsinor por ter combatido com o rei Cláudio.",
+            "answerB": "recuperar as terras perdidas por seu pai num duelo que houve com o rei Hamlet. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O pai de Fortinbrás se chama",
+            "answerA": "Fortinbrás.",
+            "answerB": "Hamlet.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Após a morte do rei Hamlet, quem assume o trono é",
+            "answerA": "Polônio.",
+            "answerB": "Cláudio.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No discurso do rei Cláudio, apesar de lembrar-se da morte de seu irmão, Hamlet, ",
+            "answerA": "diz que o reino ficará sempre abalado e não deve ninguém mais tomar o poder.",
+            "answerB": "diz que não podem deixar de pensarem no reino da Dinamarca.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Cláudio, de forma bem apressada, casa com ",
+            "answerA": "a viúva Gertrudes, mãe do príncipe Hamlet. ",
+            "answerB": "Ofélia, filha de Polônio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O rei Cláudio escreve ao rei da Noruega, tio do jovem Fortinbrás, exigindo que ",
+            "answerA": "impeça Fortinbrás de prosseguir com os planos de invasão na Dinamarca.",
+            "answerB": "ele entregue todas as terras da Noruega aos dinamarqueses.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Laertes é filho de",
+            "answerA": "Cláudio.",
+            "answerB": "Polônio.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Laertes pede licença e proteção para regressar ",
+            "answerA": "à França, de onde veio para ver a coroação de Cláudio. ",
+            "answerB": "à Itália, de onde veio para ver o casamento de Gertrudes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O príncipe Hamlet aparece ",
+            "answerA": "vestido de preto, num luto fechado.",
+            "answerB": "vestido de branco, referência ao casamento da mãe.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet tem intenção de voltar a estudar em Wittenberg, na Alemanha, ",
+            "answerA": "mas Cláudio e Gertrudes querem que ele fique ali na Dinamarca. ",
+            "answerB": "mas Cláudio e Gertrudes querem que ele vá para a Noruega lutar com Fortinbrás.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet, em um de seus monólogos, ",
+            "answerA": "reflete sobre o vício da embriaguez, problema que enfrenta desde a infância.",
+            "answerB": "reflete sobre o mandamento de Deus contra os que se suicidam.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet não entende como a mãe se casou com Cláudio,",
+            "answerA": "tão diferente do rei Hamlet.",
+            "answerB": "tão parecido com o rei Hamlet.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Horácio diz a Hamlet que",
+            "answerA": "viu o fantasma do falecido rei da Noruega Fortinbrás.",
+            "answerB": "viu o espectro do falecido rei Hamlet.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Laertes aconselha a irmã, Ofélia, a",
+            "answerA": "se relacionar com Hamlet, pois pode ter um bom futuro.",
+            "answerB": "a não se relacionar com Hamlet, devido à grandeza dele. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Polônio é pai de ",
+            "answerA": "Ofélia e Laertes.",
+            "answerB": "Hamlet e Horácio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A frase “Há algo de podre no Reino da Dinamarca” é dita por",
+            "answerA": "Bernardo.",
+            "answerB": "Marcelo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O fantasma aparece a Hamlet e diz que",
+            "answerA": "é o espírito de Cláudio, tio querido de Hamlet que quer passear pelo mundo dos vivos e aproveitar o máximo possível.",
+            "answerB": "é o espírito do pai, condenado a vagar pela noite até que os crimes cometidos em seus tempos de vida tenham sido purgados.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O fantasma do pai de Hamlet pede ao filho para que ",
+            "answerA": "vingue seu assassinato.",
+            "answerB": "esqueça seu assassinato.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O fantasma do rei Hamlet diz que a versão de que foi picado por uma serpente enquanto dormia é",
+            "answerA": "falsa.",
+            "answerB": "verdadeira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Cláudio matou seu irmão ",
+            "answerA": "cravando um punhal no peito de Hamlet.",
+            "answerB": "derramando veneno no pavilhão dos ouvidos de Hamlet. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A frase “Há mais coisas no céu e na terra, Horácio, do que sonha a nossa vã filosofia” é dita por",
+            "answerA": "Marcelo.",
+            "answerB": "Hamlet.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet ",
+            "answerA": "acaba se fazendo de louco no sei projeto de vingança.",
+            "answerB": "enlouquece e é trancado num quarto, sem conseguir se vingar.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Rosencrantz e Guildenstern",
+            "answerA": "foram criados com Hamlet desde a infância.",
+            "answerB": "não conhecem Hamlet.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A rainha Gertrudes, mãe de Hamlet, acha que a estranheza do filho se deve ",
+            "answerA": "ao amor impossível com Ofélia.",
+            "answerB": "à morte do pai e ao apressado matrimônio entre ela e Cláudio.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Polônio diz ao rei a à rainha que a causa da loucura de Hamlet é",
+            "answerA": "a rejeição de Ofélia ao amor dele.",
+            "answerB": "a ida dele à Alemanha.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Após a chegada dos atores, Hamlet pede a um deles que declame um trecho em que há o relato",
+            "answerA": "que Enéas faz a Dido, onde fala do assassinato de Príamo.",
+            "answerB": "que Dante faz a Virgílio, onde fala da sua amada Beatriz.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet pede para um dos atores se ele pode representar ",
+            "answerA": "O assassinato de Gonzaga. ",
+            "answerB": "A Guerra de Troia.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet pede para o ator ",
+            "answerA": "inserir uma longa fala de uma comédia grega escrita por Plauto.",
+            "answerB": "decorar uma fala de doze ou dezesseis versos escritos por Hamlet e intercalá-los na peça.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet quer que os atores ",
+            "answerA": "interpretem algo semelhante à morte de seu pai para observar a expressão de Cláudio.",
+            "answerB": "interpretem uma comédia  inédita, sem alusão a nenhum fato do reinado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A frase clássica “Ser ou não ser – eis a questão” é dita num monólogo por",
+            "answerA": "Polônio.",
+            "answerB": "Hamlet.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A frase clássica “Ser ou não ser – eis a questão” é dita no",
+            "answerA": "ato cinco.",
+            "answerB": "ato três.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O rei Cláudio pensa em enviar Hamlet ",
+            "answerA": "à Noruega.",
+            "answerB": "à Inglaterra.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet aconselha os atores a",
+            "answerA": "não berrarem nem serrarem o ar com a mão.",
+            "answerB": "não terem moderação, e sim agitação.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet pede a Horácio, seu melhor amigo, ",
+            "answerA": "que observe o rei Cláudio na hora da apresentação da peça.",
+            "answerB": "que observe a rainha Gertrudes na hora da missa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet tem dúvida sobre o fantasma, por isso quer",
+            "answerA": "a confirmação da culpa do tio com a peça de teatro.",
+            "answerB": "que os atores assumam a culpa pela morte do rei Hamlet.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na apresentação da peça, Hamlet fica perto de ",
+            "answerA": "Ofélia. ",
+            "answerB": "Laertes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A peça começa com uma ",
+            "answerA": "apresentação de três atores dialogando.",
+            "answerB": "pantomina, ou seja, uma cena sem falas, só encenação. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O prólogo da peça",
+            "answerA": "é muito longo, o que gera insatisfação geral do público.",
+            "answerB": "é curto, o que acaba gerando uma frase irônica dita por Hamlet.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na peça, o Rei Ator diz que em breve morrerá, e sua esposa, a Rainha Atriz, diz ",
+            "answerA": "terá um novo amor, um segundo esposo.",
+            "answerB": "não se relacionará com ninguém mais.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O rei Cláudio pergunta a Hamlet qual o nome da peça, e Hamlet diz que ",
+            "answerA": "a peça se chama “A Ratoeira”, uma obra-prima de perfídia. ",
+            "answerB": "a peça se chama “Um pobre homem”, uma comédia simples.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na peça, entra o ator Luciano, cujo papel é",
+            "answerA": "derramar veneno no ouvido do Rei Ator.",
+            "answerB": "bater palmas durante três minutos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O rei Cláudio, vendo o envenenamento na peça, ",
+            "answerA": "fica feliz com a peça, pedindo bis.",
+            "answerB": "fica mal e pede que acendam as luzes.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet e Horácio, após a peça, chegam á conclusão de que ",
+            "answerA": "as palavras do fantasma são verdadeiras.",
+            "answerB": "as palavras do fantasma são falsas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A “peça dentro da peça” é um momento importante em Hamlet, pois",
+            "answerA": "acaba mostrando a importância do final da peça, em que há uma cena de casamento.",
+            "answerB": "acaba desestabilizando o rei em frente à rainha e aos seus súditos. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O rei Cláudio, em seu monólogo, revela que",
+            "answerA": "seu delito é fétido, assumindo a culpa pelo assassinato do irmão.",
+            "answerB": "não é culpado pela morte do irmão.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Cláudio se ajoelha para rezar. Entra Hamlet e",
+            "answerA": "mata o tio, vingando-se definitivamente da morte de seu pai.",
+            "answerB": "não mata o tio porque ele está rezando. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet não mata o tio quando este estava rezando porque",
+            "answerA": "acha que ele iria para o céu, e isso seria um prêmio e não uma vingança.",
+            "answerB": "acha que ele iria para o inferno diretamente, e quer mais tempo para se vingar. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Hamlet vai até o aposento da Rainha, Polônio",
+            "answerA": "se esconde atrás da tapeçaria. ",
+            "answerB": "se esconde embaixo da cama.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet discute com sua mãe, que clama por socorro; atrás da tapeçaria, Polônio ",
+            "answerA": "grita também e é morto por Hamlet com o florete.",
+            "answerB": "grita também e acaba fugindo vivo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Enquanto Hamlet conversa com a mãe, surge",
+            "answerA": "Cláudio, que fica indignado com o sobrinho.",
+            "answerB": "o fantasma do rei Hamlet, pedindo para o filho não recuar na vingança. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Cláudio envia Hamlet à Inglaterra a fim de que",
+            "answerA": "ele seja morto lá.",
+            "answerB": "ele fique exilado lá.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet pergunta a um capitão de quem são aquelas forças, e a resposta é do rei da Noruega,",
+            "answerA": "comandadas por Laertes, filho de Polônio, que se dirigem a uma parte da Inglaterra.",
+            "answerB": "comandadas por Fortinbrás, sobrinho do rei da Noruega, que se dirigem a uma parte da Polônia. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet, ao ver Fortinbrás um exército numeroso e caro para conseguir um território sem valor, usa isso como um incentivo, pois",
+            "answerA": "ser grande é abater-se por qualquer coisa, não lutar por nada nem se meter em lutas sem causa.",
+            "answerB": "ser grande não é se empenhar em grandes causas, mas sim lutar até por uma palha quando a honra está em jogo. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Laertes volta da França e ",
+            "answerA": "quer vingar a morte de seu pai, Polônio.",
+            "answerB": "quer esquecer a morte de seu pai, Polônio. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Uma das palavras que move a peça “Hamlet” é",
+            "answerA": "sorte.",
+            "answerB": "vingança.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Ofélia começa a dar ",
+            "answerA": "flores a alguns e cada flor com um sentido.",
+            "answerB": "dinheiro a alguns e cada dinheiro com pouco valor.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Polônio teve um funeral ",
+            "answerA": "com troféus, com espada, com escudo sobre os ossos, ou seja, totalmente seguindo os ritos nobres.",
+            "answerB": "sem troféus, sem espada, sem escudo sobre os ossos, ou seja, nenhum rito nobre.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A carta relata que Hamlet envia a Horácio relata que o navio que levava Hamlet à Inglaterra foi caçado por",
+            "answerA": "um barco de pescadores noruegueses.",
+            "answerB": "um navio pirata fortemente armado. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet volta para a Dinamarca e se salva,",
+            "answerA": "mas Rosencrantz e Guildenstern continuaram a viagem para a Inglaterra, sendo mortos lá. ",
+            "answerB": "mas Rosencrantz e Guildenstern continuaram a viagem para a Noruega, ficando vivos lá.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O plano do rei Cláudio para matar Hamlet é que Laertes ",
+            "answerA": "desafie Hamlet no florete porque sabe que Laertes domina tal arma branca.",
+            "answerB": "desafie Hamlet no jogo de cartas porque sabe que Laertes domina tal jogo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Laertes comprou de um charlatão um certo unguento, que basta mergulhar nele uma lâmina ",
+            "answerA": "que a morte é certa e segura.",
+            "answerB": "que apenas há tontura e desmaio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Cláudio diz que, se não der certo o golpe de Laertes com o florete envenenado, irá",
+            "answerA": "preparar um cigarro envenenado, bastando Hamlet tocar os lábios para morrer.",
+            "answerB": "preparar um cálice envenenado, bastando Hamlet tocar os lábios para morrer.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A cena da morte de Ofélia sugere suicídio, porque ",
+            "answerA": "ela sobe num salgueiro, o galho quebra, ela se desequilibra e cai.",
+            "answerB": "ela sobe as escadas do castelo e pula do alto do terraço.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Dois coveiros conversam, e um deles faz um questionamento:",
+            "answerA": "Sua sepultura está segundo os costumes? Sim? Porque houve um acidente. ",
+            "answerB": "Mas como vão enterrar numa sepultura cristã? Ela não procurou voluntária a sua salvação?",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Um coveiro diz sobre o enterro de Ofélia:",
+            "answerA": "Se ela não fosse da nobreza, nunca que iam dar pra ela uma sepultura cristã. ",
+            "answerB": "Se ela não fosse pobre, nunca dariam uma sepultura cristã.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Um coveiro faz alusão ao suicídio, pois",
+            "answerA": "Ofélia foi ao encontrar da água, morrendo por motivo próprio.",
+            "answerB": "Ofélia pulou do terraço porque quis. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet pergunta ao primeiro coveiro quanto tempo ele trabalhava naquela profissão, e a resposta é",
+            "answerA": "Entre todos os dias do ano, escolhi começar no dia em que o falecido rei Fortinbrás venceu Hamlet.",
+            "answerB": "Entre todos os dias do ano, escolhi começar no dia em que o falecido rei Hamlet venceu Fortinbrás. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Pelo diálogo entre Hamlet e o coveiro, dá a entender que este ",
+            "answerA": "não conhece Hamlet pessoalmente.",
+            "answerB": "conhece Hamlet pessoalmente.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O coveiro diz que trabalha nessa profissão há",
+            "answerA": "cinco anos.",
+            "answerB": "trinta anos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O coveiro mostra um crânio a Hamlet, dizendo que era de",
+            "answerA": "Yorick, o bobo da Corte.",
+            "answerB": "Hamlet, falecido rei da Dinamarca.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet, ao ver um cortejo tão incompleto no funeral de Ofélia, ",
+            "answerA": "deduz que ela cometeu suicídio.",
+            "answerB": "deduz que ela não cometeu suicídio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O padre diz que a celebração de Ofélia foi no limite autorizado, porque ",
+            "answerA": "a morte dela foi suspeita, e os padres não irão cantar o réquiem. ",
+            "answerB": "a morte dela foi acidental, e os padres cantarão o réquiem.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet salta na sepultura de Ofélia e ",
+            "answerA": "Laertes luta com ele.",
+            "answerB": "Cláudio luta com ele.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet conta a Horácio que, quando estava no navio em direção à Inglaterra, ",
+            "answerA": "indignou-se com a ida para outro país e saltou do navio, nadando de volta.",
+            "answerB": "violou o selo do despacho solene e viu que havia uma ordem precisa para que fosse morto.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Osric, um cortesão, fala que o Rei apostou com ele cavalos, floretes e punhais ",
+            "answerA": "que, numa dúzia de passes de florete entre Hamlet e Laertes, este não levará vantagem de mais do que três toques.",
+            "answerB": "que, em dois assaltos de boxe entre Hamlet e Laertes, este não levará vantagem de mais do que oito golpes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No duelo entre Hamlet e Laertes, Hamlet dá um toque bem visível, e nesse momento",
+            "answerA": "o Rei pega a bebida, coloca uma pérola dentro, envenena a taça e oferece a Hamlet.",
+            "answerB": "a Rainha pega a bebida, coloca uma pérola dentro, envenena a taça e oferece a Laertes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A Rainha, vendo Hamlet suando e sem fôlego, oferece a taça envenenada, mas Hamlet não toma. ",
+            "answerA": "Mas Gertrudes bebe, mas não morrerá. ",
+            "answerB": "Mas Gertrudes bebe, o que a levará à morte.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Laertes fere Hamlet, o que o levará",
+            "answerA": "à morte.",
+            "answerB": "apenas ao desmaio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na violência da disputa entre Hamlet e Laertes, ",
+            "answerA": "as armas saltam e são trocadas, e Hamlet fere Laertes.",
+            "answerB": "as armas saltam e são trocadas por punhais, e Hamlet não consegue ferir Laertes.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Hamlet quer saber como está a rainha, e o rei ",
+            "answerA": "diz que ela desmaiou pelos remédios errados que ingeriu.",
+            "answerB": "mente dizendo que ela desmaiou quando viu Hamlet e Laertes ensanguentados. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Laertes revela a Hamlet",
+            "answerA": "que o florete estava sem proteção e envenenado. ",
+            "answerB": "que a espada estava com proteção e envenenado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Laertes revela, antes de morrer, que ",
+            "answerA": "a Rainha é a culpada.",
+            "answerB": "o Rei é o culpado.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Hamlet, ao saber da revelação de Laertes de que o Rei é o culpado, ",
+            "answerA": "fere o Rei com o florete envenenado e o faz beber o vinho também envenenado.",
+            "answerB": "perdoa ao Rei ordenando-o que saia do castelo e vá para o exílio na Inglaterra.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Horácio, em lealdade a Hamlet, também quer cometer suicídio e levanta a taça envenenada, ",
+            "answerA": "vindo a beber todo o resto do vinho envenenado e a morrer na hora.",
+            "answerB": "mas Hamlet não deixa, pedindo a Horácio para ficar vivo e contar toda a verdadeira história. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No final da peça, surge",
+            "answerA": "o fantasma do Rei Hamlet, que volta e pede justiça.",
+            "answerB": "Fortinbrás, que chega vitorioso da Polônia.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A última de frase Hamlet é ",
+            "answerA": "O resto é silêncio.",
+            "answerB": "O resto é resto.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A invasão da Dinamarca por parte do exército de Fortinbrás é anunciada ao longo de toda a peça, ",
+            "answerA": "porém só é concretizada na última cena do ato cinco. ",
+            "answerB": "porém nunca acontece, sendo apenas uma tentativa frustrada.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Horácio diz a Fortinbrás que",
+            "answerA": "irá relatar os mandos e desmandos do príncipe Hamlet e sua loucura verdadeira.",
+            "answerB": "irá relatar atos sanguinolentos e maquinações, trazendo a verdade inteira. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Horácio, no final,",
+            "answerA": "conhece toda a história e está vivo. ",
+            "answerB": "conhece uma parte apenas da história e está ferido mortalmente.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Fortinbrás diz, no final, reconhece que tem direitos sobre o reino da Dinamarca e ordena ",
+            "answerA": "Hamlet tenha um enterro com música marcial e ritos guerreiros. ",
+            "answerB": "Hamlet tenha um funeral modesto e sem pompas. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na cena do duelo entre Laertes e Hamlet, morrem",
+            "answerA": "o Rei, a Rainha, Laertes e Hamlet.",
+            "answerB": "Horácio, Hamlet, Gertrudes e Ofélia.",
+            "correctAnswer": "A"
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "Items": [
+        {
+            "question": "A obra “Úrsula” foi escrita por",
+            "answerA": "Carolina Maria de Jesus, em 1840.",
+            "answerB": "Maria Firmina dos Reis, em 1860.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Maria Firmina dos Reis assinou “Úrsula” com o pseudônimo de:",
+            "answerA": "Uma Maranhense. ",
+            "answerB": "Uma brasileira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O romance “Úrsula” é composto por ",
+            "answerA": "prólogo, vinte capítulos e epílogo.",
+            "answerB": "prefácio, dez capítulos e uma observação.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No prólogo de “Úrsula”, Maria Firmina dos Reis diz que sua obra",
+            "answerA": "vale muito, porque escrito por uma mulher, de educação refinada, comparada a grandes estudiosos da literatura mundial.",
+            "answerB": "pouco vale, porque escrito por uma mulher, e mulher brasileira, de educação acanhada e sem o trato e a conversação dos homens ilustrados.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Maria Firmina dos Reis aponta o caminho do romance romântico como ",
+            "answerA": "atitude política de denúncia de injustiças há séculos presentes na sociedade patriarcal brasileira.",
+            "answerB": "divertimento apenas, dentro de um panorama de leitores fúteis.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No primeiro capítulo, intitulado “Duas almas generosas”, há uma ",
+            "answerA": "crítica descrição do mundo urbano e sua natureza precária.",
+            "answerB": "bela descrição dos campos, da natureza brasileira. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A linguagem do romance “Úrsula” é",
+            "answerA": "seca e direta, com pouquíssimos adjetivos.",
+            "answerB": "adjetivada, com excesso descritivo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O romance “Úrsula” é narrado em",
+            "answerA": "terceira pessoa.",
+            "answerB": "primeira pessoa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Em uma das cenas iniciais de “Úrsula”, um cavalo cai e pressiona o pé de ",
+            "answerA": "Tancredo.",
+            "answerB": "Túlio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quem ajuda o cavaleiro que tem o pé pressionado pelo cavalo é",
+            "answerA": "Fernando, vilão.",
+            "answerB": "Túlio, escravo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "“O sangue africano fervia-lhe nas veias; o mísero ligava-se à odiosa cadeia da escravidão”. Essa descrição é de",
+            "answerA": "Túlio.",
+            "answerB": "Tancredo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Túlio leva Tancredo até",
+            "answerA": "a fazenda onde mora a senhora Luíza B.",
+            "answerB": "a fazenda onde mora o malvado Fernando.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luíza B. tem por filha",
+            "answerA": "Susana.",
+            "answerB": "Úrsula.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Tancredo quer recompensar a dedicação de Túlio por ele, e o faz",
+            "answerA": "dando um cavalo novo para Túlio.",
+            "answerB": "comprando sua carta de alforria.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O capítulo dois é intitulado “O delírio”, e Tancredo tem",
+            "answerA": "uma espantosa crise de febre.",
+            "answerB": "uma morte na cama de Úrsula.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No delírio de Tancredo, ele acaba citando o nome de",
+            "answerA": "Úrsula.",
+            "answerB": "Adelaide.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Úrsula é descrita como uma personagem ",
+            "answerA": "má, triste, feia, viúva e calada.",
+            "answerB": "a flor daquelas solidões: doce, caridosa, bela, ingênua e tímida.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Tancredo, ao citar o nome de Adelaide em seu delírio, faz Úrsula",
+            "answerA": "arder em curiosidade de saber quem é essa mulher. ",
+            "answerB": "ficar indiferente ao estranho que ali se encontra.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo três é intitulado “Declaração de amor”, e vemos que ",
+            "answerA": "Tancredo aos poucos se recuperava.",
+            "answerB": "Tancredo morre devido aos seus delírios.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Túlio, depois de ganhar dinheiro para sua alforria, estava",
+            "answerA": "disposto a voltar a ser escravo, pois se acostumara à situação.",
+            "answerB": "disposto a seguir Tancredo por toda a parte.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "À proporção que Tancredo melhorava de saúde, Úrsula ",
+            "answerA": "se escondia dele, para não sofrer com a separação.",
+            "answerB": "se escondia dele porque o odiava.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Úrsula foge para dentro da mata, e Tancredo vai atrás. Ali ele",
+            "answerA": "se declara a ela, dizendo que a ama.",
+            "answerB": "se despede dela, dizendo que tem uma noiva já.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Úrsula quer saber de Tancredo",
+            "answerA": "quem é Adelaide, nome dito no delírio dele.",
+            "answerB": "quem é sua noiva, e por que ele partia.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo quatro é intitulado “A primeira impressão”, e nele ",
+            "answerA": "Tancredo conta sua vida, formado em Direito. ",
+            "answerB": "Tancredo quer ouvir a história de Úrsula.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Tancredo, no passado, volta formado, sua mãe lhe apresenta ",
+            "answerA": "Adelaide, filha da prima da mãe de Tancredo, órfã de mãe e pai.",
+            "answerB": "irmã apenas por parte do pai de Tancredo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A mãe de Tancredo é descrita como ",
+            "answerA": "uma mulher orgulhosa vivendo ao lado de um marido muito bom e fiel.",
+            "answerB": "uma santa e humilde mulher vivendo ao lado de marido tirano e orgulhoso.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Tancredo se apaixona por Adelaide, mas ela",
+            "answerA": "diz que é pobre e que o pai de Tancredo haveria de se opor à união deles.",
+            "answerB": "diz que é rica e que não haveria nenhum obstáculo na união.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "A mãe tenta interferir a favor de Tancredo e fala com seu marido, mas ele",
+            "answerA": "é inflexível, dizendo que nunca consentiria em semelhante união.",
+            "answerB": "é flexível, dizendo que Tancredo deveria se casar com Adelaide.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo cinco é intitulado “A entrevista”, e nele Tancredo fala a seu pai que ama Adelaide, pede o consentimento para desposá-la, e o pai",
+            "answerA": "dá o consentimento, mas com uma condição: esperar por um ano.",
+            "answerB": "não dá o consentimento e briga a socos com o filho.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O pai argumenta a Tancredo que Adelaide ",
+            "answerA": "estava já preparada para o casamento, algo que se fará imediatamente.",
+            "answerB": "era apenas uma criança e que sua educação não estava completa.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O pai de Tancredo consegue para o filho",
+            "answerA": "um emprego na cidade de ***, uma província longe de Adelaide.",
+            "answerB": "um cargo de secretário na mesma cidade em que moram.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo seis é intitulado “A despedida”, e nele ",
+            "answerA": "Tancredo se rebela e não aceita o emprego.",
+            "answerB": "Tancredo acata as ordens do pai: emprega-se longe de sua província.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": " O capítulo sete é intitulado “Adelaide”, e nele vemos a situação de Tancredo longe de Adelaide. Ele",
+            "answerA": "recebia cartas de sua mãe, que falava de Adelaide, mas não falava nada de ruim do pai.",
+            "answerB": "recebia cartas do pai, que falava apenas coisas banais sobre o futuro casamento.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Adelaide com frequência escrevia a Tancredo, ",
+            "answerA": "e depois começou a aumentar a frequência, quase que diariamente enviando cartas amorosas.",
+            "answerB": "mas depois começou a espaçar a correspondência, e por fim não mais escreveu nada.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Depois de quinze dias de viagem, Tancredo volta e encontra sua mãe",
+            "answerB": "viva  ainda.",
+            "answerA": "morta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Tancredo encontra Adelaide vestida na maior riqueza, chama por ela, mas ela diz:",
+            "answerA": "Tancredo, estava esperando por ti, meu amor!",
+            "answerB": "Tancredo, respeitai a esposa de vosso pai!",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Tancredo fica desesperado, e de repente surge o pai de Tancredo, agora esposo de Adelaide. O filho pede que o pai",
+            "answerA": "restitua duas mulheres: a mãe querida e a mulher que seria sua esposa.",
+            "answerB": "fica feliz com Adelaide, já que não gostava dela mesmo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo oito é intitulado “Luíza B.”, e nele",
+            "answerA": "a mãe de Úrsula, a senhora Adelaide, anuncia que Tancredo ficaria morando ali.",
+            "answerB": "a mãe de Úrsula, a senhora Luíza B., paralítica, anuncia que Tancredo iria embora.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luíza B. é descrita como ",
+            "answerA": "um esqueleto vivo vivendo os restos de uma penosa existência, que se finava lenta e dolorosamente.",
+            "answerB": "uma mulher cheia de saúde, forte e espontânea, querendo viver ainda muitos anos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luíza B. diz que seu irmão é o",
+            "answerA": "comendador Fernando de P***.",
+            "answerB": "escravo Túlio, agora alforriado.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luíza B. diz que seu irmão, Fernando, não aceitou seu relacionamento com ",
+            "answerA": "João B., porque era um inveterado alcoólatra.",
+            "answerB": "Paulo B., porque o julgava inferior pelo nascimento e pela fortuna.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luíza B. conta que seu marido, Paulo B., foi um homem",
+            "answerA": "bom, sempre fiel, comprometido com as finanças do casal.",
+            "answerB": "infiel, comprometendo a fortuna da família em favor de suas loucas paixões.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Luíza B. conta que tiveram uma filha, Úrsula, e o marido estava se reabilitando, mas ",
+            "answerA": "ele foi assassinado.",
+            "answerB": "ele fugiu de casa.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo nove é intitulado “A preta Susana”, e nele vemos, ",
+            "answerA": "pelas lembranças de Susana, a vida brutal e desumana do homem que era livre e se transforma em escravo.",
+            "answerB": "pelas lembranças de Úrsula, a vida íntegra e leal daqueles que vivem na opulência.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Susana diz que na África deixou ",
+            "answerA": "o irmão, a irmã, os cunhados e a tia.",
+            "answerB": "pátria, esposo, mãe, filha e liberdade.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Susana é enviada da África ",
+            "answerA": "para o Brasil para ser escrava.",
+            "answerB": "para Portugal ser fazendeira.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Susana é enviada ao Brasil em um",
+            "answerA": "cargueiro de trem.",
+            "answerB": "porão de um navio negreiro. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Susana diz que veio a se tornar escrava do",
+            "answerA": "comendador Fernando, que derramava sem pena o sangue dos escravos.",
+            "answerB": "cavaleiro Tancredo, que tinha uma fazenda com mais de 500 escravos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo dez é intitulado “A mata”, e nele",
+            "answerA": "Úrsula, triste pela partida de Tancredo, entra na mata.",
+            "answerB": "Úrsula, feliz pela partida de Túlio, comete o suicídio. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Úrsula está na mata, surge",
+            "answerA": "Luíza B., que estava preocupada onde estava a filha.",
+            "answerB": "Fernando, que diz estar apaixonada por ela.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Pelas palavras de Fernando, ficamos sabendo que",
+            "answerA": "foi ele quem matou Paulo B., o pai de Úrsula.",
+            "answerB": "foi ele quem mandou matar Paulo B., tio de Úrsula.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo onze é intitulado “O derradeiro adeus”, e nele",
+            "answerA": "Úrsula evoca Tancredo para que volte e a salve.",
+            "answerB": "Úrsula evoca Túlio, seu amor, para que a leva dali.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Úrsula não conta o surgimento de Fernando na mata, e enquanto isso",
+            "answerA": "surge uma carta do próprio Fernando.",
+            "answerB": "surge uma carta de Tancredo.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Fazia dezoito anos que Fernando",
+            "answerA": "estaca casado com Susana, mantendo segredo sobre isso.",
+            "answerB": "mantinha distância de Luíza B., desesperado com seu orgulho.  ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O capítulo doze é intitulado “Foge!”, e nele ",
+            "answerA": "Luíza B. aconselha a filha a fugir.",
+            "answerB": "Luíza B. aconselha a filha a casar com Fernando.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Luíza B. revela à filha que Fernando é",
+            "answerA": "um promissor marido.",
+            "answerB": "o assassino de Paulo B.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Após Luíza B. aconselhar a filha a fugir de Fernando, ela",
+            "answerA": "morre.",
+            "answerB": "tem um desmaio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo treze é intitulado “O cemitério de Santa Cruz”, e nele ",
+            "answerA": "há o enterro de Luíza B.",
+            "answerB": "há a fuga de Fernando.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Há também, no capítulo treze, “O cemitério de Santa Cruz”, ",
+            "answerA": "a volta de Adelaide e do pai de Tancredo.",
+            "answerB": "a volta de Tancredo e de Túlio.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O capítulo quatorze é intitulado “O regresso”, e nele ",
+            "answerA": "sabemos como Tancredo, de volta de sua viagem, pôde saber onde estava Úrsula e o que lhe havia acontecido.",
+            "answerB": "sabemos como Fernando acaba se casando com Úrsula numa cerimônia bem modesta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quem avisa Tancredo e Túlio que Úrsula estava no cemitério é",
+            "answerA": "Susana.",
+            "answerB": "Luíza B.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo quinze é intitulado “O Convento de ***”, e nele ",
+            "answerA": "há a viagem de Úrsula, Tancredo e Túlio até o convento de Nossa Senhora da ***.",
+            "answerB": "há o retorno de Tancredo a São Paulo para fazer nova faculdade.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo dezesseis é intitulado “O Comendador Fernando P.”, e nele ",
+            "answerA": "sabemos um pouco mais da vida de Adelaide.",
+            "answerB": "sabemos um pouco mais da vida de Fernando.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O comendador, mais por ostentação do que por sentimentos religiosos, tinha na sua casa ",
+            "answerA": "um capelão, de quem era íntimo amigo. ",
+            "answerB": "um advogado, de quem era irmão.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Fernando é o vilão do romance, e promete que, se não for esposo de Úrsula,",
+            "answerA": "o céu há de ser seu lar.",
+            "answerB": "o inferno receberá os dois, ela e Tancredo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Fernando pede a seu feitor branco que traga Susana",
+            "answerA": "atada à cauda de um fogoso cavalo.",
+            "answerB": "sozinha, sem nenhum tipo de vingança.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O feitor se irrita com Fernando também pelo fato de ele ",
+            "answerA": "ordenar que o feitor dobre o trabalho noturno dos escravos.",
+            "answerB": "dar carta de alforria a todos os seus escravos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O feitor não aceita tamanho desmando de Fernando e acaba",
+            "answerA": "se despedindo, indo avisar a velha Susana.",
+            "answerB": "se rebelando e castigando ainda mais os escravos.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Fernando manda prender Susana ",
+            "answerA": "num local muito higienizado e com todas as regalias de comida.",
+            "answerB": "na mais úmida prisão da casa, com corrente aos pés e à cintura, e comida só para mantê-la viva. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O padre diz para Fernando recuar, que o assassino é maldito do Senhor, mas Fernando",
+            "answerA": "diz que deseja a vingança com ardor.",
+            "answerB": "fica irritado e acaba desistindo de sua vingança.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo dezessete é intitulado “Túlio”, e nele",
+            "answerA": "Túlio aparece para a cerimônia de casamento entre Tancredo e Úrsula.",
+            "answerB": "Túlio não aparece para a cerimônia de casamento entre Tancredo e Úrsula.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Tancredo e Úrsula",
+            "answerA": "se casam no convento de ***.",
+            "answerB": "não se casam porque ela não quis. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Túlio é preso por Fernando, que tenta",
+            "answerA": "persuadi-lo a dizer onde Adelaide está morando.",
+            "answerB": "convencê-lo a ajudá-lo, oferecendo metade de sua fortuna.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Túlio é preso e entregue à guarda de",
+            "answerA": "Antero. ",
+            "answerB": "Paulo B.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo dezoito é intitulado “A dedicação”, e nele vemos que ",
+            "answerA": "Antero era um escravo jovem cujo maior defeito era ser preguiçoso.",
+            "answerB": "Antero era um escravo velho cujo maior defeito era ser alcoólatra.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O truque de Túlio para escapar consiste em ",
+            "answerA": "oferecer dinheiro para Antero comprar aguardente e se embebedar. ",
+            "answerB": "oferecer propina para que Antero não o castigasse.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Quando Antero fica bêbado e cai em profundo sono, Túlio",
+            "answerA": "resolve não fugir dali para que o pobre velho não tenha complicações.",
+            "answerB": "arrasta Antero até um tronco, pega a chave da prisão e foge. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Túlio, na fuga, encontra o sacerdote que casou Tancredo e Úrsula, que diz que",
+            "answerA": "deixou os dois na igreja.",
+            "answerB": "deixou os dois no cemitério.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Túlio é morto ",
+            "answerA": "com uma facada no estômago.",
+            "answerB": "com dois tiros de pistola disparados ao mesmo tempo.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Na luta que se trava entre Fernando e Tancredo, ",
+            "answerA": "Fernando crava o punhal no peito de Tancredo.",
+            "answerB": "Tancredo mata Fernando com dois tiros. ",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Na morte de Tancredo, Úrsula",
+            "answerA": "lançou-se sobre Fernando, matando-o a pauladas.",
+            "answerB": "lançou-se sobre Tancredo, ficando inundada de sangue nas mãos e nos seios.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "O capítulo dezenove é intitulado “O despertar”, e nele ",
+            "answerA": "Fernando já não sonhava com a vingança, mas começava a sentir remorso. ",
+            "answerB": "Fernando queria apenas e tão somente se vingar, sem nenhum remorso.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No capítulo dezenove, “O despertar”, Fernando reconhece que Úrsula",
+            "answerA": "havia fugido.",
+            "answerB": "estava louca.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Fernando transformou-se num velho fraco e abatido, completamente desfigurado, ",
+            "answerA": "devido ao remorso por tudo que fez, e muitos não mais o reconheciam.",
+            "answerB": "devido à tentativa de suicídio que tentara perto do quarto de Úrsula.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O capítulo vinte é intitulado “A louca”, e nele ",
+            "answerA": "Úrsula consegue escapar e matar Fernando com um tiro de pistola.",
+            "answerB": "o velho sacerdote, amigo de Fernando, mostra-lhe Susana morta sendo levada numa rede.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Susana morreu porque",
+            "answerA": "foi trancada por Fernando numa escura e úmida prisão, entregue à fome e ao desespero.",
+            "answerB": "foi libertada por Fernando e conseguiu voltar para a África, reencontrando sua filha.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O padre culpa Fernando ",
+            "answerA": "de ser o assassino de Tancredo, de Túlio, de Paulo e de Susana, chamando-o de monstro.",
+            "answerB": "de ser o libertador de todos os escravos das fazendas vizinhas, apontando para seu bom coração.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O padre pede para que Fernando chore o pranto do arrependimento, aconselhando-o a",
+            "answerA": "se casar com alguma mulher e viver na Europa, sem mais se lembrar dos crimes que cometeu.",
+            "answerB": "viver solitário, orar fervorosamente os dias e as noites e indenizar os escravos dando-lhes a liberdade. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Fernando e o padre caíram prostrados aos pés da infeliz Úrsula, ",
+            "answerA": "que estava feliz porque ia morar em São Paulo.",
+            "answerB": "que estava louca e acabava de morrer.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Como última palavra de Úrsula, ela ",
+            "answerA": "murmurou Tancredo, dando o último suspiro.",
+            "answerB": "chamou pela mãe, que estava já morta.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No “Epílogo”, vemos que",
+            "answerA": "se passaram dois anos dos tristes acontecimentos narrados.",
+            "answerB": "se passaram vinte anos das cenas narradas.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Somente quem conhecia o grande assassino da narrativa era",
+            "answerA": "Paulo B.",
+            "answerB": "o padre.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "No convento dos carmelitas, havia dois anos, entrara um homem que pedira o hábito, e logo depois começara o seu noviciado. Esse homem era ",
+            "answerA": "um velho que se chamava frei Luís de Santa Úrsula; na verdade, Fernando.",
+            "answerB": "um jovem amigo de Tancredo que voltara para vingar os crimes feitos por Fernando.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "O frei Luís de Santa Úrsula ",
+            "answerA": "organiza missas apenas em nome dos que havia matado, sem remorso algum.",
+            "answerB": "rangia os dentes, trazia cilícios, jejuava rigorosamente, velava as noites. ",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Fernando, o frei Luís de Santa Úrsula, ",
+            "answerA": "revela ao padre que cometeu muitos crimes, mas que até hoje o coração é sedento de ódio e de vingança. ",
+            "answerB": "revela ao padre que não cometeu nenhum crime e não tem do que se arrepender.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ficamos sabendo, no “Epílogo”, que Adelaide",
+            "answerA": "virou religiosa e santa.",
+            "answerB": "ficou viúva, porque o pai de Tancredo morreu de desgostos.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Adelaide se casou pela segunda vez, e o novo esposo, ",
+            "answerA": "que não amava a sua deslumbrante beleza, a arrastou de aflição até o desespero.",
+            "answerB": "que era apaixonado pela beleza dela, acabou cometendo suicídio.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Adelaide, depois de tantos dias amargos, ",
+            "answerA": "buscou afanosa a morada do descanso e da tranquilidade, o que sugere o suicídio.",
+            "answerB": "fugiu em busca de Tancredo, seu grande amor.",
+            "correctAnswer": "A"
+        },
+        {
+            "question": "No convento de ***, junto ao altar da Senhora das Dores, ",
+            "answerA": "encontra-se uma grande imagem de Fernando, o grande frei Luís de Santa Úrsula.",
+            "answerB": "encontra-se uma lápide rasa e singela com estas palavras — Orai pela infeliz Úrsula.",
+            "correctAnswer": "B"
+        },
+        {
+            "question": "A importância do romance “Úrsula” reside na questão",
+            "answerA": "de ser o primeiro romance feminino e abolicionista brasileiro.",
+            "answerB": "de ser um romance apenas para divertir o público leitor, sem críticas.",
+            "correctAnswer": "A"
+        }
+    ]
+}

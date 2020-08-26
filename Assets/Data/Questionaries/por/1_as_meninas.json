@@ -1,0 +1,619 @@
+{
+    "Items": [
+        {
+        "question":  "A epígrafe de As meninas é",
+        "answerA": "Ana Clara, não envesga, disse a irmã Clotilde na hora de bater a foto. Enfia a blusa na calça, Lia, depressa. E não faça careta, Lorena, você está fazendo careta!",
+        "answerB": "Paulo Honório, não envesga, disse a irmã Clotilde na hora de bater a foto. Enfia a blusa na calça, Marcelo, depressa. E não faça careta, Simão Bacamarte, você está fazendo careta!",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "A obra As meninas tem",
+        "answerA": "5 capítulos nomeados.",
+        "answerB": "12 capítulos numerados.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena pensa no doutor",
+        "answerA": "M.N.",
+        "answerB": "G.H.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, M.N. é",
+        "answerA": "o professor Marcelo Nunes.",
+        "answerB": "o doutor Marcus Nemesius.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, as três meninas são",
+        "answerA": "Lorena, Lia e Ana Clara.",
+        "answerB": "Madre Alix, Irmã Clotilde e Irmã Bula.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o apelido de Lorena é ",
+        "answerA": "Loló.",
+        "answerB": "Lena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, o apelido de Lia é",
+        "answerA": "Lião.",
+        "answerB": "Turva.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o apelido de Ana Clara é",
+        "answerA": "Ana Gema.",
+        "answerB": "Ana Turva.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, as três amigas moram",
+        "answerA": "num cortiço do Rio de Janeiro.",
+        "answerB": "num pensionato de freiras em São Paulo.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, as cenas se passam",
+        "answerA": "durante o período da ditadura militar no Brasil. ",
+        "answerB": "nos anos 50, na época de ouro do rádio.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lorena tem dois irmãos:",
+        "answerA": "Rômulo e Remo.",
+        "answerB": "Esaú e Jacó.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o irmão de Lorena que está morto é",
+        "answerA": "Remo.",
+        "answerB": "Rômulo.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, a mãe de Lorena é chamada de ",
+        "answerA": "paizinho.",
+        "answerB": "mãezinha.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, o namorado de Lia é",
+        "answerA": "Max, personagem viciado em drogas.",
+        "answerB": "Miguel, personagem que está preso.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena usa uma expressão:",
+        "answerA": "Ai meu pai.",
+        "answerB": "Ai minha mãe.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o nome do pensionato é",
+        "answerA": "Nosso Senhor Jesus Cristo.",
+        "answerB": "Nossa Senhora de Fátima.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, M.N. é",
+        "answerA": "o Doutor Marcus Nemesius, homem casado e com filhos. ",
+        "answerB": "o engenheiro Mateus Neves, homem solteiro e músico.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara é",
+        "answerA": "cheia de amigos, forte, independente e alegre.",
+        "answerB": "desamparada, viciada, fraca e doentia. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, às vezes as amigas",
+        "answerA": "se entrevistam, e aí conhecemos algumas características delas. ",
+        "answerB": "se agridem, o que revela a total desunião entre elas.",
+        "correctAnswer": "A"
+        },
+
+
+
+        {
+        "question":  "Em As meninas, um dos recursos usados é ",
+        "answerA": "a polifonia, em que se ouvem três narradoras em primeira pessoa e um em terceira pessoa.",
+        "answerB": "o narrador sempre em primeira pessoa, no caso, Lorena.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, elas pronunciam “dinheiro” ao contrário, “oriehnid”,",
+        "answerA": "para dar azar.",
+        "answerB": "para dar sorte. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lia participa",
+        "answerA": "de um grupo de resistência à ditadura militar. ",
+        "answerB": "de um grupo religioso no pensionato.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o irmão de Lorena, Remo, mora ",
+        "answerA": "no norte de África, na Tunísia,",
+        "answerB": "no sul dos Estados Unidos.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, a caracterização “Tenho um metro e setenta e sete. Sou modelo” se trata de",
+        "answerA": "Lorena.",
+        "answerB": "Ana Clara.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, a mãe de Ana Clara era ",
+        "answerA": "médica.",
+        "answerB": "prostituta.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara lembra de um trauma da infância ligado ao",
+        "answerA": "Doutor M.N.",
+        "answerB": "Doutor Algodãozinho.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, o Doutor Algodãozinho é chamado assim",
+        "answerA": "porque vivia trocando o algodão dos buracos dos dentes, enquanto abusava de Ana Clara e da mãe desta.",
+        "answerB": "porque vivia curando os machucados dos pacientes com algodão, entre eles Ana Clara e a mãe desta.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, quem tem uma linguagem mais elaborada e culta é",
+        "answerA": "Lia.",
+        "answerB": "Lorena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, a baiana engajada politicamente é",
+        "answerA": "Lorena.",
+        "answerB": "Lia.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara cita um possível noivo, que ela apelida de",
+        "answerA": "escamoso.",
+        "answerB": "fedorento.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Madre Alix simboliza",
+        "answerA": "o equilíbrio do pensionato.",
+        "answerB": "a corrupção do pensionato.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o quarto de Lorena é chamado por ela de ",
+        "answerA": "hospital.",
+        "answerB": "concha. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, a mãe de Ana Clara comete suicídio com ",
+        "answerA": "formicida.",
+        "answerB": "uma corda.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, há cartas anônimas com muitas delações sobre as três meninas. Desconfiam que a autora é ",
+        "answerA": "Madre Alix.",
+        "answerB": "Irmã Bula.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, nas cartas anônimas, quem é a “comunista fabricante de bombas”?",
+        "answerA": "Lorena.",
+        "answerB": "Lia.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, nas cartas anônimas, quem é a “viciada em rápido processo de prostituição”?",
+        "answerA": "Lia.",
+        "answerB": "Ana Clara.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, nas cartas anônimas, quem é a “amoral indolente, parasita da mãe devassa, velha corruptora de jovens”?",
+        "answerA": "Lorena.",
+        "answerB": "Lia.",
+        "correctAnswer": "A"
+        },
+
+
+
+        {
+        "question":  "Em As meninas, o amigo de Lia, Pedro, chama-a pelo codinome de",
+        "answerA": "Rosa Luxemburgo, filósofa alemã marxista. ",
+        "answerB": "Margarida da Dinamarca, médica vidente.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, temos como pano de fundo",
+        "answerA": "as greves universitárias, a tortura e a luta feminista. ",
+        "answerB": "o futebol, os esportes, a política café com leite.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lia trai Miguel com",
+        "answerA": "Max.",
+        "answerB": "Pedro.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, ficamos sabendo que o namorado de Lia, Miguel, irá para a",
+        "answerA": "Argélia. ",
+        "answerB": "Holanda.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Madre Alix sabe",
+        "answerA": "muito sobre as três meninas.",
+        "answerB": "pouco sobre as três meninas. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Madre Alix fala sobre Lia, que é a",
+        "answerA": "da esquerda militante, que tem um namorado preso e que está pensando numa viagem. ",
+        "answerB": "que gosta de latim, que ouve música o dia inteiro e que está esperando o telefonema de alguém que nunca telefona.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Madre Alix fala sobre Lorena, que é a",
+        "answerA": "a que parece que vai se recuperar do vício das drogas, que concorda em se internar, mas depois muda de ideia, pois se acha curada. ",
+        "answerB": "que gosta de latim, que ouve música o dia inteiro e que está esperando o telefonema de um namorado que nunca telefona.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Madre Alix fala sobre Ana Clara, que é a",
+        "answerA": "da esquerda militante, que tem um namorado preso e que está pensando numa viagem. ",
+        "answerB": "a que parece que vai se recuperar do vício das drogas, que concorda em se internar, mas depois muda de ideia, se acha curada.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, quem fala isto: “A violência não funciona, o que funciona é a união de todos nós para criar um diálogo”.",
+        "answerA": "Lorena.",
+        "answerB": "Lia.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lia lê para Madre Alix ",
+        "answerA": "um depoimento de um botânico que foi torturado.",
+        "answerB": "um romance romântico cheio de aventuras.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em “As meninas”, na cena de tortura descrita por Lia, há",
+        "answerA": "a descrição dos choques, a batida com cassetetes e o pau-de-arara.",
+        "answerB": "apenas pequenos tapas na cabeça do botânico torturado.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lorena quase sempre está",
+        "answerA": "rezando.",
+        "answerB": "lendo.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, quem fala esta frase: “Me ajuda, paizinho. Ele gosta de mim, eu sei. Mas o suficiente? Mulher, filhos, é gente à beça”?",
+        "answerA": "Lia.",
+        "answerB": "Lorena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena Vaz Leme estuda",
+        "answerA": "Medicina.",
+        "answerB": "Direito. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena ",
+        "answerA": "não pertence a nenhum grupo político. ",
+        "answerB": "pertence a nenhum grupo político.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lorena ",
+        "answerA": "pertence a um movimento de libertação da mulher.",
+        "answerB": "não pertence a um movimento de libertação da mulher.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, para Lia, Lorena é ",
+        "answerA": "uma jovem engajada.",
+        "answerB": "uma jovem alienada.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena às vezes também pensa sexualmente em ",
+        "answerA": "Max.",
+        "answerB": "Fabrizio. ",
+        "correctAnswer": "B"
+        },
+
+
+
+        {
+        "question":  "Em As meninas, a frase “Ação, Lena, que contemplação já tivemos demais” é dita por",
+        "answerA": "Ana Clara.",
+        "answerB": "Lia.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, é comum os personagens",
+        "answerA": "acertarem o nome do irmão de Lorena que morreu.",
+        "answerB": "confundirem o nome do irmão de Lorena que morreu.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, a intelectual de esquerda é",
+        "answerA": "Ana Clara.",
+        "answerB": "Lia.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, quem diz a seguinte frase: “Max eu te amo eu te amo eu te amo”?",
+        "answerA": "Ana Clara.",
+        "answerB": "Lorena.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara pensa em Lia, que tinha",
+        "answerA": "teorias de superioridade da mulher. ",
+        "answerB": "teorias de superioridade do homem.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o pensamento de Ana Clara é que a mulher",
+        "answerA": "deve se engajar politicamente.",
+        "answerB": "deve se arrumar, vestir coisas lindas. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara tranca o curso de",
+        "answerA": "Psicologia.",
+        "answerB": "Direito.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara usa, por vezes, uma linguagem",
+        "answerA": "truncada, com frases incompletas.",
+        "answerB": "lógica e direta, sempre com frases completas.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, quem fala esta frase: “Ana Clara fazendo amor. Lião fazendo comício. Mãezinha fazendo análise”.",
+        "answerA": "Lia.",
+        "answerB": "Lorena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, quem fala esta frase: “Não sou bonita, ponto pacífico. Mas meu QI não é muito acima do normal? E tenho algum charme”.",
+        "answerA": "Ana Clara.",
+        "answerB": "Lorena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lia decide viajar para ",
+        "answerA": "a Argélia, para encontrar o namorado.",
+        "answerB": "a Suíça, para ver as maravilhas naturais.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lia pede dinheiro a Lorena, que ",
+        "answerA": "não dá, porque não apoia a atitude da amiga.",
+        "answerB": "assina um cheque em branco e dá para a amiga. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, quem costuma fazer caretas?",
+        "answerA": "Lorena.",
+        "answerB": "Lia.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, quem é a dona do Corcel vermelho?",
+        "answerA": "Mãezinha, mãe de Lorena.",
+        "answerB": "Max, namorado de Ana Clara.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lia conversa com o motorista da mãe de Lorena, que tem uma filha. O sonho dele é ",
+        "answerA": "ver a filha solteira.",
+        "answerB": "ver a filha casada. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lia fala para o motorista da mãe de Lorena que ",
+        "answerA": "a filha dele, ao contrário, pode estudar, ter uma profissão e daí se casar.",
+        "answerB": "a filha deve imediatamente se casar e se submeter às ordens do marido.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lia pensa em escrever ",
+        "answerA": "um diário, num estilo simples.",
+        "answerB": "uma epopeia, com linguagem rebuscada.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lia tem uma amiga chamada Elisabete, que ",
+        "answerA": "é totalmente alienada, e sua atitude no Brasil é tão somente ficar em seu quarto vendo tudo da janela.",
+        "answerB": "lidera um movimento feminista e estava escrevendo um artigo sobre o trabalho da mulher no mercado brasileiro. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, morre o Doutor Francis, ",
+        "answerA": "médico que trata dos nervos da mãezinha.",
+        "answerB": "namorado médico de Ana Clara.",
+        "correctAnswer": "A"
+        },
+
+
+
+        {
+        "question":  "Em As meninas, Lia, apesar de ter trancado a matrícula, estuda",
+        "answerA": "Ciências Sociais.",
+        "answerB": "Matemática.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, mãezinha fala de uma menina “bonita, sem dúvida, mas tão vulgar”. Quem é?",
+        "answerA": "Lia.",
+        "answerB": "Ana Clara.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, a mãezinha sofreu o abandono de",
+        "answerA": "Max, o namorado, bem mais velho do que ela.",
+        "answerB": "Mieux, o namorado, bem mais novo do que ela.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, mãezinha acha que Lorena pode querer voltar a morar com ela, mas Lia diz",
+        "answerA": "que o melhor é cortar o cordão umbilical.",
+        "answerB": "que o melhor é isso mesmo, a filha morar com a mãe.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, mãezinha conta que Rômulo ",
+        "answerA": "morreu bem nenenzinho, o que difere da história de Lorena.",
+        "answerB": "morreu conforme a cena descrita por Lorena.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, o pai de Lorena se chamava ",
+        "answerA": "Roberto, o primeiro marido de mãezinha. ",
+        "answerB": "Doutor Francis, o analista.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, depois da saída de Ana Clara, ela chega no pensionato",
+        "answerA": "lúcida.",
+        "answerB": "delirando. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara chega no pensionato ",
+        "answerA": "todo suja, com manchas roxas no corpo. ",
+        "answerB": "toda arrumada, pronta para a festa.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, a linguagem de Lia é ",
+        "answerA": "romântica, cheia de palavras cultas.",
+        "answerB": "engajada, com palavras de ação.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara chega no pensionato e diz que ",
+        "answerA": "Max, seu namorado, sumiu.",
+        "answerB": "Miguel, seu namorado, morreu.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara chega no pensionato e diz a Lorena que agora se chama",
+        "answerA": "Ana Escura.",
+        "answerB": "Ana Bacante.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Ana Clara deita e dorme, mas Lorena vê que a camisa de Ana Clara",
+        "answerA": "está totalmente limpa.",
+        "answerB": "está suja de sangue.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena pensa em",
+        "answerA": "Fabrizio, que se envolveu com uma colega de faculdade.",
+        "answerB": "Max, que se envolveu com a mãe, a mãezinha.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, enquanto Ana Clara está dormindo no quarto de Lorena, quem chega é",
+        "answerA": "Lia.",
+        "answerB": "Max.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lia vai ter que acordar cedo porque",
+        "answerA": "irá embarcar para o Chile.",
+        "answerB": "irá embarcar para a Argélia.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, qual o conselho que Lia dá para Lorena quanto a M.N.?",
+        "answerA": "O conselho de esquecê-lo, pois estão fora de sintonia.",
+        "answerB": "O conselho de que ela deve insistir no romance.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, surge a notícia de que ",
+        "answerA": "Ana Clara apenas desmaiou.",
+        "answerB": "Ana Clara está morta. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, acham que Ana Clara teve ",
+        "answerA": "apenas um desmaio normal.",
+        "answerB": "uma síncope por causa da overdose.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lorena e Lia se desesperam quanto à morte de Ana Clara, e sabem que ela ",
+        "answerA": "não tinha nenhum parente, ninguém no mundo.",
+        "answerB": "tinha muitos amigos e parentes. ",
+        "correctAnswer": "A"
+        },
+
+
+
+        {
+        "question":  "Em As meninas, Ana Clara só tinha como amigas ",
+        "answerA": "a mãezinha e Madre Alix.",
+        "answerB": "as freiras, Lia e Lorena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, Lia e Lorena arrumam Ana Clara,",
+        "answerA": "colocam-na no carro e abandonam-na num banco de praça.",
+        "answerB": "colocam-na no quarto dela e avisam as freiras sobre a morte.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, Lorena e Lia têm a ideia de que vão pensar que Ana Clara",
+        "answerA": "foi para o pensionato e acabou dormindo muito.",
+        "answerB": "saiu da festa e foi até o banco da praça, onde ficou por lá. ",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, no final há a ",
+        "answerA": "separação das três meninas.",
+        "answerB": "união das três meninas.",
+        "correctAnswer": "A"
+        },
+        {
+        "question":  "Em As meninas, no final da obra,",
+        "answerA": "Lia vai viajar para a Irlanda atrás de Max, Lorena dá a entender que vai ficar no pensionato, enquanto que Ana Clara está dormindo.",
+        "answerB": "Lia vai viajar para a Argélia atrás de Miguel, Lorena dá a entender que vai morar de novo com a mãe, enquanto que Ana Clara está morta.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, vemos que a personagem que predomina na obra é",
+        "answerA": "Ana Clara.",
+        "answerB": "Lorena.",
+        "correctAnswer": "B"
+        },
+        {
+        "question":  "Em As meninas, o único momento em que as três personagens se encontram fisicamente ",
+        "answerA": "é quando Ana Clara está morta.",
+        "answerB": "é quando as três brigam na faculdade de Medicina.",
+        "correctAnswer": "A"
+        }
+    ]
+}
